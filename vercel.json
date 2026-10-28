@@ -1,0 +1,3881 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "muneezahmed.com"
+        }
+      ],
+      "destination": "https://www.muneezahmed.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-digital-marketer",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/content-marketing-expert",
+      "destination": "/dubai/content-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-content-marketing-expert",
+      "destination": "/dubai/content-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-digital-marketing-specialist-in-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/best-digital-marketing-specialist-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelancer-website-designer",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-web-developer",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-google-ads",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-seo",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-marketer",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-marketing-services",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-developer",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-website-developer",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/google-ads-freelancer",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-front-end-developer",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-marketing-consultant",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-digital-marketing-consultant",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-digital-marketing-expert",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-and-consulting",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/search-engine-optimisation-consulting",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/b2b-marketing-consultant",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-consultants",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/paid-search-consultant",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-media-consultant",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-consultant",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-consulting-company",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-advertising-consultant",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/paid-media-consultant",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-consulting-services",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/independent-digital-marketing-consultant",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-and-seo-expert",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/internet-marketing-consultants",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-consulting-agency",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-consultant-for-small-business",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-strategy-consulting",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/certified-digital-marketing-expert",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-jobs-dubai",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-company-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-agency-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-agency-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-advertising-in-dubai",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/smm-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-through-social-media",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-specialist",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-services-in-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-services-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-services-in-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-services-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-services",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-management-in-dubai",
+      "destination": "/dubai/social-media-management",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-management-dubai",
+      "destination": "/dubai/social-media-management",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-management-company-dubai",
+      "destination": "/dubai/social-media-management",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-management-company",
+      "destination": "/dubai/social-media-management",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-management-companies-in-dubai",
+      "destination": "/dubai/social-media-management",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-company-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-campaigns",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-advertising-campaign",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-advertising-dubai",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-ad-campaigns",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/facebook-ad",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-mktg",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-media-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-as-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-and-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-company-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-agency-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-agency",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketing-company-in-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketing-agency-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-services-in-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-services-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/dubai-digital-marketing-companies",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-courses-in-dubai",
+      "destination": "/dubai/digital-marketing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-advertising-companies-in-dubai",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-digital-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-and-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-and-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-mktg",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-is-what",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/a-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-and-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-services",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/specialist-in-digital-marketing",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/services-for-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/near-me-digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/media-marketing-agency",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/media-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/media-and-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/media-agency-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-specialist",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-company-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-company",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-content-marketing",
+      "destination": "/dubai/content-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-to-companies",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-for-seo",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-research",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/marketing-en-social-media",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-and-marketing-companies",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-and-advertising",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-digital-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-agency-dubai",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-online-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/online-marketing-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketer-in-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/search-engine-marketing-dubai",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/search-engine-marketing-and-seo",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/search-engine-marketing-and-search-engine-optimization",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/search-engine-optimization-company",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-marketing",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-for-digital-marketing",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-and-sem-marketing",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-and-search-engine-marketing",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-sem",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-sem-marketing",
+      "destination": "/dubai/search-engine-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/seo-marketing-services",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/pay-per-click-campaign",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/ppc-in-digital-marketing",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/pay-per-click-in-digital-marketing",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/performance-marketing-agency-dubai",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/performance-marketing-company",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/targeted-marketing",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/target-audience",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-design-company-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-design-company-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-design-websites",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-design-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-design-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-design-firms",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-design-firms",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-creator-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-designers-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-design-agency-in-dubai",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/companies-that-design-websites",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-design-company-websites",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-development-company-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-development-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-developer-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-development-company-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-development-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-development-agency-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/web-development-agency-in-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-development-agency-in-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/website-development-agency-dubai",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-dubai",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-position",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-digital",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-what-is",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-company",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/social-media-marketing-agency",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketing-consultant-in-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-expert-in-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketing-freelancer-in-dubai",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/digital-marketing-freelancer-in-uae",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketer-in-uae",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/freelance-digital-marketing-strategist-in-dubai",
+      "destination": "/dubai/digital-marketing-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/top-digital-marketing-expert-in-dubai",
+      "destination": "/dubai/digital-marketing-specialist",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-performance-marketing-specialist-in-dubai",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai",
+      "destination": "/dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/award",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/:path*",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/:slug*",
+      "destination": "/dubai",
+      "permanent": true
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/terms-and-conditions",
+      "destination": "/terms",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/dubai",
+      "permanent": false
+    },
+    {
+      "source": "/portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/book-a-meeting",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/technical-seo",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/performance-marketing-seo",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/services/digital-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/performance-marketing",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/lead-generation",
+      "destination": "/dubai/ai-sales-automation",
+      "permanent": true
+    },
+    {
+      "source": "/services/paid-advertising",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/services/google-ads",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/services/ppc-management",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/services/facebook-ads",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/services/instagram-ads",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/services/linkedin-ads",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/tiktok-ads",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/services/snapchat-ads",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/services/youtube-ads",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/services/pinterest-ads",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/services/social-media-ads",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/services/seo",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/services/conversion-rate-optimization",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/landing-page-optimization",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/services/ab-testing",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/funnel-optimization",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/analytics",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/google-analytics",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/conversion-tracking",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/services/email-marketing",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/services/marketing-automation",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/services/whatsapp-marketing",
+      "destination": "/dubai/whatsapp-ai-chatbot",
+      "permanent": true
+    },
+    {
+      "source": "/services/website-development",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/services/shopify-development",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/services/wordpress-development",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/industries/ecommerce",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": true
+    },
+    {
+      "source": "/industries/education",
+      "destination": "/dubai/digital-marketing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/industries/fintech",
+      "destination": "/dubai/ai-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/industries/healthcare",
+      "destination": "/dubai/ai-for-healthcare",
+      "permanent": true
+    },
+    {
+      "source": "/industries/real-estate",
+      "destination": "/dubai/ai-for-real-estate",
+      "permanent": true
+    },
+    {
+      "source": "/industries/saas",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/industries/travel-hospitality",
+      "destination": "/dubai/ai-agents",
+      "permanent": true
+    },
+    {
+      "source": "/industries/fashion-beauty",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/industries/food-beverage",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/industries/automotive",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/industries/gaming",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/industries/professional-services",
+      "destination": "/dubai/ai-business-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/industries/telecom",
+      "destination": "/dubai/ai-customer-service",
+      "permanent": true
+    },
+    {
+      "source": "/industries/manufacturing",
+      "destination": "/dubai/custom-erp-development",
+      "permanent": true
+    },
+    {
+      "source": "/industries/non-profit",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/case-studies/atlantis-hospitality",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/case-studies/emirates-digital-bank",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/case-studies/university-lead-gen",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ecommerce-marketing-guide-dubai-2025",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": false
+    },
+    {
+      "source": "/blog/google-ads-mastery-complete-guide-2025",
+      "destination": "/dubai/google-ads",
+      "permanent": false
+    },
+    {
+      "source": "/blog/facebook-instagram-advertising-strategy-guide",
+      "destination": "/dubai/facebook-ads",
+      "permanent": false
+    },
+    {
+      "source": "/blog/conversion-rate-optimization-complete-guide",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/fintech-marketing-strategies-dubai-2025",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/linkedin-advertising-b2b-lead-generation",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/healthcare-marketing-guide-patient-acquisition",
+      "destination": "/dubai/ai-for-healthcare",
+      "permanent": false
+    },
+    {
+      "source": "/blog/real-estate-marketing-dubai-luxury-properties",
+      "destination": "/dubai/ai-for-real-estate",
+      "permanent": false
+    },
+    {
+      "source": "/blog/saas-marketing-complete-strategy-guide-2025",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/education-marketing-online-course-promotion",
+      "destination": "/dubai/digital-marketing-courses",
+      "permanent": false
+    },
+    {
+      "source": "/blog/tiktok-advertising-guide-business-growth",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/youtube-advertising-video-marketing-strategy",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/email-marketing-automation-customer-retention",
+      "destination": "/dubai/ai-automation",
+      "permanent": false
+    },
+    {
+      "source": "/blog/seo-strategy-guide-local-business-dubai",
+      "destination": "/dubai/seo",
+      "permanent": false
+    },
+    {
+      "source": "/blog/snapchat-advertising-young-audience-engagement",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/pinterest-advertising-visual-marketing-guide",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/google-analytics-conversion-tracking-guide",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/website-development-conversion-optimization-2025",
+      "destination": "/dubai/website-development",
+      "permanent": false
+    },
+    {
+      "source": "/blog/landing-page-optimization-conversion-rates",
+      "destination": "/dubai/website-development",
+      "permanent": false
+    },
+    {
+      "source": "/blog/ab-testing-complete-guide-optimization",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/funnel-optimization-sales-conversion",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/whatsapp-marketing-business-communication",
+      "destination": "/dubai/whatsapp-ai-chatbot",
+      "permanent": false
+    },
+    {
+      "source": "/blog/paid-advertising-complete-strategy-guide",
+      "destination": "/dubai/google-ads",
+      "permanent": false
+    },
+    {
+      "source": "/blog/social-media-advertising-platform-comparison",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/digital-marketing-trends-2025-uae",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/mobile-marketing-app-promotion-strategies",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/content-marketing-strategy-business-growth",
+      "destination": "/dubai/content-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/shopify-development-ecommerce-optimization",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": false
+    },
+    {
+      "source": "/blog/wordpress-development-business-websites",
+      "destination": "/dubai/website-development",
+      "permanent": false
+    },
+    {
+      "source": "/blog/fashion-beauty-marketing-social-media-influence",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": false
+    },
+    {
+      "source": "/blog/food-beverage-marketing-restaurant-growth",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": false
+    },
+    {
+      "source": "/blog/automotive-marketing-car-dealership-strategies",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/gaming-entertainment-marketing-audience-engagement",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/professional-services-marketing-b2b-strategies",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/telecom-marketing-digital-transformation",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/manufacturing-b2b-marketing-industrial-sector",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/nonprofit-marketing-fundraising-donor-engagement",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/travel-hospitality-marketing-post-pandemic",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/influencer-marketing-roi-measurement",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/lead-generation-b2b-sales-funnel",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/performance-marketing-data-driven-strategies",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/ppc-management-optimization-guide",
+      "destination": "/dubai/google-ads",
+      "permanent": false
+    },
+    {
+      "source": "/blog/customer-journey-mapping-optimization",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/marketing-attribution-measurement-models",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/cross-platform-advertising-integration",
+      "destination": "/dubai/performance-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/blog/voice-search-optimization-local-seo",
+      "destination": "/dubai/seo",
+      "permanent": false
+    },
+    {
+      "source": "/blog/marketing-automation-workflow-optimization",
+      "destination": "/dubai/ai-automation",
+      "permanent": false
+    },
+    {
+      "source": "/blog/video-marketing-engagement-strategies",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": false
+    },
+    {
+      "source": "/blog/remarketing-retargeting-customer-recovery",
+      "destination": "/dubai/google-ads",
+      "permanent": false
+    },
+    {
+      "source": "/blog/brand-building-digital-presence",
+      "destination": "/dubai/content-marketing",
+      "permanent": false
+    },
+    {
+      "source": "/awards/best-performance-marketing-specialist-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/awards/digital-marketing-specialist-dubai-uae",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/awards/google-ads-partner-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/awards/meta-marketing-partner-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/awards/performance-marketing-award-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio/best-digital-marketer",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio/netflix-style",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/portfolio/inspiring-digital-marketing",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/digital-marketing-expert",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-digital-marketing-expert",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/performance-marketing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-performance-marketing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/lead-generation-expert",
+      "destination": "/dubai/ai-sales-automation",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-lead-generation-expert",
+      "destination": "/dubai/ai-sales-automation",
+      "permanent": true
+    },
+    {
+      "source": "/paid-ads-expert",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-paid-ads-expert",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/google-ads-expert",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-google-ads-expert",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/ppc-expert",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-ppc-expert",
+      "destination": "/dubai/ppc",
+      "permanent": true
+    },
+    {
+      "source": "/facebook-ads-expert",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-facebook-ads-expert",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/instagram-advertising-expert",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-instagram-advertising-expert",
+      "destination": "/dubai/facebook-ads",
+      "permanent": true
+    },
+    {
+      "source": "/linkedin-ads-expert",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-linkedin-ads-expert",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/tiktok-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-tiktok-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/snapchat-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-snapchat-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/youtube-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-youtube-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/pinterest-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-pinterest-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/social-media-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-social-media-ads-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/seo-expert",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-seo-expert",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/cro-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-cro-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/landing-page-optimization-expert",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-landing-page-optimization-expert",
+      "destination": "/dubai/web-design",
+      "permanent": true
+    },
+    {
+      "source": "/ab-testing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-ab-testing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/funnel-optimization-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-funnel-optimization-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/analytics-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-analytics-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/google-analytics-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-google-analytics-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/conversion-tracking-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-conversion-tracking-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/email-marketing-expert",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-email-marketing-expert",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/marketing-automation-expert",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-marketing-automation-expert",
+      "destination": "/dubai/ai-automation",
+      "permanent": true
+    },
+    {
+      "source": "/whatsapp-marketing-expert",
+      "destination": "/dubai/whatsapp-ai-chatbot",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-whatsapp-marketing-expert",
+      "destination": "/dubai/whatsapp-ai-chatbot",
+      "permanent": true
+    },
+    {
+      "source": "/website-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-website-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/shopify-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-shopify-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/wordpress-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-wordpress-development-expert",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/ecommerce-marketing",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-ecommerce-marketer",
+      "destination": "/dubai/ai-for-ecommerce",
+      "permanent": true
+    },
+    {
+      "source": "/education-marketing",
+      "destination": "/dubai/digital-marketing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-education-marketer",
+      "destination": "/dubai/digital-marketing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/fintech-marketing",
+      "destination": "/dubai/ai-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-fintech-marketer",
+      "destination": "/dubai/ai-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/healthcare-marketing",
+      "destination": "/dubai/ai-for-healthcare",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-healthcare-marketer",
+      "destination": "/dubai/ai-for-healthcare",
+      "permanent": true
+    },
+    {
+      "source": "/real-estate-marketing",
+      "destination": "/dubai/ai-for-real-estate",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-real-estate-marketer",
+      "destination": "/dubai/ai-for-real-estate",
+      "permanent": true
+    },
+    {
+      "source": "/saas-marketing",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-saas-marketer",
+      "destination": "/dubai/b2b-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/travel-marketing",
+      "destination": "/dubai/ai-agents",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-travel-marketer",
+      "destination": "/dubai/ai-agents",
+      "permanent": true
+    },
+    {
+      "source": "/fashion-marketing",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-fashion-marketer",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/food-beverage-marketing",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-food-beverage-marketer",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/automotive-marketing",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-automotive-marketer",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/gaming-marketing",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-gaming-marketer",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/professional-services-marketing",
+      "destination": "/dubai/ai-business-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-professional-services-marketer",
+      "destination": "/dubai/ai-business-consultant",
+      "permanent": true
+    },
+    {
+      "source": "/telecom-marketing",
+      "destination": "/dubai/ai-customer-service",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-telecom-marketer",
+      "destination": "/dubai/ai-customer-service",
+      "permanent": true
+    },
+    {
+      "source": "/manufacturing-marketing",
+      "destination": "/dubai/custom-erp-development",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-manufacturing-marketer",
+      "destination": "/dubai/custom-erp-development",
+      "permanent": true
+    },
+    {
+      "source": "/non-profit-marketing",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-nonprofit-marketer",
+      "destination": "/dubai/digital-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-influencer-marketing-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/video-marketing-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/best-mobile-marketing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/mobile-marketing-expert",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/fashion-marketing-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/food-beverage-marketing-expert",
+      "destination": "/dubai/social-media-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/automotive-marketing-expert",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/gaming-marketing-expert",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/best-digital-marketer-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/best-digital-marketer-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/netflix-style-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/netflix-style-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/inspiring-digital-marketing-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/dubai/inspiring-digital-marketing-portfolio",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/award/best-performance-marketing-specialist-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/award/digital-marketing-specialist-dubai-uae",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/award/google-ads-partner-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/award/meta-marketing-partner-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/award/performance-marketing-award-dubai-2025",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/al-barsha-fitness-centre-dubai-lead-generation",
+      "destination": "/case-studies/al-barsha-fitness",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/atlantis-the-palm-hospitality-digital-campaigns",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/compass-jewelry-online-store-conversion-optimization",
+      "destination": "/case-studies/compass-jewelry",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/dubai-smile-dental-clinic-patient-acquisition",
+      "destination": "/case-studies/dubai-smile-dental",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/emirates-digital-bank-customer-acquisition",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/flavored-pb-co-shopify-ecommerce-growth",
+      "destination": "/case-studies/flavored-pb-co",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/house-of-jersey-sports-merchandise-ecommerce",
+      "destination": "/case-studies/house-of-jersey",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/house-of-nutrition-supplement-ecommerce-growth",
+      "destination": "/case-studies/house-of-nutrition",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/ielts-coaching-facebook-lead-generation",
+      "destination": "/case-studies/ielts-facebook",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/ielts-coaching-google-ads-lead-generation",
+      "destination": "/case-studies/ielts-google",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/jarvis-invest-fintech-user-acquisition",
+      "destination": "/case-studies/jarvis-invest",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/kaye-co-luxury-fashion-instagram-ads",
+      "destination": "/case-studies/kaye-co",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/lana-life-care-healthcare-lead-generation",
+      "destination": "/case-studies/lana-life-care",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/lark-ellen-farm-organic-products-ecommerce",
+      "destination": "/case-studies/lark-ellen-farm",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/multi-course-institute-education-lead-generation",
+      "destination": "/case-studies/multi-course-institute",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/sassind-melbourne-real-estate-lead-generation",
+      "destination": "/case-studies/sassind-melbourne",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/university-education-qualification-lead-generation",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/yallatoys-toy-store-ecommerce-optimization",
+      "destination": "/case-studies/yallatoys",
+      "permanent": true
+    },
+    {
+      "source": "/blog/paid-advertising-complete-guide-ppc-optimization",
+      "destination": "/dubai/google-ads",
+      "permanent": true
+    },
+    {
+      "source": "/blog/digital-marketing-trends-2025-future-strategies",
+      "destination": "/dubai/performance-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/content-marketing-strategy-guide",
+      "destination": "/dubai/content-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mobile-marketing-strategy-complete-guide",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whatsapp-marketing-business-messaging-guide",
+      "destination": "/dubai/whatsapp-ai-chatbot",
+      "permanent": true
+    },
+    {
+      "source": "/blog/social-media-advertising-complete-guide",
+      "destination": "/dubai/social-media-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/schedule-a-30-minutes-meeting-with-muneez",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/website-development-offer",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/website-development-offer-dubai-2025",
+      "destination": "/dubai/website-development",
+      "permanent": true
+    },
+    {
+      "source": "/technical-seo-audit-dubai-free",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/performance-marketing-technical-seo-dubai",
+      "destination": "/dubai/seo",
+      "permanent": true
+    },
+    {
+      "source": "/72-hour-marketing-roadmap-dubai-free",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/case-study/:path*",
+      "destination": "/case-studies",
+      "permanent": true
+    },
+    {
+      "source": "/award/:slug*",
+      "destination": "/awards",
+      "permanent": true
+    },
+    {
+      "source": "/thankyoupage",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/thank-you",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/campus-ambassador-program-dubai",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/proposal-mycampus",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/campus-proposal",
+      "destination": "/",
+      "permanent": false
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/chicago/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/austin/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/boston/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/canada/vancouver/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/france/paris/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/berlin/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/netherlands/amsterdam/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/ireland/dublin/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/switzerland/zurich/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/spain/madrid/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/italy/milan/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/sweden/stockholm/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/hong-kong/hong-kong/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/japan/tokyo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/egypt/cairo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/nigeria/lagos/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/south-africa/johannesburg/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/kenya/nairobi/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/seattle/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/dallas/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/houston/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/atlanta/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/washington-dc/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/canada/montreal/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/munich/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/frankfurt/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/portugal/lisbon/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/spain/barcelona/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/turkiye/istanbul/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/pakistan/karachi/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/pakistan/lahore/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/kolkata/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/ahmedabad/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/malaysia/kuala-lumpur/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/thailand/bangkok/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/indonesia/jakarta/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/new-zealand/auckland/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/south-africa/cape-town/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/switzerland/geneva/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/noida/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/las-vegas/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/denver/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/canada/calgary/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/mexico/mexico-city/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/brazil/sao-paulo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/argentina/buenos-aires/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/colombia/bogota/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/chile/santiago/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/birmingham/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/edinburgh/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/hamburg/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/belgium/brussels/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/austria/vienna/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/denmark/copenhagen/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/norway/oslo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/finland/helsinki/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/poland/warsaw/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/czech-republic/prague/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/greece/athens/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/jordan/amman/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/lebanon/beirut/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/bangladesh/dhaka/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/sri-lanka/colombo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/jaipur/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/chandigarh/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/vietnam/ho-chi-minh-city/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/philippines/manila/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/south-korea/seoul/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/china/shanghai/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/taiwan/taipei/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/australia/brisbane/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/australia/perth/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/morocco/casablanca/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/ghana/accra/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/rwanda/kigali/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/philadelphia/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/phoenix/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/san-diego/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/san-jose/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/orlando/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/tampa/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/nashville/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/charlotte/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/minneapolis/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/detroit/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/portland/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/salt-lake-city/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/raleigh/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-states/honolulu/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/canada/ottawa/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/canada/edmonton/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/mexico/monterrey/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/mexico/guadalajara/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/peru/lima/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/brazil/rio-de-janeiro/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/panama/panama-city/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/costa-rica/san-jose/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/uruguay/montevideo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/dominican-republic/santo-domingo/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/leeds/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/glasgow/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/bristol/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/liverpool/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-kingdom/cambridge/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/ireland/cork/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/france/lyon/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/france/marseille/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/france/nice/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/cologne/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/dusseldorf/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/germany/stuttgart/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/netherlands/rotterdam/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/netherlands/the-hague/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/netherlands/eindhoven/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/switzerland/basel/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/luxembourg/luxembourg-city/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/italy/rome/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/italy/turin/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/spain/valencia/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/spain/malaga/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/portugal/porto/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/poland/krakow/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/hungary/budapest/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/romania/bucharest/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/bulgaria/sofia/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/serbia/belgrade/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/croatia/zagreb/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/estonia/tallinn/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/latvia/riga/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/lithuania/vilnius/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/cyprus/limassol/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/malta/valletta/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/iceland/reykjavik/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/turkiye/ankara/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/georgia/tbilisi/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/azerbaijan/baku/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/kazakhstan/almaty/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/uzbekistan/tashkent/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/israel/tel-aviv/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/iraq/erbil/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/saudi-arabia/mecca/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/saudi-arabia/medina/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/united-arab-emirates/al-ain/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/oman/salalah/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/qatar/al-wakrah/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/indore/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/lucknow/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/coimbatore/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/thiruvananthapuram/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/visakhapatnam/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/nagpur/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/surat/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/goa/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/india/bhubaneswar/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/nepal/kathmandu/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/maldives/male/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/pakistan/islamabad/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/singapore/jurong/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/malaysia/penang/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/thailand/phuket/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/vietnam/hanoi/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/indonesia/bali/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/philippines/cebu/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/china/shenzhen/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/china/beijing/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/china/guangzhou/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/japan/osaka/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/south-korea/busan/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/australia/adelaide/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/australia/gold-coast/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/australia/canberra/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/new-zealand/wellington/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/new-zealand/christchurch/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/egypt/alexandria/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/tunisia/tunis/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/algeria/algiers/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/morocco/marrakech/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/morocco/rabat/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/senegal/dakar/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/cote-d-ivoire/abidjan/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/nigeria/abuja/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/ethiopia/addis-ababa/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/tanzania/dar-es-salaam/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/uganda/kampala/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/mauritius/port-louis/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/south-africa/durban/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/zambia/lusaka/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/botswana/gaborone/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/angola/luanda/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    }
+  ]
+}
