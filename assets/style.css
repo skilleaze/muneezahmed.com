@@ -66,3 +66,15 @@ a.card{color:var(--fg)}a.card:hover{border-color:var(--p50);transform:translateY
 .field select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px;background-repeat:no-repeat}
 .field select option{background:var(--card);color:var(--fg)}
 @media(max-width:600px){.sec{padding:3.25rem 0}.trust{grid-template-columns:1fr 1fr 1fr;gap:.5rem}.trust strong{font-size:1.2rem}.cmp{grid-template-columns:1fr}}
+
+.rv{opacity:0;transform:translateY(28px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1)}.rv.in{opacity:1;transform:none}
+.hero .pill,.hero .h1,.hero .lead,.hero .row,.hero .trust,.hero .profile,.hero .crumbs{animation:heroIn .8s cubic-bezier(.2,.7,.2,1) both}
+.hero .h1{animation-delay:.08s}.hero .lead{animation-delay:.16s}.hero .row{animation-delay:.24s}.hero .trust{animation-delay:.32s}.hero .profile{animation-delay:.2s}
+@keyframes heroIn{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+.glow{animation:glowFloat 12s ease-in-out infinite alternate}@keyframes glowFloat{from{transform:translate(0,0) scale(1)}to{transform:translate(-60px,40px) scale(1.15)}}
+.card{will-change:transform}.card:hover{box-shadow:0 12px 30px -12px var(--glow)}
+.btn{position:relative;overflow:hidden}.btn-p:active,.btn-o:active{transform:scale(.98)}
+.ico{transition:transform .3s}.card:hover .ico{transform:scale(1.08) rotate(-3deg)}
+.nav{transition:box-shadow .3s}.nav.scrolled{box-shadow:0 8px 24px -16px rgba(0,0,0,.6)}
+.progress{position:fixed;top:0;left:0;height:2px;background:var(--primary);z-index:60;width:0;transition:width .1s linear}
+@media (prefers-reduced-motion:reduce){.rv,.hero *{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}.glow{animation:none}}
