@@ -31,7 +31,10 @@ Submit `https://www.muneezahmed.com/sitemap-index.xml`.
 - Google Analytics: replace `G-XXXXXXXXXX` in every page head with your Measurement ID (find & replace across the folder).
 - Old blog, case-study, service and industry pages are temporarily redirected (non-permanent) to the closest new page until they are rebuilt.
 
-## Releasing more cities
+## Cities (all released)
+All 219 cities are now live and indexable; sitemap-index.xml already lists all three sitemaps. The steps below are kept for reference only.
+
+### Previous release steps
 All 219 cities are built (219 × 9 = 1,971 city pages). Wave 1 (30 cities) is live in sitemap.xml. Waves 2 and 3 exist but send a `noindex` header so Google skips them.
 
 To release a wave:
