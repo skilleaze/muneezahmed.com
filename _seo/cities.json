@@ -1,0 +1,2192 @@
+{
+ "algeria/algiers": {
+  "country_slug": "algeria",
+  "city_slug": "algiers",
+  "city": "Algiers",
+  "country": "Algeria",
+  "offset": -3.0,
+  "industries": "energy, construction and retail",
+  "neighborhoods": "Hydra and Bab Ezzouar",
+  "why": "Algiers businesses are expanding digital channels to a large domestic market."
+ },
+ "angola/luanda": {
+  "country_slug": "angola",
+  "city_slug": "luanda",
+  "city": "Luanda",
+  "country": "Angola",
+  "offset": -3.0,
+  "industries": "oil and gas, construction and banking",
+  "neighborhoods": "Ilha and Talatona",
+  "why": "Luanda's businesses are diversifying beyond oil."
+ },
+ "argentina/buenos-aires": {
+  "country_slug": "argentina",
+  "city_slug": "buenos-aires",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "offset": -7.0,
+  "industries": "technology, agribusiness and creative services",
+  "neighborhoods": "Puerto Madero and Palermo",
+  "why": "Buenos Aires has a strong tech talent pool and companies selling across Latin America."
+ },
+ "australia/adelaide": {
+  "country_slug": "australia",
+  "city_slug": "adelaide",
+  "city": "Adelaide",
+  "country": "Australia",
+  "offset": 5.5,
+  "industries": "defence, space and wine",
+  "neighborhoods": "CBD and Lot Fourteen",
+  "why": "Adelaide is Australia's defence and space industry hub."
+ },
+ "australia/brisbane": {
+  "country_slug": "australia",
+  "city_slug": "brisbane",
+  "city": "Brisbane",
+  "country": "Australia",
+  "offset": 6.0,
+  "industries": "construction, tourism and mining services",
+  "neighborhoods": "Fortitude Valley and South Bank",
+  "why": "Brisbane is growing fast ahead of the 2032 Olympics, with strong demand across construction and services."
+ },
+ "australia/canberra": {
+  "country_slug": "australia",
+  "city_slug": "canberra",
+  "city": "Canberra",
+  "country": "Australia",
+  "offset": 6.0,
+  "industries": "government, defence and education",
+  "neighborhoods": "Civic and Barton",
+  "why": "Canberra's public sector requires secure, compliant digital solutions."
+ },
+ "australia/gold-coast": {
+  "country_slug": "australia",
+  "city_slug": "gold-coast",
+  "city": "Gold Coast",
+  "country": "Australia",
+  "offset": 6.0,
+  "industries": "tourism, construction and education",
+  "neighborhoods": "Surfers Paradise and Southport",
+  "why": "Gold Coast's tourism and property sectors rely on strong online marketing."
+ },
+ "australia/melbourne": {
+  "country_slug": "australia",
+  "city_slug": "melbourne",
+  "city": "Melbourne",
+  "country": "Australia",
+  "offset": 6.0,
+  "industries": "e-commerce, fashion and education",
+  "neighborhoods": "CBD and Richmond",
+  "why": "Melbourne has a strong D2C and fashion scene, where performance marketing results translate directly into growth."
+ },
+ "australia/perth": {
+  "country_slug": "australia",
+  "city_slug": "perth",
+  "city": "Perth",
+  "country": "Australia",
+  "offset": 4.0,
+  "industries": "mining, energy and agriculture",
+  "neighborhoods": "CBD and West Perth",
+  "why": "Perth shares a time zone with Singapore and is the base for Australia's resources sector."
+ },
+ "australia/sydney": {
+  "country_slug": "australia",
+  "city_slug": "sydney",
+  "city": "Sydney",
+  "country": "Australia",
+  "offset": 6.0,
+  "industries": "financial services, real estate and e-commerce",
+  "neighborhoods": "CBD and North Sydney",
+  "why": "Sydney businesses face high labour costs, making AI automation and efficient marketing especially attractive."
+ },
+ "austria/vienna": {
+  "country_slug": "austria",
+  "city_slug": "vienna",
+  "city": "Vienna",
+  "country": "Austria",
+  "offset": -3.0,
+  "industries": "professional services, tourism and technology",
+  "neighborhoods": "Innere Stadt and Donau City",
+  "why": "Vienna is a gateway to Central and Eastern Europe for many international companies."
+ },
+ "azerbaijan/baku": {
+  "country_slug": "azerbaijan",
+  "city_slug": "baku",
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "offset": 0.0,
+  "industries": "energy, construction and tourism",
+  "neighborhoods": "White City and Nizami",
+  "why": "Baku shares Dubai's time zone and is diversifying beyond energy."
+ },
+ "bahrain/manama": {
+  "country_slug": "bahrain",
+  "city_slug": "manama",
+  "city": "Manama",
+  "country": "Bahrain",
+  "offset": -1.0,
+  "industries": "fintech, banking and logistics",
+  "neighborhoods": "Bahrain Bay and Seef",
+  "why": "Manama is a regional fintech hub with a regulatory sandbox that encourages innovation in AI and automation."
+ },
+ "bangladesh/dhaka": {
+  "country_slug": "bangladesh",
+  "city_slug": "dhaka",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "offset": 2.0,
+  "industries": "garments, telecommunications and fintech",
+  "neighborhoods": "Gulshan and Banani",
+  "why": "Dhaka's garment and fintech sectors are scaling quickly with mobile-first customers."
+ },
+ "belgium/brussels": {
+  "country_slug": "belgium",
+  "city_slug": "brussels",
+  "city": "Brussels",
+  "country": "Belgium",
+  "offset": -3.0,
+  "industries": "public affairs, professional services and technology",
+  "neighborhoods": "European Quarter and Louise",
+  "why": "Brussels hosts EU institutions and international organisations, making multilingual, compliant AI essential."
+ },
+ "botswana/gaborone": {
+  "country_slug": "botswana",
+  "city_slug": "gaborone",
+  "city": "Gaborone",
+  "country": "Botswana",
+  "offset": -2.0,
+  "industries": "diamonds, financial services and government",
+  "neighborhoods": "CBD and Fairgrounds",
+  "why": "Gaborone is a stable, well-governed business centre in southern Africa."
+ },
+ "brazil/rio-de-janeiro": {
+  "country_slug": "brazil",
+  "city_slug": "rio-de-janeiro",
+  "city": "Rio de Janeiro",
+  "country": "Brazil",
+  "offset": -7.0,
+  "industries": "energy, tourism and media",
+  "neighborhoods": "Centro and Barra da Tijuca",
+  "why": "Rio de Janeiro combines energy headquarters with tourism and media."
+ },
+ "brazil/sao-paulo": {
+  "country_slug": "brazil",
+  "city_slug": "sao-paulo",
+  "city": "São Paulo",
+  "country": "Brazil",
+  "offset": -7.0,
+  "industries": "financial services, retail and agribusiness",
+  "neighborhoods": "Avenida Paulista and Faria Lima",
+  "why": "São Paulo is the economic engine of Latin America, with a huge, highly digital consumer base."
+ },
+ "bulgaria/sofia": {
+  "country_slug": "bulgaria",
+  "city_slug": "sofia",
+  "city": "Sofia",
+  "country": "Bulgaria",
+  "offset": -2.0,
+  "industries": "IT services, outsourcing and fintech",
+  "neighborhoods": "Business Park Sofia and Lozenets",
+  "why": "Sofia is a cost-effective tech hub serving clients across Europe."
+ },
+ "canada/calgary": {
+  "country_slug": "canada",
+  "city_slug": "calgary",
+  "city": "Calgary",
+  "country": "Canada",
+  "offset": -11.0,
+  "industries": "energy, agriculture and technology",
+  "neighborhoods": "Beltline and Downtown Calgary",
+  "why": "Calgary businesses are diversifying beyond energy, investing in technology and operational efficiency."
+ },
+ "canada/edmonton": {
+  "country_slug": "canada",
+  "city_slug": "edmonton",
+  "city": "Edmonton",
+  "country": "Canada",
+  "offset": -11.0,
+  "industries": "energy, AI research and construction",
+  "neighborhoods": "Downtown Edmonton and Whyte Avenue",
+  "why": "Edmonton is a recognised AI research centre alongside its energy industry."
+ },
+ "canada/montreal": {
+  "country_slug": "canada",
+  "city_slug": "montreal",
+  "city": "Montreal",
+  "country": "Canada",
+  "offset": -9.0,
+  "industries": "AI research, gaming and aerospace",
+  "neighborhoods": "Downtown Montreal and Mile End",
+  "why": "Montreal is a global AI research centre, with bilingual French and English markets."
+ },
+ "canada/ottawa": {
+  "country_slug": "canada",
+  "city_slug": "ottawa",
+  "city": "Ottawa",
+  "country": "Canada",
+  "offset": -9.0,
+  "industries": "government, technology and telecommunications",
+  "neighborhoods": "Centretown and Kanata",
+  "why": "Ottawa's government and tech sectors require bilingual, security-conscious solutions."
+ },
+ "canada/toronto": {
+  "country_slug": "canada",
+  "city_slug": "toronto",
+  "city": "Toronto",
+  "country": "Canada",
+  "offset": -9.0,
+  "industries": "financial services, technology and real estate",
+  "neighborhoods": "Financial District and King West",
+  "why": "Toronto is Canada's business capital, with mature buyers who expect bilingual-ready, privacy-conscious solutions."
+ },
+ "canada/vancouver": {
+  "country_slug": "canada",
+  "city_slug": "vancouver",
+  "city": "Vancouver",
+  "country": "Canada",
+  "offset": -12.0,
+  "industries": "technology, real estate and tourism",
+  "neighborhoods": "Downtown Vancouver and Mount Pleasant",
+  "why": "Vancouver businesses frequently sell across North America and Asia-Pacific, making scalable automation especially valuable."
+ },
+ "chile/santiago": {
+  "country_slug": "chile",
+  "city_slug": "santiago",
+  "city": "Santiago",
+  "country": "Chile",
+  "offset": -8.0,
+  "industries": "mining, financial services and retail",
+  "neighborhoods": "Las Condes and Providencia",
+  "why": "Santiago is one of Latin America's most stable business hubs, with strong digital adoption."
+ },
+ "china/beijing": {
+  "country_slug": "china",
+  "city_slug": "beijing",
+  "city": "Beijing",
+  "country": "China",
+  "offset": 4.0,
+  "industries": "technology, government and education",
+  "neighborhoods": "Chaoyang and Zhongguancun",
+  "why": "Beijing is a leading centre for AI research and large technology firms."
+ },
+ "china/guangzhou": {
+  "country_slug": "china",
+  "city_slug": "guangzhou",
+  "city": "Guangzhou",
+  "country": "China",
+  "offset": 4.0,
+  "industries": "trade, manufacturing and e-commerce",
+  "neighborhoods": "Tianhe and Zhujiang New Town",
+  "why": "Guangzhou is a global trading city and home to the Canton Fair."
+ },
+ "china/shanghai": {
+  "country_slug": "china",
+  "city_slug": "shanghai",
+  "city": "Shanghai",
+  "country": "China",
+  "offset": 4.0,
+  "industries": "financial services, manufacturing and retail",
+  "neighborhoods": "Lujiazui and Jing'an",
+  "why": "Shanghai is mainland China's business capital, with international companies serving both local and global markets."
+ },
+ "china/shenzhen": {
+  "country_slug": "china",
+  "city_slug": "shenzhen",
+  "city": "Shenzhen",
+  "country": "China",
+  "offset": 4.0,
+  "industries": "electronics, hardware and e-commerce",
+  "neighborhoods": "Nanshan and Futian",
+  "why": "Shenzhen is the world's hardware capital with fast-moving e-commerce exporters."
+ },
+ "colombia/bogota": {
+  "country_slug": "colombia",
+  "city_slug": "bogota",
+  "city": "Bogotá",
+  "country": "Colombia",
+  "offset": -9.0,
+  "industries": "financial services, BPO and retail",
+  "neighborhoods": "Chapinero and Usaquén",
+  "why": "Bogotá's growing services and fintech sectors are adopting automation quickly."
+ },
+ "costa-rica/san-jose": {
+  "country_slug": "costa-rica",
+  "city_slug": "san-jose",
+  "city": "San José",
+  "country": "Costa Rica",
+  "offset": -10.0,
+  "industries": "shared services, medical devices and tourism",
+  "neighborhoods": "Escazú and Santa Ana",
+  "why": "San José hosts many multinational service centres and medical device firms."
+ },
+ "cote-d-ivoire/abidjan": {
+  "country_slug": "cote-d-ivoire",
+  "city_slug": "abidjan",
+  "city": "Abidjan",
+  "country": "Côte d'Ivoire",
+  "offset": -4.0,
+  "industries": "cocoa and trade, banking and telecommunications",
+  "neighborhoods": "Plateau and Cocody",
+  "why": "Abidjan is the economic capital of francophone West Africa."
+ },
+ "croatia/zagreb": {
+  "country_slug": "croatia",
+  "city_slug": "zagreb",
+  "city": "Zagreb",
+  "country": "Croatia",
+  "offset": -3.0,
+  "industries": "tourism, technology and retail",
+  "neighborhoods": "Donji Grad and Radnička",
+  "why": "Zagreb's tech sector has produced several international success stories."
+ },
+ "cyprus/limassol": {
+  "country_slug": "cyprus",
+  "city_slug": "limassol",
+  "city": "Limassol",
+  "country": "Cyprus",
+  "offset": -2.0,
+  "industries": "shipping, fintech and tourism",
+  "neighborhoods": "Seafront and Germasogeia",
+  "why": "Limassol hosts shipping, fintech and forex firms serving international markets."
+ },
+ "czech-republic/prague": {
+  "country_slug": "czech-republic",
+  "city_slug": "prague",
+  "city": "Prague",
+  "country": "Czech Republic",
+  "offset": -3.0,
+  "industries": "technology, manufacturing and tourism",
+  "neighborhoods": "Karlín and Nové Město",
+  "why": "Prague combines a strong engineering base with a growing startup scene."
+ },
+ "denmark/copenhagen": {
+  "country_slug": "denmark",
+  "city_slug": "copenhagen",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "offset": -3.0,
+  "industries": "life sciences, shipping and design",
+  "neighborhoods": "Indre By and Ørestad",
+  "why": "Copenhagen businesses are highly digital and expect thoughtful, well-designed solutions."
+ },
+ "dominican-republic/santo-domingo": {
+  "country_slug": "dominican-republic",
+  "city_slug": "santo-domingo",
+  "city": "Santo Domingo",
+  "country": "Dominican Republic",
+  "offset": -8.0,
+  "industries": "tourism, free zones and retail",
+  "neighborhoods": "Piantini and Naco",
+  "why": "Santo Domingo's tourism and free-zone businesses are expanding digital channels."
+ },
+ "egypt/alexandria": {
+  "country_slug": "egypt",
+  "city_slug": "alexandria",
+  "city": "Alexandria",
+  "country": "Egypt",
+  "offset": -2.0,
+  "industries": "logistics, manufacturing and tourism",
+  "neighborhoods": "Smouha and Stanley",
+  "why": "Alexandria is Egypt's main port and industrial city."
+ },
+ "egypt/cairo": {
+  "country_slug": "egypt",
+  "city_slug": "cairo",
+  "city": "Cairo",
+  "country": "Egypt",
+  "offset": -2.0,
+  "industries": "real estate, technology and retail",
+  "neighborhoods": "New Cairo and Zamalek",
+  "why": "Cairo has one of the fastest-growing startup ecosystems in the region, with large Arabic-speaking audiences online."
+ },
+ "estonia/tallinn": {
+  "country_slug": "estonia",
+  "city_slug": "tallinn",
+  "city": "Tallinn",
+  "country": "Estonia",
+  "offset": -2.0,
+  "industries": "technology, fintech and e-government",
+  "neighborhoods": "Ülemiste City and Kalamaja",
+  "why": "Tallinn is one of the world's most digital cities, home to many startups."
+ },
+ "ethiopia/addis-ababa": {
+  "country_slug": "ethiopia",
+  "city_slug": "addis-ababa",
+  "city": "Addis Ababa",
+  "country": "Ethiopia",
+  "offset": -1.0,
+  "industries": "aviation, manufacturing and agriculture",
+  "neighborhoods": "Bole and Kazanchis",
+  "why": "Addis Ababa is a diplomatic hub and fast-growing economy."
+ },
+ "finland/helsinki": {
+  "country_slug": "finland",
+  "city_slug": "helsinki",
+  "city": "Helsinki",
+  "country": "Finland",
+  "offset": -2.0,
+  "industries": "technology, gaming and clean tech",
+  "neighborhoods": "Kamppi and Ruoholahti",
+  "why": "Helsinki is a leading European tech hub known for gaming and engineering talent."
+ },
+ "france/lyon": {
+  "country_slug": "france",
+  "city_slug": "lyon",
+  "city": "Lyon",
+  "country": "France",
+  "offset": -3.0,
+  "industries": "life sciences, manufacturing and gastronomy",
+  "neighborhoods": "Part-Dieu and Confluence",
+  "why": "Lyon is France's second business centre, strong in life sciences and industry."
+ },
+ "france/marseille": {
+  "country_slug": "france",
+  "city_slug": "marseille",
+  "city": "Marseille",
+  "country": "France",
+  "offset": -3.0,
+  "industries": "logistics, maritime and tourism",
+  "neighborhoods": "Euroméditerranée and Joliette",
+  "why": "Marseille is France's leading port and a gateway to the Mediterranean."
+ },
+ "france/nice": {
+  "country_slug": "france",
+  "city_slug": "nice",
+  "city": "Nice",
+  "country": "France",
+  "offset": -3.0,
+  "industries": "tourism, technology and real estate",
+  "neighborhoods": "Sophia Antipolis and Promenade",
+  "why": "The Nice–Sophia Antipolis area combines luxury tourism with a major tech park."
+ },
+ "france/paris": {
+  "country_slug": "france",
+  "city_slug": "paris",
+  "city": "Paris",
+  "country": "France",
+  "offset": -3.0,
+  "industries": "luxury, fashion and technology",
+  "neighborhoods": "La Défense and Le Marais",
+  "why": "Paris brands, especially in luxury and fashion, need marketing and AI that protect a premium brand image."
+ },
+ "georgia/tbilisi": {
+  "country_slug": "georgia",
+  "city_slug": "tbilisi",
+  "city": "Tbilisi",
+  "country": "Georgia",
+  "offset": 0.0,
+  "industries": "tourism, logistics and IT services",
+  "neighborhoods": "Vake and Saburtalo",
+  "why": "Tbilisi is attracting tech companies and remote teams, sharing Dubai's time zone."
+ },
+ "germany/berlin": {
+  "country_slug": "germany",
+  "city_slug": "berlin",
+  "city": "Berlin",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "startups, technology and e-commerce",
+  "neighborhoods": "Mitte and Kreuzberg",
+  "why": "Berlin's startup ecosystem values efficient, data-driven growth and strict GDPR-compliant data practices."
+ },
+ "germany/cologne": {
+  "country_slug": "germany",
+  "city_slug": "cologne",
+  "city": "Cologne",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "media, insurance and events",
+  "neighborhoods": "MediaPark and Deutz",
+  "why": "Cologne is Germany's media capital and a major trade-fair city."
+ },
+ "germany/dusseldorf": {
+  "country_slug": "germany",
+  "city_slug": "dusseldorf",
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "fashion, telecommunications and consulting",
+  "neighborhoods": "Königsallee and MedienHafen",
+  "why": "Düsseldorf hosts many international headquarters, including a large Japanese business community."
+ },
+ "germany/frankfurt": {
+  "country_slug": "germany",
+  "city_slug": "frankfurt",
+  "city": "Frankfurt",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "banking, fintech and logistics",
+  "neighborhoods": "Bankenviertel and Westend",
+  "why": "Frankfurt is continental Europe's banking capital, where compliance shapes every AI and data project."
+ },
+ "germany/hamburg": {
+  "country_slug": "germany",
+  "city_slug": "hamburg",
+  "city": "Hamburg",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "logistics, media and e-commerce",
+  "neighborhoods": "HafenCity and St. Pauli",
+  "why": "Hamburg's port, media and e-commerce businesses benefit strongly from automation and data systems."
+ },
+ "germany/munich": {
+  "country_slug": "germany",
+  "city_slug": "munich",
+  "city": "Munich",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "automotive, insurance and technology",
+  "neighborhoods": "Maxvorstadt and Schwabing",
+  "why": "Munich's automotive and insurance leaders invest heavily in AI, with high standards for quality and data protection."
+ },
+ "germany/stuttgart": {
+  "country_slug": "germany",
+  "city_slug": "stuttgart",
+  "city": "Stuttgart",
+  "country": "Germany",
+  "offset": -3.0,
+  "industries": "automotive, engineering and manufacturing",
+  "neighborhoods": "Mitte and Vaihingen",
+  "why": "Stuttgart's automotive and engineering firms are leaders in industrial automation."
+ },
+ "ghana/accra": {
+  "country_slug": "ghana",
+  "city_slug": "accra",
+  "city": "Accra",
+  "country": "Ghana",
+  "offset": -4.0,
+  "industries": "fintech, cocoa and trade and technology",
+  "neighborhoods": "Airport City and Osu",
+  "why": "Accra is a fast-growing West African tech and fintech hub."
+ },
+ "greece/athens": {
+  "country_slug": "greece",
+  "city_slug": "athens",
+  "city": "Athens",
+  "country": "Greece",
+  "offset": -2.0,
+  "industries": "tourism, shipping and technology",
+  "neighborhoods": "Kifisia and Syntagma",
+  "why": "Athens tourism and shipping businesses are investing in digital channels and automation."
+ },
+ "hong-kong/hong-kong": {
+  "country_slug": "hong-kong",
+  "city_slug": "hong-kong",
+  "city": "Hong Kong",
+  "country": "Hong Kong",
+  "offset": 4.0,
+  "industries": "financial services, trade and retail",
+  "neighborhoods": "Central and Kowloon",
+  "why": "Hong Kong businesses operate at high speed across Asian markets, making automation and multilingual AI valuable."
+ },
+ "hungary/budapest": {
+  "country_slug": "hungary",
+  "city_slug": "budapest",
+  "city": "Budapest",
+  "country": "Hungary",
+  "offset": -3.0,
+  "industries": "automotive, shared services and technology",
+  "neighborhoods": "District V and Váci Corridor",
+  "why": "Budapest hosts many regional service centres and a strong startup scene."
+ },
+ "iceland/reykjavik": {
+  "country_slug": "iceland",
+  "city_slug": "reykjavik",
+  "city": "Reykjavik",
+  "country": "Iceland",
+  "offset": -4.0,
+  "industries": "tourism, fisheries and data centres",
+  "neighborhoods": "Miðborg and Borgartún",
+  "why": "Reykjavik's tourism businesses depend on efficient, digital guest service."
+ },
+ "india/ahmedabad": {
+  "country_slug": "india",
+  "city_slug": "ahmedabad",
+  "city": "Ahmedabad",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "textiles, pharma and trading",
+  "neighborhoods": "SG Highway and GIFT City",
+  "why": "Ahmedabad's entrepreneurial trading and manufacturing businesses benefit directly from ERP and automation."
+ },
+ "india/bangalore": {
+  "country_slug": "india",
+  "city_slug": "bangalore",
+  "city": "Bangalore",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "technology, SaaS and startups",
+  "neighborhoods": "Koramangala and Whitefield",
+  "why": "Bangalore is India's technology capital, home to thousands of startups and global capability centres adopting AI quickly."
+ },
+ "india/bhubaneswar": {
+  "country_slug": "india",
+  "city_slug": "bhubaneswar",
+  "city": "Bhubaneswar",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, education and metals",
+  "neighborhoods": "Patia and Saheed Nagar",
+  "why": "Bhubaneswar is a growing IT and education centre in eastern India."
+ },
+ "india/chandigarh": {
+  "country_slug": "india",
+  "city_slug": "chandigarh",
+  "city": "Chandigarh",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, education and healthcare",
+  "neighborhoods": "Sector 17 and IT Park",
+  "why": "Chandigarh tricity has a growing IT and education sector serving North India."
+ },
+ "india/chennai": {
+  "country_slug": "india",
+  "city_slug": "chennai",
+  "city": "Chennai",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "manufacturing, SaaS and healthcare",
+  "neighborhoods": "OMR and Guindy",
+  "why": "Chennai is a hub for SaaS companies and manufacturers, both looking to scale with leaner, automated operations."
+ },
+ "india/coimbatore": {
+  "country_slug": "india",
+  "city_slug": "coimbatore",
+  "city": "Coimbatore",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "textiles, engineering and IT services",
+  "neighborhoods": "RS Puram and Saravanampatti",
+  "why": "Coimbatore's manufacturing businesses benefit directly from ERP and automation."
+ },
+ "india/delhi": {
+  "country_slug": "india",
+  "city_slug": "delhi",
+  "city": "Delhi",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "government, e-commerce and education",
+  "neighborhoods": "Connaught Place and Gurugram",
+  "why": "Delhi NCR combines a huge consumer market with corporate hubs in Gurugram and Noida, driving demand for scalable marketing."
+ },
+ "india/goa": {
+  "country_slug": "india",
+  "city_slug": "goa",
+  "city": "Goa",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "tourism, hospitality and mining",
+  "neighborhoods": "Panaji and Margao",
+  "why": "Goa's hospitality businesses compete on online visibility and guest experience."
+ },
+ "india/gurugram": {
+  "country_slug": "india",
+  "city_slug": "gurugram",
+  "city": "Gurugram",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "corporate headquarters, consulting and startups",
+  "neighborhoods": "Cyber City and Golf Course Road",
+  "why": "Gurugram hosts hundreds of multinational and startup headquarters."
+ },
+ "india/hyderabad": {
+  "country_slug": "india",
+  "city_slug": "hyderabad",
+  "city": "Hyderabad",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "technology, pharma and healthcare",
+  "neighborhoods": "HITEC City and Gachibowli",
+  "why": "Hyderabad's tech and pharma sectors are investing in AI to improve operations and customer engagement."
+ },
+ "india/indore": {
+  "country_slug": "india",
+  "city_slug": "indore",
+  "city": "Indore",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, education and FMCG",
+  "neighborhoods": "Vijay Nagar and Super Corridor",
+  "why": "Indore is one of India's fastest-growing tier-2 business cities."
+ },
+ "india/jaipur": {
+  "country_slug": "india",
+  "city_slug": "jaipur",
+  "city": "Jaipur",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "tourism, handicrafts and e-commerce",
+  "neighborhoods": "C-Scheme and Malviya Nagar",
+  "why": "Jaipur's tourism and handicraft businesses increasingly sell online to global customers."
+ },
+ "india/kochi": {
+  "country_slug": "india",
+  "city_slug": "kochi",
+  "city": "Kochi",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, tourism and spices and trade",
+  "neighborhoods": "Infopark and MG Road",
+  "why": "Kochi has a growing IT sector and strong links with Gulf markets through the Kerala diaspora."
+ },
+ "india/kolkata": {
+  "country_slug": "india",
+  "city_slug": "kolkata",
+  "city": "Kolkata",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "manufacturing, IT services and retail",
+  "neighborhoods": "Salt Lake and Park Street",
+  "why": "Kolkata is eastern India's business hub, with traditional industries going digital."
+ },
+ "india/lucknow": {
+  "country_slug": "india",
+  "city_slug": "lucknow",
+  "city": "Lucknow",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "government, education and retail",
+  "neighborhoods": "Gomti Nagar and Hazratganj",
+  "why": "Lucknow's large consumer market is moving online quickly."
+ },
+ "india/mangalore": {
+  "country_slug": "india",
+  "city_slug": "mangalore",
+  "city": "Mangalore",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "banking, education and port trade",
+  "neighborhoods": "Hampankatta and Kadri",
+  "why": "Mangalore has deep banking roots and strong ties with Gulf markets."
+ },
+ "india/mumbai": {
+  "country_slug": "india",
+  "city_slug": "mumbai",
+  "city": "Mumbai",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "financial services, media and real estate",
+  "neighborhoods": "Bandra Kurla Complex and Lower Parel",
+  "why": "Mumbai is India's financial and media capital, where brands compete hard on digital performance and cost efficiency."
+ },
+ "india/nagpur": {
+  "country_slug": "india",
+  "city_slug": "nagpur",
+  "city": "Nagpur",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "logistics, education and mining",
+  "neighborhoods": "Sitabuldi and MIHAN",
+  "why": "Nagpur is India's geographic centre and a growing logistics hub."
+ },
+ "india/noida": {
+  "country_slug": "india",
+  "city_slug": "noida",
+  "city": "Noida",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, electronics and media",
+  "neighborhoods": "Sector 62 and Sector 18",
+  "why": "Noida hosts many IT companies and electronics manufacturers in Delhi NCR."
+ },
+ "india/pune": {
+  "country_slug": "india",
+  "city_slug": "pune",
+  "city": "Pune",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "manufacturing, IT services and automotive",
+  "neighborhoods": "Hinjewadi and Kharadi",
+  "why": "Pune pairs IT services with manufacturing and automotive, where ERP and automation deliver direct cost savings."
+ },
+ "india/surat": {
+  "country_slug": "india",
+  "city_slug": "surat",
+  "city": "Surat",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "diamonds, textiles and trading",
+  "neighborhoods": "Adajan and Vesu",
+  "why": "Surat's diamond and textile traders are adopting digital sales and operations."
+ },
+ "india/thiruvananthapuram": {
+  "country_slug": "india",
+  "city_slug": "thiruvananthapuram",
+  "city": "Thiruvananthapuram",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "IT services, space research and tourism",
+  "neighborhoods": "Technopark and Kowdiar",
+  "why": "Thiruvananthapuram's Technopark is one of India's largest IT parks."
+ },
+ "india/visakhapatnam": {
+  "country_slug": "india",
+  "city_slug": "visakhapatnam",
+  "city": "Visakhapatnam",
+  "country": "India",
+  "offset": 1.5,
+  "industries": "port and logistics, steel and pharma",
+  "neighborhoods": "Dwaraka Nagar and Rushikonda",
+  "why": "Visakhapatnam's port and industry are expanding fast."
+ },
+ "indonesia/bali": {
+  "country_slug": "indonesia",
+  "city_slug": "bali",
+  "city": "Bali",
+  "country": "Indonesia",
+  "offset": 4.0,
+  "industries": "tourism, hospitality and digital nomad services",
+  "neighborhoods": "Canggu and Seminyak",
+  "why": "Bali's hospitality and creative businesses serve international visitors online."
+ },
+ "indonesia/jakarta": {
+  "country_slug": "indonesia",
+  "city_slug": "jakarta",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "offset": 3.0,
+  "industries": "e-commerce, fintech and consumer goods",
+  "neighborhoods": "SCBD and Kuningan",
+  "why": "Jakarta is Southeast Asia's largest digital economy, with WhatsApp central to customer communication."
+ },
+ "iraq/erbil": {
+  "country_slug": "iraq",
+  "city_slug": "erbil",
+  "city": "Erbil",
+  "country": "Iraq",
+  "offset": -1.0,
+  "industries": "energy, construction and trade",
+  "neighborhoods": "Gulan and Ankawa",
+  "why": "Erbil is a growing business gateway in northern Iraq."
+ },
+ "ireland/cork": {
+  "country_slug": "ireland",
+  "city_slug": "cork",
+  "city": "Cork",
+  "country": "Ireland",
+  "offset": -4.0,
+  "industries": "pharma, technology and food",
+  "neighborhoods": "Docklands and City Centre",
+  "why": "Cork hosts major pharma and tech employers in southern Ireland."
+ },
+ "ireland/dublin": {
+  "country_slug": "ireland",
+  "city_slug": "dublin",
+  "city": "Dublin",
+  "country": "Ireland",
+  "offset": -4.0,
+  "industries": "technology, financial services and pharma",
+  "neighborhoods": "Docklands and Grand Canal",
+  "why": "Dublin hosts the EMEA headquarters of many global tech firms, creating demand for scalable, GDPR-ready AI systems."
+ },
+ "israel/tel-aviv": {
+  "country_slug": "israel",
+  "city_slug": "tel-aviv",
+  "city": "Tel Aviv",
+  "country": "Israel",
+  "offset": -2.0,
+  "industries": "technology, cybersecurity and fintech",
+  "neighborhoods": "Rothschild and Ramat Gan",
+  "why": "Tel Aviv's startup density sets a high bar for AI and automation."
+ },
+ "italy/milan": {
+  "country_slug": "italy",
+  "city_slug": "milan",
+  "city": "Milan",
+  "country": "Italy",
+  "offset": -3.0,
+  "industries": "fashion, design and manufacturing",
+  "neighborhoods": "Porta Nuova and Brera",
+  "why": "Milan combines world-class fashion and design brands with strong manufacturing, both ripe for AI-driven efficiency."
+ },
+ "italy/rome": {
+  "country_slug": "italy",
+  "city_slug": "rome",
+  "city": "Rome",
+  "country": "Italy",
+  "offset": -3.0,
+  "industries": "tourism, government and fashion",
+  "neighborhoods": "EUR and Parioli",
+  "why": "Rome's tourism and service businesses are investing in digital customer experience."
+ },
+ "italy/turin": {
+  "country_slug": "italy",
+  "city_slug": "turin",
+  "city": "Turin",
+  "country": "Italy",
+  "offset": -3.0,
+  "industries": "automotive, aerospace and food",
+  "neighborhoods": "Crocetta and Lingotto",
+  "why": "Turin's industrial base is modernising with automation and digital tools."
+ },
+ "japan/osaka": {
+  "country_slug": "japan",
+  "city_slug": "osaka",
+  "city": "Osaka",
+  "country": "Japan",
+  "offset": 5.0,
+  "industries": "manufacturing, retail and pharma",
+  "neighborhoods": "Umeda and Namba",
+  "why": "Osaka is western Japan's commercial centre with strong manufacturing and retail."
+ },
+ "japan/tokyo": {
+  "country_slug": "japan",
+  "city_slug": "tokyo",
+  "city": "Tokyo",
+  "country": "Japan",
+  "offset": 5.0,
+  "industries": "technology, manufacturing and retail",
+  "neighborhoods": "Shibuya and Marunouchi",
+  "why": "Tokyo companies are accelerating AI adoption to address labour shortages, with high standards for reliability."
+ },
+ "jordan/amman": {
+  "country_slug": "jordan",
+  "city_slug": "amman",
+  "city": "Amman",
+  "country": "Jordan",
+  "offset": -1.0,
+  "industries": "technology, healthcare and education",
+  "neighborhoods": "Abdali and Shmeisani",
+  "why": "Amman is a regional tech talent hub serving clients across the Middle East."
+ },
+ "kazakhstan/almaty": {
+  "country_slug": "kazakhstan",
+  "city_slug": "almaty",
+  "city": "Almaty",
+  "country": "Kazakhstan",
+  "offset": 1.0,
+  "industries": "financial services, trade and technology",
+  "neighborhoods": "Medeu and Bostandyk",
+  "why": "Almaty is Central Asia's financial and startup hub."
+ },
+ "kenya/nairobi": {
+  "country_slug": "kenya",
+  "city_slug": "nairobi",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "offset": -1.0,
+  "industries": "fintech, agritech and logistics",
+  "neighborhoods": "Westlands and Upper Hill",
+  "why": "Nairobi's Silicon Savannah leads East African tech, with mobile money and WhatsApp central to business communication."
+ },
+ "kuwait/kuwait-city": {
+  "country_slug": "kuwait",
+  "city_slug": "kuwait-city",
+  "city": "Kuwait City",
+  "country": "Kuwait",
+  "offset": -1.0,
+  "industries": "retail, financial services and food and beverage",
+  "neighborhoods": "Sharq and Salmiya",
+  "why": "Kuwait has one of the highest per-capita spending levels in the region, with consumers highly active on Instagram and Snapchat."
+ },
+ "latvia/riga": {
+  "country_slug": "latvia",
+  "city_slug": "riga",
+  "city": "Riga",
+  "country": "Latvia",
+  "offset": -2.0,
+  "industries": "logistics, fintech and IT services",
+  "neighborhoods": "Centrs and Skanste",
+  "why": "Riga is a Baltic logistics and fintech centre."
+ },
+ "lebanon/beirut": {
+  "country_slug": "lebanon",
+  "city_slug": "beirut",
+  "city": "Beirut",
+  "country": "Lebanon",
+  "offset": -2.0,
+  "industries": "banking, hospitality and media",
+  "neighborhoods": "Downtown Beirut and Achrafieh",
+  "why": "Beirut businesses serve regional and diaspora markets with strong creative and media talent."
+ },
+ "lithuania/vilnius": {
+  "country_slug": "lithuania",
+  "city_slug": "vilnius",
+  "city": "Vilnius",
+  "country": "Lithuania",
+  "offset": -2.0,
+  "industries": "fintech, IT services and lasers",
+  "neighborhoods": "Naujamiestis and Šnipiškės",
+  "why": "Vilnius has one of Europe's fastest-growing fintech sectors."
+ },
+ "luxembourg/luxembourg-city": {
+  "country_slug": "luxembourg",
+  "city_slug": "luxembourg-city",
+  "city": "Luxembourg City",
+  "country": "Luxembourg",
+  "offset": -3.0,
+  "industries": "investment funds, banking and EU institutions",
+  "neighborhoods": "Kirchberg and Cloche d'Or",
+  "why": "Luxembourg is Europe's largest investment fund centre."
+ },
+ "malaysia/kuala-lumpur": {
+  "country_slug": "malaysia",
+  "city_slug": "kuala-lumpur",
+  "city": "Kuala Lumpur",
+  "country": "Malaysia",
+  "offset": 4.0,
+  "industries": "financial services, oil and gas and e-commerce",
+  "neighborhoods": "KLCC and Bangsar",
+  "why": "Kuala Lumpur is a regional hub for Islamic finance and Southeast Asian e-commerce."
+ },
+ "malaysia/penang": {
+  "country_slug": "malaysia",
+  "city_slug": "penang",
+  "city": "Penang",
+  "country": "Malaysia",
+  "offset": 4.0,
+  "industries": "semiconductors, electronics and tourism",
+  "neighborhoods": "George Town and Bayan Lepas",
+  "why": "Penang is a major electronics and semiconductor manufacturing centre."
+ },
+ "maldives/male": {
+  "country_slug": "maldives",
+  "city_slug": "male",
+  "city": "Malé",
+  "country": "Maldives",
+  "offset": 1.0,
+  "industries": "tourism, hospitality and fisheries",
+  "neighborhoods": "Malé City and Hulhumalé",
+  "why": "Maldives resorts depend on digital marketing and seamless guest communication."
+ },
+ "malta/valletta": {
+  "country_slug": "malta",
+  "city_slug": "valletta",
+  "city": "Valletta",
+  "country": "Malta",
+  "offset": -3.0,
+  "industries": "iGaming, financial services and tourism",
+  "neighborhoods": "Sliema and St Julian's",
+  "why": "Malta is a global hub for iGaming and fintech companies."
+ },
+ "mauritius/port-louis": {
+  "country_slug": "mauritius",
+  "city_slug": "port-louis",
+  "city": "Port Louis",
+  "country": "Mauritius",
+  "offset": 0.0,
+  "industries": "financial services, tourism and BPO",
+  "neighborhoods": "Ebène and Caudan",
+  "why": "Mauritius shares Dubai's time zone and is a regional financial services centre."
+ },
+ "mexico/guadalajara": {
+  "country_slug": "mexico",
+  "city_slug": "guadalajara",
+  "city": "Guadalajara",
+  "country": "Mexico",
+  "offset": -10.0,
+  "industries": "technology, electronics and tequila and food",
+  "neighborhoods": "Zapopan and Providencia",
+  "why": "Guadalajara is known as Mexico's Silicon Valley."
+ },
+ "mexico/mexico-city": {
+  "country_slug": "mexico",
+  "city_slug": "mexico-city",
+  "city": "Mexico City",
+  "country": "Mexico",
+  "offset": -10.0,
+  "industries": "financial services, retail and manufacturing",
+  "neighborhoods": "Polanco and Santa Fe",
+  "why": "Mexico City is Latin America's largest business market, with fast-growing e-commerce and fintech sectors."
+ },
+ "mexico/monterrey": {
+  "country_slug": "mexico",
+  "city_slug": "monterrey",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "offset": -10.0,
+  "industries": "manufacturing, steel and logistics",
+  "neighborhoods": "San Pedro Garza García and Valle Oriente",
+  "why": "Monterrey is Mexico's industrial capital and a nearshoring hotspot."
+ },
+ "morocco/casablanca": {
+  "country_slug": "morocco",
+  "city_slug": "casablanca",
+  "city": "Casablanca",
+  "country": "Morocco",
+  "offset": -3.0,
+  "industries": "financial services, manufacturing and logistics",
+  "neighborhoods": "Casablanca Finance City and Maarif",
+  "why": "Casablanca is North Africa's financial hub and a gateway to francophone African markets."
+ },
+ "morocco/marrakech": {
+  "country_slug": "morocco",
+  "city_slug": "marrakech",
+  "city": "Marrakech",
+  "country": "Morocco",
+  "offset": -3.0,
+  "industries": "tourism, hospitality and crafts",
+  "neighborhoods": "Guéliz and Hivernage",
+  "why": "Marrakech's riads and resorts compete for international travellers online."
+ },
+ "morocco/rabat": {
+  "country_slug": "morocco",
+  "city_slug": "rabat",
+  "city": "Rabat",
+  "country": "Morocco",
+  "offset": -3.0,
+  "industries": "government, technology and education",
+  "neighborhoods": "Hay Riad and Agdal",
+  "why": "Rabat is Morocco's capital and an emerging tech hub."
+ },
+ "nepal/kathmandu": {
+  "country_slug": "nepal",
+  "city_slug": "kathmandu",
+  "city": "Kathmandu",
+  "country": "Nepal",
+  "offset": 1.75,
+  "industries": "tourism, remittances and IT services",
+  "neighborhoods": "Durbar Marg and Baluwatar",
+  "why": "Kathmandu's tourism and IT services sectors are growing online."
+ },
+ "netherlands/amsterdam": {
+  "country_slug": "netherlands",
+  "city_slug": "amsterdam",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "offset": -3.0,
+  "industries": "technology, logistics and e-commerce",
+  "neighborhoods": "Zuidas and Amsterdam Noord",
+  "why": "Amsterdam is a European HQ hub for international companies selling across multiple EU markets."
+ },
+ "netherlands/eindhoven": {
+  "country_slug": "netherlands",
+  "city_slug": "eindhoven",
+  "city": "Eindhoven",
+  "country": "Netherlands",
+  "offset": -3.0,
+  "industries": "semiconductors, design and high tech",
+  "neighborhoods": "Strijp-S and High Tech Campus",
+  "why": "Eindhoven's Brainport region is a European centre for high-tech manufacturing."
+ },
+ "netherlands/rotterdam": {
+  "country_slug": "netherlands",
+  "city_slug": "rotterdam",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "offset": -3.0,
+  "industries": "logistics, maritime and energy",
+  "neighborhoods": "Kop van Zuid and Centrum",
+  "why": "Rotterdam operates Europe's largest port, where logistics automation is a competitive necessity."
+ },
+ "netherlands/the-hague": {
+  "country_slug": "netherlands",
+  "city_slug": "the-hague",
+  "city": "The Hague",
+  "country": "Netherlands",
+  "offset": -3.0,
+  "industries": "international organisations, legal and security",
+  "neighborhoods": "Beatrixkwartier and Centrum",
+  "why": "The Hague hosts international courts and organisations requiring secure, compliant systems."
+ },
+ "new-zealand/auckland": {
+  "country_slug": "new-zealand",
+  "city_slug": "auckland",
+  "city": "Auckland",
+  "country": "New Zealand",
+  "offset": 8.0,
+  "industries": "agritech, tourism and technology",
+  "neighborhoods": "CBD and Ponsonby",
+  "why": "Auckland businesses sell globally from a small home market, making efficient digital growth essential."
+ },
+ "new-zealand/christchurch": {
+  "country_slug": "new-zealand",
+  "city_slug": "christchurch",
+  "city": "Christchurch",
+  "country": "New Zealand",
+  "offset": 8.0,
+  "industries": "agritech, aerospace and tourism",
+  "neighborhoods": "CBD and Addington",
+  "why": "Christchurch is a growing agritech and aerospace hub."
+ },
+ "new-zealand/wellington": {
+  "country_slug": "new-zealand",
+  "city_slug": "wellington",
+  "city": "Wellington",
+  "country": "New Zealand",
+  "offset": 8.0,
+  "industries": "government, film and technology",
+  "neighborhoods": "Te Aro and Thorndon",
+  "why": "Wellington is New Zealand's capital and a creative tech centre."
+ },
+ "nigeria/abuja": {
+  "country_slug": "nigeria",
+  "city_slug": "abuja",
+  "city": "Abuja",
+  "country": "Nigeria",
+  "offset": -3.0,
+  "industries": "government, oil and gas and real estate",
+  "neighborhoods": "Central Business District and Maitama",
+  "why": "Abuja is Nigeria's capital with strong government and corporate presence."
+ },
+ "nigeria/lagos": {
+  "country_slug": "nigeria",
+  "city_slug": "lagos",
+  "city": "Lagos",
+  "country": "Nigeria",
+  "offset": -3.0,
+  "industries": "fintech, e-commerce and media",
+  "neighborhoods": "Victoria Island and Lekki",
+  "why": "Lagos is Africa's leading fintech hub, with mobile-first customers and rapid digital adoption."
+ },
+ "norway/oslo": {
+  "country_slug": "norway",
+  "city_slug": "oslo",
+  "city": "Oslo",
+  "country": "Norway",
+  "offset": -3.0,
+  "industries": "energy, shipping and seafood",
+  "neighborhoods": "Bjørvika and Aker Brygge",
+  "why": "Oslo companies face high labour costs, making automation and AI particularly valuable."
+ },
+ "oman/muscat": {
+  "country_slug": "oman",
+  "city_slug": "muscat",
+  "city": "Muscat",
+  "country": "Oman",
+  "offset": 0.0,
+  "industries": "logistics, tourism and energy",
+  "neighborhoods": "Al Khuwair and Qurum",
+  "why": "Muscat businesses are digitising operations and marketing, often for the first time, creating quick wins from automation."
+ },
+ "oman/salalah": {
+  "country_slug": "oman",
+  "city_slug": "salalah",
+  "city": "Salalah",
+  "country": "Oman",
+  "offset": 0.0,
+  "industries": "logistics, tourism and fisheries",
+  "neighborhoods": "Salalah Free Zone and Al Haffa",
+  "why": "Salalah's port and tourism sectors are expanding."
+ },
+ "pakistan/islamabad": {
+  "country_slug": "pakistan",
+  "city_slug": "islamabad",
+  "city": "Islamabad",
+  "country": "Pakistan",
+  "offset": 1.0,
+  "industries": "government, IT services and telecommunications",
+  "neighborhoods": "Blue Area and F-7",
+  "why": "Islamabad has a growing IT export sector and government institutions."
+ },
+ "pakistan/karachi": {
+  "country_slug": "pakistan",
+  "city_slug": "karachi",
+  "city": "Karachi",
+  "country": "Pakistan",
+  "offset": 1.0,
+  "industries": "textiles, financial services and e-commerce",
+  "neighborhoods": "Clifton and Shahrah-e-Faisal",
+  "why": "Karachi is Pakistan's commercial capital with a fast-growing digital economy."
+ },
+ "pakistan/lahore": {
+  "country_slug": "pakistan",
+  "city_slug": "lahore",
+  "city": "Lahore",
+  "country": "Pakistan",
+  "offset": 1.0,
+  "industries": "technology, textiles and education",
+  "neighborhoods": "Gulberg and DHA",
+  "why": "Lahore has a strong software services sector and growing startup ecosystem."
+ },
+ "panama/panama-city": {
+  "country_slug": "panama",
+  "city_slug": "panama-city",
+  "city": "Panama City",
+  "country": "Panama",
+  "offset": -9.0,
+  "industries": "logistics, banking and trade",
+  "neighborhoods": "Punta Pacífica and Costa del Este",
+  "why": "Panama City is a regional logistics and banking hub linked to the canal."
+ },
+ "peru/lima": {
+  "country_slug": "peru",
+  "city_slug": "lima",
+  "city": "Lima",
+  "country": "Peru",
+  "offset": -9.0,
+  "industries": "mining, retail and financial services",
+  "neighborhoods": "San Isidro and Miraflores",
+  "why": "Lima's growing middle class is driving fast adoption of e-commerce and digital services."
+ },
+ "philippines/cebu": {
+  "country_slug": "philippines",
+  "city_slug": "cebu",
+  "city": "Cebu",
+  "country": "Philippines",
+  "offset": 4.0,
+  "industries": "BPO, tourism and furniture",
+  "neighborhoods": "Cebu IT Park and Cebu Business Park",
+  "why": "Cebu is a leading BPO and tourism hub outside Manila."
+ },
+ "philippines/manila": {
+  "country_slug": "philippines",
+  "city_slug": "manila",
+  "city": "Manila",
+  "country": "Philippines",
+  "offset": 4.0,
+  "industries": "BPO, real estate and retail",
+  "neighborhoods": "Makati and BGC",
+  "why": "Manila's BPO and service sectors are adopting AI to improve customer experience at scale."
+ },
+ "poland/krakow": {
+  "country_slug": "poland",
+  "city_slug": "krakow",
+  "city": "Kraków",
+  "country": "Poland",
+  "offset": -3.0,
+  "industries": "IT services, shared services and tourism",
+  "neighborhoods": "Kazimierz and Zabłocie",
+  "why": "Kraków is one of Europe's largest IT and shared-services hubs."
+ },
+ "poland/warsaw": {
+  "country_slug": "poland",
+  "city_slug": "warsaw",
+  "city": "Warsaw",
+  "country": "Poland",
+  "offset": -3.0,
+  "industries": "financial services, IT services and e-commerce",
+  "neighborhoods": "Mokotów and Wola",
+  "why": "Warsaw is Central Europe's fastest-growing business centre, with a large shared-services sector."
+ },
+ "portugal/lisbon": {
+  "country_slug": "portugal",
+  "city_slug": "lisbon",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "offset": -4.0,
+  "industries": "technology, tourism and startups",
+  "neighborhoods": "Parque das Nações and Chiado",
+  "why": "Lisbon has become a magnet for startups and remote-first companies across Europe."
+ },
+ "portugal/porto": {
+  "country_slug": "portugal",
+  "city_slug": "porto",
+  "city": "Porto",
+  "country": "Portugal",
+  "offset": -4.0,
+  "industries": "technology, textiles and tourism",
+  "neighborhoods": "Boavista and Baixa",
+  "why": "Porto combines a growing tech scene with export-focused manufacturing."
+ },
+ "qatar/al-wakrah": {
+  "country_slug": "qatar",
+  "city_slug": "al-wakrah",
+  "city": "Al Wakrah",
+  "country": "Qatar",
+  "offset": -1.0,
+  "industries": "logistics, hospitality and retail",
+  "neighborhoods": "Al Wakrah Souq and Hamad Port",
+  "why": "Al Wakrah is growing alongside Hamad Port and new developments."
+ },
+ "qatar/doha": {
+  "country_slug": "qatar",
+  "city_slug": "doha",
+  "city": "Doha",
+  "country": "Qatar",
+  "offset": -1.0,
+  "industries": "energy, hospitality and real estate",
+  "neighborhoods": "West Bay and Lusail",
+  "why": "Doha businesses are scaling digital channels after major investment in infrastructure and tourism."
+ },
+ "romania/bucharest": {
+  "country_slug": "romania",
+  "city_slug": "bucharest",
+  "city": "Bucharest",
+  "country": "Romania",
+  "offset": -2.0,
+  "industries": "IT services, automotive and retail",
+  "neighborhoods": "Pipera and Floreasca",
+  "why": "Bucharest has one of Europe's fastest-growing IT sectors."
+ },
+ "rwanda/kigali": {
+  "country_slug": "rwanda",
+  "city_slug": "kigali",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "offset": -2.0,
+  "industries": "technology, tourism and financial services",
+  "neighborhoods": "Kigali Heights and Kimihurura",
+  "why": "Kigali is positioning itself as a regional innovation and conference hub."
+ },
+ "saudi-arabia/dammam": {
+  "country_slug": "saudi-arabia",
+  "city_slug": "dammam",
+  "city": "Dammam",
+  "country": "Saudi Arabia",
+  "offset": -1.0,
+  "industries": "energy, petrochemicals and logistics",
+  "neighborhoods": "Al Shatea and Khobar",
+  "why": "The Eastern Province's industrial base is investing in digital transformation under Vision 2030."
+ },
+ "saudi-arabia/jeddah": {
+  "country_slug": "saudi-arabia",
+  "city_slug": "jeddah",
+  "city": "Jeddah",
+  "country": "Saudi Arabia",
+  "offset": -1.0,
+  "industries": "trade, hospitality and retail",
+  "neighborhoods": "Al Rawdah and Corniche",
+  "why": "Jeddah's trading and hospitality businesses are modernising quickly, with WhatsApp central to customer communication."
+ },
+ "saudi-arabia/mecca": {
+  "country_slug": "saudi-arabia",
+  "city_slug": "mecca",
+  "city": "Mecca",
+  "country": "Saudi Arabia",
+  "offset": -1.0,
+  "industries": "hospitality, religious tourism and retail",
+  "neighborhoods": "Al Aziziyah and Ajyad",
+  "why": "Mecca's hospitality sector serves millions of visitors, making automated guest communication essential."
+ },
+ "saudi-arabia/medina": {
+  "country_slug": "saudi-arabia",
+  "city_slug": "medina",
+  "city": "Medina",
+  "country": "Saudi Arabia",
+  "offset": -1.0,
+  "industries": "hospitality, religious tourism and retail",
+  "neighborhoods": "Central Area and Quba",
+  "why": "Medina's hotels and services handle large seasonal demand where automation helps scale."
+ },
+ "saudi-arabia/riyadh": {
+  "country_slug": "saudi-arabia",
+  "city_slug": "riyadh",
+  "city": "Riyadh",
+  "country": "Saudi Arabia",
+  "offset": -1.0,
+  "industries": "government, construction and retail",
+  "neighborhoods": "King Abdullah Financial District and Olaya",
+  "why": "Vision 2030 is driving rapid digital transformation in Riyadh, with Arabic-first customer experiences in high demand."
+ },
+ "senegal/dakar": {
+  "country_slug": "senegal",
+  "city_slug": "dakar",
+  "city": "Dakar",
+  "country": "Senegal",
+  "offset": -4.0,
+  "industries": "telecommunications, fintech and logistics",
+  "neighborhoods": "Plateau and Almadies",
+  "why": "Dakar is a francophone West African hub for fintech and telecoms."
+ },
+ "serbia/belgrade": {
+  "country_slug": "serbia",
+  "city_slug": "belgrade",
+  "city": "Belgrade",
+  "country": "Serbia",
+  "offset": -3.0,
+  "industries": "IT services, gaming and manufacturing",
+  "neighborhoods": "New Belgrade and Vračar",
+  "why": "Belgrade's software and gaming companies serve global clients."
+ },
+ "singapore/jurong": {
+  "country_slug": "singapore",
+  "city_slug": "jurong",
+  "city": "Jurong",
+  "country": "Singapore",
+  "offset": 4.0,
+  "industries": "manufacturing, logistics and technology",
+  "neighborhoods": "Jurong East and Jurong Innovation District",
+  "why": "Jurong is Singapore's industrial and innovation district."
+ },
+ "singapore/singapore": {
+  "country_slug": "singapore",
+  "city_slug": "singapore",
+  "city": "Singapore",
+  "country": "Singapore",
+  "offset": 4.0,
+  "industries": "financial services, technology and logistics",
+  "neighborhoods": "Marina Bay and Raffles Place",
+  "why": "Singapore is Asia's regional HQ capital, with sophisticated buyers and strong government support for AI adoption."
+ },
+ "south-africa/cape-town": {
+  "country_slug": "south-africa",
+  "city_slug": "cape-town",
+  "city": "Cape Town",
+  "country": "South Africa",
+  "offset": -2.0,
+  "industries": "technology, tourism and financial services",
+  "neighborhoods": "Foreshore and Woodstock",
+  "why": "Cape Town is South Africa's startup capital, with a strong tech and creative community."
+ },
+ "south-africa/durban": {
+  "country_slug": "south-africa",
+  "city_slug": "durban",
+  "city": "Durban",
+  "country": "South Africa",
+  "offset": -2.0,
+  "industries": "logistics, manufacturing and tourism",
+  "neighborhoods": "Umhlanga and Berea",
+  "why": "Durban operates Africa's busiest port."
+ },
+ "south-africa/johannesburg": {
+  "country_slug": "south-africa",
+  "city_slug": "johannesburg",
+  "city": "Johannesburg",
+  "country": "South Africa",
+  "offset": -2.0,
+  "industries": "financial services, mining and retail",
+  "neighborhoods": "Sandton and Rosebank",
+  "why": "Johannesburg is the business heart of Africa's most developed economy, with established enterprises modernising systems."
+ },
+ "south-korea/busan": {
+  "country_slug": "south-korea",
+  "city_slug": "busan",
+  "city": "Busan",
+  "country": "South Korea",
+  "offset": 5.0,
+  "industries": "shipping, logistics and tourism",
+  "neighborhoods": "Haeundae and Centum City",
+  "why": "Busan operates one of the world's busiest container ports."
+ },
+ "south-korea/seoul": {
+  "country_slug": "south-korea",
+  "city_slug": "seoul",
+  "city": "Seoul",
+  "country": "South Korea",
+  "offset": 5.0,
+  "industries": "technology, entertainment and beauty",
+  "neighborhoods": "Gangnam and Yeouido",
+  "why": "Seoul is one of the world's most connected cities, with fast-moving consumer and tech brands."
+ },
+ "spain/barcelona": {
+  "country_slug": "spain",
+  "city_slug": "barcelona",
+  "city": "Barcelona",
+  "country": "Spain",
+  "offset": -3.0,
+  "industries": "tourism, technology and fashion",
+  "neighborhoods": "22@ and Eixample",
+  "why": "Barcelona's tech and tourism sectors compete internationally on digital experience."
+ },
+ "spain/madrid": {
+  "country_slug": "spain",
+  "city_slug": "madrid",
+  "city": "Madrid",
+  "country": "Spain",
+  "offset": -3.0,
+  "industries": "real estate, retail and financial services",
+  "neighborhoods": "Salamanca and Castellana",
+  "why": "Madrid businesses increasingly sell to Spanish-speaking markets in Europe and Latin America from one base."
+ },
+ "spain/malaga": {
+  "country_slug": "spain",
+  "city_slug": "malaga",
+  "city": "Málaga",
+  "country": "Spain",
+  "offset": -3.0,
+  "industries": "technology, tourism and real estate",
+  "neighborhoods": "Málaga TechPark and Centro",
+  "why": "Málaga is attracting tech hubs and remote workers to the Costa del Sol."
+ },
+ "spain/valencia": {
+  "country_slug": "spain",
+  "city_slug": "valencia",
+  "city": "Valencia",
+  "country": "Spain",
+  "offset": -3.0,
+  "industries": "logistics, agrifood and tourism",
+  "neighborhoods": "Ciutat Vella and Ruzafa",
+  "why": "Valencia has a thriving port and a growing startup community."
+ },
+ "sri-lanka/colombo": {
+  "country_slug": "sri-lanka",
+  "city_slug": "colombo",
+  "city": "Colombo",
+  "country": "Sri Lanka",
+  "offset": 1.5,
+  "industries": "IT services, tourism and apparel",
+  "neighborhoods": "Colombo 3 and Colombo 7",
+  "why": "Colombo has a strong IT outsourcing sector serving global clients."
+ },
+ "sweden/stockholm": {
+  "country_slug": "sweden",
+  "city_slug": "stockholm",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "offset": -3.0,
+  "industries": "technology, fintech and gaming",
+  "neighborhoods": "Norrmalm and Södermalm",
+  "why": "Stockholm is one of Europe's most digitally advanced cities, with high expectations for product quality and automation."
+ },
+ "switzerland/basel": {
+  "country_slug": "switzerland",
+  "city_slug": "basel",
+  "city": "Basel",
+  "country": "Switzerland",
+  "offset": -3.0,
+  "industries": "pharma, chemicals and logistics",
+  "neighborhoods": "Grossbasel and Kleinbasel",
+  "why": "Basel is a global pharma centre with strict regulatory expectations."
+ },
+ "switzerland/geneva": {
+  "country_slug": "switzerland",
+  "city_slug": "geneva",
+  "city": "Geneva",
+  "country": "Switzerland",
+  "offset": -3.0,
+  "industries": "international organisations, private banking and trading",
+  "neighborhoods": "Rive Droite and Plainpalais",
+  "why": "Geneva's private banks, traders and NGOs require discreet, secure AI solutions."
+ },
+ "switzerland/zurich": {
+  "country_slug": "switzerland",
+  "city_slug": "zurich",
+  "city": "Zurich",
+  "country": "Switzerland",
+  "offset": -3.0,
+  "industries": "banking, insurance and wealth management",
+  "neighborhoods": "Paradeplatz and Zurich West",
+  "why": "Zurich's finance sector demands precision, confidentiality and careful governance for any AI deployment."
+ },
+ "taiwan/taipei": {
+  "country_slug": "taiwan",
+  "city_slug": "taipei",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "offset": 4.0,
+  "industries": "semiconductors, electronics and e-commerce",
+  "neighborhoods": "Xinyi and Neihu",
+  "why": "Taipei's technology manufacturers are investing in AI-driven operations and global marketing."
+ },
+ "tanzania/dar-es-salaam": {
+  "country_slug": "tanzania",
+  "city_slug": "dar-es-salaam",
+  "city": "Dar es Salaam",
+  "country": "Tanzania",
+  "offset": -1.0,
+  "industries": "logistics, mining and tourism",
+  "neighborhoods": "Masaki and Oyster Bay",
+  "why": "Dar es Salaam is East Africa's major port and commercial city."
+ },
+ "thailand/bangkok": {
+  "country_slug": "thailand",
+  "city_slug": "bangkok",
+  "city": "Bangkok",
+  "country": "Thailand",
+  "offset": 3.0,
+  "industries": "tourism, manufacturing and retail",
+  "neighborhoods": "Sukhumvit and Silom",
+  "why": "Bangkok businesses rely heavily on social commerce and chat-based customer service."
+ },
+ "thailand/phuket": {
+  "country_slug": "thailand",
+  "city_slug": "phuket",
+  "city": "Phuket",
+  "country": "Thailand",
+  "offset": 3.0,
+  "industries": "tourism, hospitality and real estate",
+  "neighborhoods": "Patong and Laguna",
+  "why": "Phuket's resorts and villas compete internationally for travellers."
+ },
+ "tunisia/tunis": {
+  "country_slug": "tunisia",
+  "city_slug": "tunis",
+  "city": "Tunis",
+  "country": "Tunisia",
+  "offset": -3.0,
+  "industries": "IT services, textiles and tourism",
+  "neighborhoods": "Les Berges du Lac and Centre Urbain Nord",
+  "why": "Tunis has a strong IT outsourcing sector serving Europe."
+ },
+ "turkiye/ankara": {
+  "country_slug": "turkiye",
+  "city_slug": "ankara",
+  "city": "Ankara",
+  "country": "Türkiye",
+  "offset": -1.0,
+  "industries": "defence, government and education",
+  "neighborhoods": "Çankaya and Söğütözü",
+  "why": "Ankara's defence and public sectors are investing in digital capabilities."
+ },
+ "turkiye/istanbul": {
+  "country_slug": "turkiye",
+  "city_slug": "istanbul",
+  "city": "Istanbul",
+  "country": "Türkiye",
+  "offset": -1.0,
+  "industries": "textiles, e-commerce and logistics",
+  "neighborhoods": "Levent and Maslak",
+  "why": "Istanbul bridges Europe and Asia, with a large, highly active e-commerce market."
+ },
+ "uganda/kampala": {
+  "country_slug": "uganda",
+  "city_slug": "kampala",
+  "city": "Kampala",
+  "country": "Uganda",
+  "offset": -1.0,
+  "industries": "agriculture, telecommunications and fintech",
+  "neighborhoods": "Kololo and Nakasero",
+  "why": "Kampala's mobile-first economy is adopting digital services quickly."
+ },
+ "united-arab-emirates/abu-dhabi": {
+  "country_slug": "united-arab-emirates",
+  "city_slug": "abu-dhabi",
+  "city": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "offset": 0.0,
+  "industries": "government services, energy and real estate",
+  "neighborhoods": "Al Maryah Island and Yas Island",
+  "why": "Abu Dhabi is investing heavily in AI as a national priority, with strong demand from government-linked and private enterprises."
+ },
+ "united-arab-emirates/ajman": {
+  "country_slug": "united-arab-emirates",
+  "city_slug": "ajman",
+  "city": "Ajman",
+  "country": "United Arab Emirates",
+  "offset": 0.0,
+  "industries": "trade, manufacturing and real estate",
+  "neighborhoods": "Al Nuaimiya and Al Jurf",
+  "why": "Ajman's SMEs and free-zone companies are digitising quickly."
+ },
+ "united-arab-emirates/al-ain": {
+  "country_slug": "united-arab-emirates",
+  "city_slug": "al-ain",
+  "city": "Al Ain",
+  "country": "United Arab Emirates",
+  "offset": 0.0,
+  "industries": "education, agriculture and healthcare",
+  "neighborhoods": "Al Jimi and Al Mutawaa",
+  "why": "Al Ain's education and healthcare institutions are adopting digital services."
+ },
+ "united-arab-emirates/ras-al-khaimah": {
+  "country_slug": "united-arab-emirates",
+  "city_slug": "ras-al-khaimah",
+  "city": "Ras Al Khaimah",
+  "country": "United Arab Emirates",
+  "offset": 0.0,
+  "industries": "manufacturing, tourism and free zones",
+  "neighborhoods": "Al Hamra and RAKEZ",
+  "why": "Ras Al Khaimah is growing as a tourism and industrial free-zone destination."
+ },
+ "united-arab-emirates/sharjah": {
+  "country_slug": "united-arab-emirates",
+  "city_slug": "sharjah",
+  "city": "Sharjah",
+  "country": "United Arab Emirates",
+  "offset": 0.0,
+  "industries": "manufacturing, trade and education",
+  "neighborhoods": "Al Majaz and Muwaileh",
+  "why": "Sharjah's industrial and trading businesses are modernising operations close to Dubai."
+ },
+ "united-kingdom/birmingham": {
+  "country_slug": "united-kingdom",
+  "city_slug": "birmingham",
+  "city": "Birmingham",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "manufacturing, professional services and retail",
+  "neighborhoods": "Colmore Row and Jewellery Quarter",
+  "why": "Birmingham combines manufacturing heritage with a growing professional services sector."
+ },
+ "united-kingdom/bristol": {
+  "country_slug": "united-kingdom",
+  "city_slug": "bristol",
+  "city": "Bristol",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "aerospace, technology and creative industries",
+  "neighborhoods": "Temple Quarter and Harbourside",
+  "why": "Bristol is a UK hub for aerospace and deep tech."
+ },
+ "united-kingdom/cambridge": {
+  "country_slug": "united-kingdom",
+  "city_slug": "cambridge",
+  "city": "Cambridge",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "deep tech, life sciences and AI",
+  "neighborhoods": "Cambridge Science Park and CB1",
+  "why": "Cambridge is one of Europe's leading AI and life sciences clusters."
+ },
+ "united-kingdom/edinburgh": {
+  "country_slug": "united-kingdom",
+  "city_slug": "edinburgh",
+  "city": "Edinburgh",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "financial services, tourism and technology",
+  "neighborhoods": "New Town and Leith",
+  "why": "Edinburgh is a major UK financial centre with a fast-growing tech community."
+ },
+ "united-kingdom/glasgow": {
+  "country_slug": "united-kingdom",
+  "city_slug": "glasgow",
+  "city": "Glasgow",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "engineering, financial services and creative industries",
+  "neighborhoods": "Merchant City and Finnieston",
+  "why": "Glasgow combines engineering heritage with a growing tech and creative scene."
+ },
+ "united-kingdom/leeds": {
+  "country_slug": "united-kingdom",
+  "city_slug": "leeds",
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "financial services, digital and legal",
+  "neighborhoods": "Leeds Dock and City Centre",
+  "why": "Leeds is a leading UK centre for financial and legal services outside London."
+ },
+ "united-kingdom/liverpool": {
+  "country_slug": "united-kingdom",
+  "city_slug": "liverpool",
+  "city": "Liverpool",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "logistics, digital and tourism",
+  "neighborhoods": "Baltic Triangle and Liverpool ONE",
+  "why": "Liverpool's port and digital sectors are growing fast."
+ },
+ "united-kingdom/london": {
+  "country_slug": "united-kingdom",
+  "city_slug": "london",
+  "city": "London",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "financial services, professional services and e-commerce",
+  "neighborhoods": "City of London and Shoreditch",
+  "why": "London is one of the most competitive digital markets in the world, and UK GDPR shapes how data and AI must be handled."
+ },
+ "united-kingdom/manchester": {
+  "country_slug": "united-kingdom",
+  "city_slug": "manchester",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "offset": -4.0,
+  "industries": "e-commerce, digital media and professional services",
+  "neighborhoods": "Spinningfields and Northern Quarter",
+  "why": "Manchester has a fast-growing e-commerce and digital sector where performance marketing and automation drive scale."
+ },
+ "united-states/atlanta": {
+  "country_slug": "united-states",
+  "city_slug": "atlanta",
+  "city": "Atlanta",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "logistics, fintech and media",
+  "neighborhoods": "Midtown and Buckhead",
+  "why": "Atlanta is a logistics and fintech hub with a large, diverse consumer market."
+ },
+ "united-states/austin": {
+  "country_slug": "united-states",
+  "city_slug": "austin",
+  "city": "Austin",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "technology, startups and real estate",
+  "neighborhoods": "Downtown Austin and The Domain",
+  "why": "Austin combines a fast-growing startup scene with established tech employers, creating strong demand for lean, automated growth."
+ },
+ "united-states/boston": {
+  "country_slug": "united-states",
+  "city_slug": "boston",
+  "city": "Boston",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "healthcare, biotech and education",
+  "neighborhoods": "Back Bay and Seaport",
+  "why": "Boston organisations in healthcare and education need AI that respects strict privacy and compliance expectations."
+ },
+ "united-states/charlotte": {
+  "country_slug": "united-states",
+  "city_slug": "charlotte",
+  "city": "Charlotte",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "banking, fintech and energy",
+  "neighborhoods": "Uptown and SouthPark",
+  "why": "Charlotte is the second-largest US banking centre, with growing fintech activity."
+ },
+ "united-states/chicago": {
+  "country_slug": "united-states",
+  "city_slug": "chicago",
+  "city": "Chicago",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "logistics, manufacturing and professional services",
+  "neighborhoods": "The Loop and River North",
+  "why": "Chicago businesses often run complex operations where automation and custom systems create outsized efficiency gains."
+ },
+ "united-states/dallas": {
+  "country_slug": "united-states",
+  "city_slug": "dallas",
+  "city": "Dallas",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "financial services, real estate and telecommunications",
+  "neighborhoods": "Uptown and Las Colinas",
+  "why": "Dallas–Fort Worth is one of the fastest-growing US metros, with many companies relocating headquarters to the region."
+ },
+ "united-states/denver": {
+  "country_slug": "united-states",
+  "city_slug": "denver",
+  "city": "Denver",
+  "country": "United States",
+  "offset": -11.0,
+  "industries": "technology, outdoor brands and real estate",
+  "neighborhoods": "LoDo and Denver Tech Center",
+  "why": "Denver has a growing tech scene and strong consumer brands that rely on efficient, data-driven growth."
+ },
+ "united-states/detroit": {
+  "country_slug": "united-states",
+  "city_slug": "detroit",
+  "city": "Detroit",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "automotive, manufacturing and mobility tech",
+  "neighborhoods": "Downtown Detroit and Midtown",
+  "why": "Detroit's automotive and mobility sectors are investing heavily in automation and AI."
+ },
+ "united-states/honolulu": {
+  "country_slug": "united-states",
+  "city_slug": "honolulu",
+  "city": "Honolulu",
+  "country": "United States",
+  "offset": -14.0,
+  "industries": "tourism, hospitality and real estate",
+  "neighborhoods": "Waikiki and Downtown Honolulu",
+  "why": "Honolulu hospitality businesses rely on fast, high-quality guest communication."
+ },
+ "united-states/houston": {
+  "country_slug": "united-states",
+  "city_slug": "houston",
+  "city": "Houston",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "energy, healthcare and logistics",
+  "neighborhoods": "Energy Corridor and Texas Medical Center",
+  "why": "Houston's energy and healthcare sectors run complex operations where automation and data systems drive efficiency."
+ },
+ "united-states/las-vegas": {
+  "country_slug": "united-states",
+  "city_slug": "las-vegas",
+  "city": "Las Vegas",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "hospitality, entertainment and real estate",
+  "neighborhoods": "The Strip and Summerlin",
+  "why": "Las Vegas hospitality and entertainment brands compete on guest experience, where AI chat and automation make a visible difference."
+ },
+ "united-states/los-angeles": {
+  "country_slug": "united-states",
+  "city_slug": "los-angeles",
+  "city": "Los Angeles",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "entertainment, e-commerce and consumer brands",
+  "neighborhoods": "Santa Monica and Downtown LA",
+  "why": "Los Angeles is a creator and D2C hub where brands compete on content volume and paid social performance."
+ },
+ "united-states/miami": {
+  "country_slug": "united-states",
+  "city_slug": "miami",
+  "city": "Miami",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "real estate, fintech and hospitality",
+  "neighborhoods": "Brickell and Wynwood",
+  "why": "Miami has become a magnet for relocating founders and investors, with bilingual English and Spanish audiences across most sectors."
+ },
+ "united-states/minneapolis": {
+  "country_slug": "united-states",
+  "city_slug": "minneapolis",
+  "city": "Minneapolis",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "retail, healthcare and food manufacturing",
+  "neighborhoods": "Downtown Minneapolis and North Loop",
+  "why": "Minneapolis hosts many Fortune 500 headquarters in retail, healthcare and food."
+ },
+ "united-states/nashville": {
+  "country_slug": "united-states",
+  "city_slug": "nashville",
+  "city": "Nashville",
+  "country": "United States",
+  "offset": -10.0,
+  "industries": "healthcare, music and entertainment and hospitality",
+  "neighborhoods": "The Gulch and Midtown",
+  "why": "Nashville is a national healthcare management hub with a booming hospitality scene."
+ },
+ "united-states/new-york": {
+  "country_slug": "united-states",
+  "city_slug": "new-york",
+  "city": "New York",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "financial services, media and real estate",
+  "neighborhoods": "Manhattan and Brooklyn",
+  "why": "New York companies move fast and expect measurable ROI, with intense competition for attention in every category."
+ },
+ "united-states/orlando": {
+  "country_slug": "united-states",
+  "city_slug": "orlando",
+  "city": "Orlando",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "tourism, simulation technology and real estate",
+  "neighborhoods": "Downtown Orlando and Lake Nona",
+  "why": "Orlando's tourism economy competes on guest experience and fast, automated service."
+ },
+ "united-states/philadelphia": {
+  "country_slug": "united-states",
+  "city_slug": "philadelphia",
+  "city": "Philadelphia",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "healthcare, education and financial services",
+  "neighborhoods": "Center City and University City",
+  "why": "Philadelphia combines major health systems and universities with a broad base of mid-sized businesses."
+ },
+ "united-states/phoenix": {
+  "country_slug": "united-states",
+  "city_slug": "phoenix",
+  "city": "Phoenix",
+  "country": "United States",
+  "offset": -11.0,
+  "industries": "semiconductors, real estate and healthcare",
+  "neighborhoods": "Downtown Phoenix and Scottsdale",
+  "why": "Phoenix is one of the fastest-growing US metros, attracting manufacturing and tech investment."
+ },
+ "united-states/portland": {
+  "country_slug": "united-states",
+  "city_slug": "portland",
+  "city": "Portland",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "apparel, technology and food and beverage",
+  "neighborhoods": "Pearl District and Downtown Portland",
+  "why": "Portland's consumer brands and tech firms value thoughtful, efficient growth."
+ },
+ "united-states/raleigh": {
+  "country_slug": "united-states",
+  "city_slug": "raleigh",
+  "city": "Raleigh",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "technology, life sciences and education",
+  "neighborhoods": "Research Triangle Park and Downtown Raleigh",
+  "why": "Research Triangle Park makes Raleigh a hub for tech and life sciences."
+ },
+ "united-states/salt-lake-city": {
+  "country_slug": "united-states",
+  "city_slug": "salt-lake-city",
+  "city": "Salt Lake City",
+  "country": "United States",
+  "offset": -11.0,
+  "industries": "SaaS, financial services and outdoor brands",
+  "neighborhoods": "Downtown SLC and Lehi",
+  "why": "The Silicon Slopes around Salt Lake City are home to a fast-growing SaaS community."
+ },
+ "united-states/san-diego": {
+  "country_slug": "united-states",
+  "city_slug": "san-diego",
+  "city": "San Diego",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "biotech, defence and tourism",
+  "neighborhoods": "Downtown San Diego and La Jolla",
+  "why": "San Diego's biotech and defence sectors need secure, compliant data and AI systems."
+ },
+ "united-states/san-francisco": {
+  "country_slug": "united-states",
+  "city_slug": "san-francisco",
+  "city": "San Francisco",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "SaaS, venture-backed startups and AI",
+  "neighborhoods": "SoMa and Palo Alto",
+  "why": "In the Bay Area, AI adoption is ahead of most markets, so differentiation comes from execution and integration rather than awareness."
+ },
+ "united-states/san-jose": {
+  "country_slug": "united-states",
+  "city_slug": "san-jose",
+  "city": "San Jose",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "technology, semiconductors and SaaS",
+  "neighborhoods": "Downtown San Jose and North San Jose",
+  "why": "San Jose sits at the heart of Silicon Valley, where AI-native competitors raise the bar for every business."
+ },
+ "united-states/seattle": {
+  "country_slug": "united-states",
+  "city_slug": "seattle",
+  "city": "Seattle",
+  "country": "United States",
+  "offset": -12.0,
+  "industries": "cloud computing, e-commerce and aerospace",
+  "neighborhoods": "South Lake Union and Bellevue",
+  "why": "Seattle is home to cloud and e-commerce giants, so local buyers expect technically strong, scalable solutions."
+ },
+ "united-states/tampa": {
+  "country_slug": "united-states",
+  "city_slug": "tampa",
+  "city": "Tampa",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "financial services, healthcare and real estate",
+  "neighborhoods": "Westshore and Downtown Tampa",
+  "why": "Tampa Bay is attracting relocating companies and professionals, fuelling growth in services and real estate."
+ },
+ "united-states/washington-dc": {
+  "country_slug": "united-states",
+  "city_slug": "washington-dc",
+  "city": "Washington DC",
+  "country": "United States",
+  "offset": -9.0,
+  "industries": "government contracting, associations and professional services",
+  "neighborhoods": "Downtown DC and Arlington",
+  "why": "Washington DC organisations need AI that meets strict security, compliance and procurement expectations."
+ },
+ "uruguay/montevideo": {
+  "country_slug": "uruguay",
+  "city_slug": "montevideo",
+  "city": "Montevideo",
+  "country": "Uruguay",
+  "offset": -7.0,
+  "industries": "software, agribusiness and financial services",
+  "neighborhoods": "Ciudad Vieja and Pocitos",
+  "why": "Montevideo has one of Latin America's strongest software export sectors."
+ },
+ "uzbekistan/tashkent": {
+  "country_slug": "uzbekistan",
+  "city_slug": "tashkent",
+  "city": "Tashkent",
+  "country": "Uzbekistan",
+  "offset": 1.0,
+  "industries": "textiles, agriculture and IT services",
+  "neighborhoods": "Yunusabad and Mirabad",
+  "why": "Tashkent is opening up rapidly, with fast-growing digital and services sectors."
+ },
+ "vietnam/hanoi": {
+  "country_slug": "vietnam",
+  "city_slug": "hanoi",
+  "city": "Hanoi",
+  "country": "Vietnam",
+  "offset": 3.0,
+  "industries": "government, technology and manufacturing",
+  "neighborhoods": "Hoan Kiem and Cau Giay",
+  "why": "Hanoi is Vietnam's capital and a growing technology hub."
+ },
+ "vietnam/ho-chi-minh-city": {
+  "country_slug": "vietnam",
+  "city_slug": "ho-chi-minh-city",
+  "city": "Ho Chi Minh City",
+  "country": "Vietnam",
+  "offset": 3.0,
+  "industries": "manufacturing, technology and retail",
+  "neighborhoods": "District 1 and Thu Duc",
+  "why": "Ho Chi Minh City is one of Asia's fastest-growing business markets with a young, digital population."
+ },
+ "zambia/lusaka": {
+  "country_slug": "zambia",
+  "city_slug": "lusaka",
+  "city": "Lusaka",
+  "country": "Zambia",
+  "offset": -2.0,
+  "industries": "mining, agriculture and retail",
+  "neighborhoods": "Rhodes Park and Longacres",
+  "why": "Lusaka is modernising with growing retail and services sectors."
+ }
+}

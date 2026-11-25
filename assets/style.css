@@ -78,3 +78,27 @@ a.card{color:var(--fg)}a.card:hover{border-color:var(--p50);transform:translateY
 .nav{transition:box-shadow .3s}.nav.scrolled{box-shadow:0 8px 24px -16px rgba(0,0,0,.6)}
 .progress{position:fixed;top:0;left:0;height:2px;background:var(--primary);z-index:60;width:0;transition:width .1s linear}
 @media (prefers-reduced-motion:reduce){.rv,.hero *{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}.glow{animation:none}}
+/* local context blocks */
+.loc-dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0;border:1px solid var(--border);border-radius:1rem;overflow:hidden;margin:0}
+.loc-dl>div{padding:1rem 1.25rem;border-bottom:1px solid var(--border);background:var(--card)}
+.loc-dl dt{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--primary);font-weight:600;margin-bottom:.25rem}
+.loc-dl dd{margin:0;line-height:1.5}
+.loc-grid .h3{font-size:1rem;margin:.75rem 0 .35rem}
+.loc-list li{align-items:flex-start}
+.loc-list li i{margin-top:.2rem}
+.loc aside.card .loc-dl{border:0;grid-template-columns:1fr}
+.loc aside.card .loc-list li{background:transparent;border:0;padding:.5rem 0}
+.loc aside.card{position:sticky;top:6rem}
+.avatar{width:44px;height:44px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:.9rem;background:var(--primary);color:var(--primary-fg);flex-shrink:0}
+/* per-page layout variants */
+body[data-v="1"] .sec .h2{position:relative;padding-left:1rem;border-left:3px solid var(--primary)}
+body[data-v="1"] .faq{border-radius:.5rem}
+body[data-v="2"] .sec>.narrow>.h2,body[data-v="2"] .sec>.wrap>.h2{text-align:center}
+body[data-v="2"] .card{border-radius:1.5rem}
+body[data-v="2"] .steps li>span{border-radius:50%}
+@media(max-width:860px){.loc aside.card{position:static}}
+.tbl-wrap{overflow-x:auto;margin-top:1rem;border:1px solid var(--border);border-radius:1rem}
+.tbl{width:100%;border-collapse:collapse;font-size:.95rem}
+.tbl th,.tbl td{text-align:left;padding:.75rem 1rem;border-bottom:1px solid var(--border);vertical-align:top}
+.tbl th{background:var(--card);font-weight:600}
+.tbl tr:last-child td{border-bottom:0}
