@@ -2142,6 +2142,11 @@
       "source": "/campus-proposal",
       "destination": "/",
       "permanent": false
+    },
+    {
+      "source": "/seventy-two-real-estate-marketing-strategy-by-muneez",
+      "destination": "/dubai/ai-for-real-estate",
+      "permanent": true
     }
   ],
   "headers": [
