@@ -864,16 +864,6 @@
       "permanent": true
     },
     {
-      "source": "/home/dubai/:path*",
-      "destination": "/services",
-      "permanent": true
-    },
-    {
-      "source": "/home/dubai/:slug*",
-      "destination": "/dubai",
-      "permanent": true
-    },
-    {
       "source": "/privacy",
       "destination": "/privacy-policy",
       "permanent": true
@@ -2151,6 +2141,11 @@
     {
       "source": "/seventy-two-real-estate-digital-marketing-roadmap-ceo-alignment",
       "destination": "/dubai/real-estate-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/home/dubai/:path*",
+      "destination": "/services",
       "permanent": true
     }
   ],
