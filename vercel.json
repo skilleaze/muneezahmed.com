@@ -970,7 +970,7 @@
     },
     {
       "source": "/services/youtube-ads",
-      "destination": "/dubai/social-media-advertising",
+      "destination": "/dubai/google-ads",
       "permanent": true
     },
     {
@@ -1180,7 +1180,7 @@
     },
     {
       "source": "/blog/real-estate-marketing-dubai-luxury-properties",
-      "destination": "/dubai/ai-for-real-estate",
+      "destination": "/dubai/real-estate-marketing",
       "permanent": false
     },
     {
@@ -1200,7 +1200,7 @@
     },
     {
       "source": "/blog/youtube-advertising-video-marketing-strategy",
-      "destination": "/dubai/social-media-advertising",
+      "destination": "/dubai/google-ads",
       "permanent": false
     },
     {
@@ -1545,12 +1545,12 @@
     },
     {
       "source": "/youtube-ads-expert",
-      "destination": "/dubai/social-media-advertising",
+      "destination": "/dubai/google-ads",
       "permanent": true
     },
     {
       "source": "/home/dubai/best-youtube-ads-expert",
-      "destination": "/dubai/social-media-advertising",
+      "destination": "/dubai/google-ads",
       "permanent": true
     },
     {
@@ -1760,7 +1760,7 @@
     },
     {
       "source": "/home/dubai/best-real-estate-marketer",
-      "destination": "/dubai/ai-for-real-estate",
+      "destination": "/dubai/real-estate-marketing",
       "permanent": true
     },
     {
@@ -2145,7 +2145,12 @@
     },
     {
       "source": "/seventy-two-real-estate-marketing-strategy-by-muneez",
-      "destination": "/dubai/ai-for-real-estate",
+      "destination": "/dubai/real-estate-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/seventy-two-real-estate-digital-marketing-roadmap-ceo-alignment",
+      "destination": "/dubai/real-estate-marketing",
       "permanent": true
     }
   ],

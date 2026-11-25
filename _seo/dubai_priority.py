@@ -215,6 +215,48 @@ PAGES["dubai/performance-marketing.html"] = dict(
   ])
 
 
+
+PAGES["dubai/real-estate-marketing.html"] = dict(
+  title="Real Estate Marketing in Dubai | Muneez Ahmed",
+  quick=("Real estate marketing in Dubai works best when Google Search captures active buyers, Meta, Snapchat and TikTok launch off-plan projects to investors, and every lead gets a WhatsApp reply within minutes. "
+         "Muneez Ahmed runs these campaigns for Dubai developers and brokerages within Trakheesi and RERA rules; for Kaye &amp; Co Real Estate they returned 12x ad spend and $420K in commission."))
+
+PAGES["dubai/website-development.html"] = dict(
+  title="Website Development in Dubai | Shopify, WordPress & React",
+  quick=("Website development in Dubai should deliver a fast, bilingual-ready site that turns visitors into WhatsApp enquiries and sales, with tracking, SEO and UAE payment options built in. "
+         "Muneez Ahmed builds Shopify, WordPress and custom React sites for UAE businesses, including e-commerce that has generated verified sales such as &euro;69,048 for Compass Jewelry."),
+  section=(
+   '<section class="sec sec-alt"><div class="narrow"><h2 class="h2">Building a website that sells in the UAE</h2>'
+   '<p class="lead">A good website is a sales tool first: fast, easy to act on, and measured.</p>'
+   + art("Shopify, WordPress or custom?", "The right platform depends on what the site has to do:")
+   + table(["Platform", "Best for", "Trade-off"], [
+       ["Shopify", "Online stores that need to launch quickly and scale", "Monthly platform and app fees"],
+       ["WordPress", "Service businesses, content and SEO-led sites", "Needs good hosting and regular updates"],
+       ["Custom (React / Next.js)", "Portals, dashboards, bookings and anything bespoke", "Higher build cost, full flexibility"],
+     ])
+   + art("What every UAE business website needs", "These are built in, not added later:")
+   + checklist([
+       "A WhatsApp button and click-to-call on every page, tracked as conversions",
+       "Fast loading on mobile, where most UAE visitors browse",
+       "Arabic and right-to-left layout support where your customers need it",
+       "UAE payment options for online sales, such as local card gateways and buy-now-pay-later",
+       "GA4, conversion tracking and a cookie consent setup that respects the UAE Personal Data Protection Law",
+       "Technical SEO from day one: clean URLs, schema markup, sitemaps and fast Core Web Vitals",
+     ])
+   + art("Results",
+         '<a href="/case-studies/compass-jewelry">Compass Jewelry</a> went from no online presence to &euro;69,048 in verified sales and 2,800+ orders, and '
+         '<a href="/case-studies/yallatoys">Yallatoys</a> in Qatar moved to a seamless web and mobile shopping experience. See all <a href="/case-studies">case studies</a>.')
+   + art("How a website project runs",
+         "It starts with a short call about goals, then a fixed proposal with scope, timeline and total. Design comes first so you see the site before it is built, then development, testing on real devices, launch and a handover so your team can edit content without a developer.")
+   + '<p class="muted" style="margin-top:1.5rem">Related: <a href="/dubai/web-design">web design in Dubai</a> &middot; <a href="/dubai/ai-website-development">AI-powered websites</a> &middot; <a href="/dubai/seo">SEO services</a> &middot; <a href="/dubai/digital-marketing-specialist">digital marketing specialist</a></p>'
+   + "</div></section>"),
+  faqs=[
+   ("How much does a website cost in Dubai?", "It depends on the platform, number of pages and features such as e-commerce or bookings. You receive one fixed proposal with scope, timeline and total after a free call."),
+   ("Should I choose Shopify or WordPress?", "Shopify suits online stores that want to launch fast. WordPress suits service businesses and content-led SEO. Custom React builds suit portals and bespoke features."),
+   ("Can my website support Arabic?", "Yes. Sites can be built bilingual with right-to-left Arabic layouts where your customers need them."),
+   ("Will my website be ready for SEO and ads?", "Yes. Technical SEO, schema markup, GA4 and conversion tracking for forms, calls and WhatsApp are set up before launch."),
+  ])
+
 AUTHOR = ('<section class="sec" style="padding:2.5rem 0"><div class="narrow"><div class="card row" style="gap:1.25rem;align-items:flex-start;flex-wrap:nowrap">'
           '<img src="/images/muneez-ahmed-192.png" alt="Muneez Ahmed" width="72" height="72" loading="lazy" style="width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0">'
           '<div><p class="muted" style="font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 .25rem">About the author</p>'

@@ -5,7 +5,7 @@ d.querySelectorAll('[data-menu]').forEach(function(b){b.addEventListener('click'
 d.querySelectorAll('.mobile-menu a').forEach(function(a){a.addEventListener('click',function(){d.querySelector('.nav').classList.remove('open')})});
 var f=d.getElementById('contact-form');if(f)f.addEventListener('submit',function(e){e.preventDefault();var v=function(n){return(f.elements[n]&&f.elements[n].value||'').trim()};
 var msg='Hi Muneez, I am '+v('name')+' ('+v('email')+', '+v('code')+' '+v('phone')+').'+(v('service')?' Interested in: '+v('service')+'.':'')+(v('message')?' '+v('message'):'');
-window.open('https://wa.me/971569623049?text='+encodeURIComponent(msg),'_blank');var ok=d.getElementById('contact-ok');if(ok){ok.hidden=false;f.hidden=true}});
+window.open('https://wa.me/971586388362?text='+encodeURIComponent(msg),'_blank');var ok=d.getElementById('contact-ok');if(ok){ok.hidden=false;f.hidden=true}});
 setIcon();if(!window.lucide){var t=setInterval(function(){if(window.lucide){clearInterval(t);lucide.createIcons()}},100)}})();
 
 (function(){var d=document;var bar=d.createElement('div');bar.className='progress';d.body.appendChild(bar);
