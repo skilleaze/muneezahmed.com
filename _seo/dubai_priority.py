@@ -104,32 +104,174 @@ PAGES = {
 }
 
 
+
+def cs(slug, name, result):
+    return f'<a href="/case-studies/{slug}">{name}</a>: {result}'
+
+
+PAGES["dubai/digital-marketing.html"]["quick"] = ("Digital marketing in Dubai works best as one plan across Google Search, Instagram, Snapchat, TikTok and LinkedIn, run in Arabic and English, "
+    "converting on WhatsApp and timed around Ramadan and the fourth quarter. Muneez Ahmed runs it senior-led for UAE businesses, with an average 6.2x return on ad spend across 50+ clients.")
+PAGES["dubai/digital-marketing-consultant.html"]["quick"] = ("A digital marketing consultant in Dubai audits your channels, fixes tracking and wasted ad spend, and sets a 90-day growth plan, then oversees "
+    "execution by your team or agency. Muneez Ahmed works this way with UAE founders and marketing teams, usually finding quick wins within the first month.")
+
+PAGES["dubai/ai-consultant.html"] = dict(
+  title="Best AI Consultant in Dubai & AI Consulting UAE | Muneez Ahmed",
+  quick=("Muneez Ahmed is an AI consultant in Dubai who helps UAE businesses find where AI pays off and then builds it: WhatsApp AI agents, workflow automation, "
+         "custom CRM and ERP, and AI forecasting. AI consulting engagements start with a two-week audit, ship the first working system within four to ten weeks "
+         "and are designed to comply with the UAE Personal Data Protection Law."),
+  faqs=[
+   ("What does AI consulting in the UAE include?", "An audit of where time and money are lost, a ranked list of AI use cases with expected payback, a 90-day roadmap, and hands-on implementation of the first systems, such as WhatsApp agents, automations or a custom CRM, plus training so your team uses them."),
+   ("How is an AI consultant different from an AI agency?", "An agency usually sells a team and a platform. An independent AI consultant stays vendor-neutral, picks the tools that fit your processes and data, and is personally accountable for the result."),
+  ])
+
+PAGES["dubai/digital-marketing-specialist.html"] = dict(
+  title="Best Digital Marketing Specialist in Dubai | Muneez Ahmed",
+  h1="Best Digital Marketing Specialist in Dubai",
+  quick=("Muneez Ahmed is a Dubai-based digital marketing specialist who plans and runs Google Ads, Meta, Snapchat, TikTok and LinkedIn campaigns, SEO and conversion tracking "
+         "for UAE businesses. Clients average a 6.2x return on ad spend across 50+ businesses, including 12x for Kaye &amp; Co Real Estate and 10x for Dubai Smile Dental."),
+  section=(
+   '<section class="sec sec-alt"><div class="narrow"><h2 class="h2">What a digital marketing specialist in Dubai does</h2>'
+   '<p class="lead">Hands-on execution across the channels that bring UAE customers, measured on leads and sales rather than clicks.</p>'
+   + art("Specialist, consultant or agency?",
+         "A digital marketing specialist builds and runs the campaigns: ad accounts, keywords, audiences, creative tests, landing pages and tracking. "
+         'A <a href="/dubai/digital-marketing-consultant">digital marketing consultant</a> sets strategy and oversees others. An agency adds a team for volume. '
+         "If your problem is that campaigns are not performing, you need a specialist who works inside the accounts every week.")
+   + art("Skills to look for in Dubai", "The UAE market rewards a specific mix of skills:")
+   + table(["Skill", "Why it matters in Dubai"], [
+       ["Google Ads Search &amp; Performance Max", "Captures high-intent searches for clinics, property, B2B and home services"],
+       ["Meta, Snapchat and TikTok ads", "Snapchat and TikTok reach younger UAE and Saudi audiences that Meta alone misses"],
+       ["Arabic and English campaigns", "Separate ad sets and landing pages for each language outperform mixed creative"],
+       ["GA4, server-side tracking and Consent Mode", "Accurate data after iOS privacy changes and consent rules"],
+       ["WhatsApp and CRM integration", "Most UAE enquiries arrive on WhatsApp and must be tracked back to the ad"],
+       ["SEO and Google Business Profile", "Long-term traffic that does not stop when the ad budget does"],
+     ])
+   + art("Results from UAE and GCC clients", "Verified results from recent work:")
+   + checklist([
+       cs("kaye-co", "Kaye &amp; Co Real Estate", "12x ROAS and $420K in commission revenue from off-plan and secondary leads"),
+       cs("lana-life-care", "Lana Life Care", "12x ROAS and $180K revenue for a Dubai home healthcare provider"),
+       cs("dubai-smile-dental", "Dubai Smile Dental", "10x ROAS and 300% more patient appointments"),
+       cs("al-barsha-fitness", "Al Barsha Fitness", "8x ROAS and 400+ new memberships"),
+       cs("yallatoys", "Yallatoys, Qatar", "8x ROAS for a leading toy retailer"),
+     ])
+   + art("What a digital marketing specialist costs in Dubai",
+         "You pay two things: the ad budget, which goes directly to Google, Meta, Snapchat or TikTok in AED, and a fee for managing the campaigns. "
+         "Fees depend on the number of channels and campaigns. You get one proposal after a free call, with scope, timeline and total agreed before work starts.")
+   + art("How to hire the right specialist", "Check these five things before you hire:")
+   + checklist([
+       "Case studies with real numbers, ideally in your industry and the UAE",
+       "Ad accounts, pixels and analytics set up in your company's name",
+       "Tracking fixed first, so every lead from WhatsApp, calls and forms is counted",
+       "Weekly or monthly reports on leads, sales and cost per acquisition",
+       "Knowledge of UAE rules: Advertiser Permits for creators, DHA rules for health ads and Trakheesi permits for property ads",
+     ])
+   + '<p class="muted" style="margin-top:1.5rem">Related: <a href="/dubai/digital-marketing">digital marketing services in Dubai</a> &middot; <a href="/dubai/performance-marketing">performance marketing specialist</a> &middot; <a href="/dubai/google-ads">Google Ads expert</a> &middot; <a href="/dubai/seo">SEO</a> &middot; <a href="/dubai/social-media-marketing">social media marketing</a></p>'
+   + "</div></section>"),
+  faqs=[
+   ("What does a digital marketing specialist do?", "Plans, builds and optimises campaigns on Google, Meta, Snapchat, TikTok and LinkedIn, sets up tracking, improves landing pages and reports on the leads and sales each channel brings."),
+   ("How much does a digital marketing specialist cost in Dubai?", "It depends on the channels and number of campaigns. Ad spend is paid directly to the platforms, and management is quoted in one proposal after a free discovery call."),
+   ("Should I hire a freelance specialist or an agency in Dubai?", "A senior specialist suits most small and mid-sized businesses: one expert works on your account directly. Agencies suit very large budgets that need a big production team."),
+   ("Which industries have you worked with in the UAE?", "Real estate, healthcare and dental clinics, home healthcare, fitness, retail and e-commerce, education and B2B services, with case studies for each on this site."),
+  ])
+
+PAGES["dubai/performance-marketing.html"] = dict(
+  title="Performance Marketing Specialist in Dubai | 6.2x ROAS",
+  h1="Performance Marketing Specialist in Dubai",
+  quick=("Performance marketing means paying for advertising that is measured on sales and leads, not reach. As a performance marketing specialist in Dubai, "
+         "Muneez Ahmed runs Google, Meta, Snapchat and TikTok campaigns tracked back to revenue in your CRM, with an average 6.2x return on ad spend across 50+ businesses."),
+  section=(
+   '<section class="sec sec-alt"><div class="narrow"><h2 class="h2">How performance marketing works</h2>'
+   '<p class="lead">Every dirham of ad spend is tracked to a lead or sale, and budget moves every week to whatever returns the most.</p>'
+   + art("The numbers that matter", "Performance marketing is judged on a short list of metrics:")
+   + table(["Metric", "What it tells you"], [
+       ["ROAS (return on ad spend)", "Revenue earned for every 1 AED spent on ads"],
+       ["CPL / CPA", "What each lead or each sale costs"],
+       ["CAC", "Total cost to win a customer, including management and tools"],
+       ["LTV", "What a customer is worth over time, which sets how much you can afford to pay for one"],
+       ["Conversion rate", "How many visitors become leads or buyers, usually the cheapest number to improve"],
+     ])
+   + art("Tracking that still works in 2026",
+         "Browser privacy changes and consent rules hide a large share of conversions from ad platforms. Reliable performance marketing needs GA4 with server-side tagging, "
+         "Meta Conversions API, Google enhanced conversions, offline conversion imports from your CRM and a way to tie WhatsApp enquiries back to the ad that produced them. "
+         "Without this, platforms optimise on guesswork.")
+   + art("Results across e-commerce and lead generation", "A selection of verified results:")
+   + checklist([
+       cs("kaye-co", "Kaye &amp; Co Real Estate, Dubai", "12x ROAS and $420K in commission revenue"),
+       cs("sassind-melbourne", "Sassind, Melbourne", "10.36x ROAS and $162,249 in revenue"),
+       cs("house-of-jersey", "House of Jersey", "10x ROAS and &#8377;85.84 lakh in annual revenue"),
+       cs("lark-ellen-farm", "Lark Ellen Farm", "9.17x ROAS and $172,000 in revenue"),
+       cs("flavored-pb-co", "Flavored PB Co", "6.73x ROAS from a seven-campaign Google Ads setup"),
+       cs("house-of-nutrition", "House of Nutrition", "4.08x ROAS and $131,299 from catalogue sales campaigns"),
+     ])
+   + art("Choosing a performance marketing specialist",
+         "Ask to see results in revenue, not clicks, and ask how conversions are tracked. A good specialist will want access to your CRM and sales numbers, "
+         "will test creative every few weeks, and will tell you when a channel should be switched off.")
+   + '<p class="muted" style="margin-top:1.5rem">Related: <a href="/dubai/digital-marketing-specialist">digital marketing specialist in Dubai</a> &middot; <a href="/dubai/google-ads">Google Ads</a> &middot; <a href="/dubai/facebook-ads">Facebook &amp; Instagram ads</a> &middot; <a href="/dubai/ppc">PPC</a> &middot; <a href="/case-studies">all case studies</a></p>'
+   + "</div></section>"),
+  faqs=[
+   ("What is a performance marketing specialist?", "A specialist who runs paid advertising judged only on measurable outcomes such as leads, sales, cost per acquisition and return on ad spend, and who moves budget to whatever performs best."),
+   ("What ROAS can I expect in Dubai?", "It depends on your margins, prices and market. Across 50+ client businesses the average has been 6.2x, with individual results from about 4x to 12x, but no honest specialist can guarantee a number before seeing your data."),
+   ("How long does performance marketing take to work?", "Tracking fixes and wasted-spend cuts often show results in the first few weeks. Campaigns usually need four to eight weeks of data to optimise fully."),
+   ("Which platforms do you run?", "Google Search, Performance Max, Shopping and YouTube, Meta (Facebook and Instagram), Snapchat, TikTok and LinkedIn."),
+  ])
+
+
+AUTHOR = ('<section class="sec" style="padding:2.5rem 0"><div class="narrow"><div class="card row" style="gap:1.25rem;align-items:flex-start;flex-wrap:nowrap">'
+          '<img src="/images/muneez-ahmed.png" alt="Muneez Ahmed" width="72" height="72" loading="lazy" style="width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0">'
+          '<div><p class="muted" style="font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 .25rem">About the author</p>'
+          '<p style="margin:0 0 .5rem"><strong>Muneez Ahmed</strong> is an AI &amp; growth consultant based in Dubai and co-founder of '
+          '<a href="https://www.skilleaze.com/" rel="noopener" target="_blank">Skilleaze</a> and <a href="https://strattiq.com/" rel="noopener" target="_blank">StrattIQ</a>. '
+          'He has scaled 50+ businesses with an average 6.2x return on ad spend, and was recognised with Google Ads Partner Excellence and the Meta Marketing Partner Award in 2024.</p>'
+          '<p class="muted" style="font-size:.875rem;margin:0"><a href="https://www.linkedin.com/in/mrmnz/" rel="noopener" target="_blank">LinkedIn</a> &middot; '
+          '<a href="/case-studies">Case studies</a> &middot; <a href="/awards">Awards</a> &middot; Last updated <time datetime="' + TODAY + '">25 November 2026</time></p></div></div></div></section>')
+
+
+def quick_box(text):
+    return ('<section class="sec" style="padding:2rem 0 0"><div class="narrow"><div class="card" style="border-left:4px solid var(--primary)">'
+            '<p style="font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;color:var(--primary);font-weight:700;margin:0 0 .5rem">Quick answer</p>'
+            f'<p style="margin:0;line-height:1.7;font-size:1.05rem">{text}</p></div></div></section>')
+
+
 def run():
     for path, cfg in PAGES.items():
         s = open(path, encoding="utf-8").read()
-        s = re.sub(r"<!--dxb:start-->.*?<!--dxb:end-->", "", s, flags=re.S)
-        s = re.sub(r"<!--dxbfaq:start-->.*?<!--dxbfaq:end-->", "", s, flags=re.S)
+        for tag in ("dxb", "dxbfaq", "dxbq", "dxba"):
+            s = re.sub(rf"<!--{tag}:start-->.*?<!--{tag}:end-->", "", s, flags=re.S)
         old = re.search(r"<title>(.*?)</title>", s).group(1)
         new = cfg["title"].replace("&", "&amp;")
         if old != new:
             s = s.replace(old, new)
             s = s.replace(old.replace("&amp;", "&"), cfg["title"])
-        m = re.search(r'(<section class="sec"><div class="narrow"><h2 class="h2">[^<]*what to know</h2>.*?</section>)', s, re.S)
-        s = s[:m.end()] + "<!--dxb:start-->" + cfg["section"] + "<!--dxb:end-->" + s[m.end():]
-        items = "".join(f'<details class="faq"><summary>{q}<i data-lucide="plus" style="width:18px;height:18px"></i></summary><p>{a}</p></details>' for q, a in cfg["faqs"])
-        s = s.replace('<div class="faqs">', '<div class="faqs"><!--dxbfaq:start-->' + items + "<!--dxbfaq:end-->", 1)
+        if cfg.get("h1"):
+            s = re.sub(r'(<h1 class="h1"[^>]*>)[^<]*(</h1>)', lambda m: m.group(1) + cfg["h1"] + m.group(2), s, count=1)
+        if cfg.get("quick"):
+            i = s.index("</section>", s.index('<section class="hero"')) + len("</section>")
+            s = s[:i] + "<!--dxbq:start-->" + quick_box(cfg["quick"]) + "<!--dxbq:end-->" + s[i:]
+        if cfg.get("section"):
+            m = re.search(r'(<section class="sec"><div class="narrow"><h2 class="h2">[^<]*what to know</h2>.*?</section>)', s, re.S)
+            s = s[:m.end()] + "<!--dxb:start-->" + cfg["section"] + "<!--dxb:end-->" + s[m.end():]
+        if cfg.get("faqs"):
+            items = "".join(f'<details class="faq"><summary>{q}<i data-lucide="plus" style="width:18px;height:18px"></i></summary><p>{a}</p></details>' for q, a in cfg["faqs"])
+            s = s.replace('<div class="faqs">', '<div class="faqs"><!--dxbfaq:start-->' + items + "<!--dxbfaq:end-->", 1)
+        # author box goes right before the FAQ section
+        k = s.find('<section class="sec"><div class="narrow"><h2 class="h2">Frequently asked questions')
+        if k > 0:
+            s = s[:k] + "<!--dxba:start-->" + AUTHOR + "<!--dxba:end-->" + s[k:]
+        faqs = cfg.get("faqs", [])
 
         def patch(mm):
             d = json.loads(mm.group(1))
             g = d["@graph"] if "@graph" in d else [d]
-            names = {q for q, _ in cfg["faqs"]}
+            names = {q for q, _ in faqs}
             for n in g:
-                if n.get("@type") == "FAQPage":
-                    n["mainEntity"] = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", a)}} for q, a in cfg["faqs"]] + [x for x in n["mainEntity"] if x["name"] not in names]
+                if n.get("@type") == "FAQPage" and faqs:
+                    n["mainEntity"] = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", a)}} for q, a in faqs] + [x for x in n["mainEntity"] if x["name"] not in names]
                 if n.get("@type") == "WebPage":
                     n["dateModified"] = TODAY
-            if not any(n.get("@type") == "FAQPage" for n in g):
-                g.append({"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in cfg["faqs"]]})
+                    n["author"] = {"@id": "https://www.muneezahmed.com/#person"}
+                    if cfg.get("quick"):
+                        n["abstract"] = re.sub("<[^>]+>", "", cfg["quick"])
+            if faqs and not any(n.get("@type") == "FAQPage" for n in g):
+                g.append({"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": re.sub("<[^>]+>", "", a)}} for q, a in faqs]})
             return '<script type="application/ld+json">' + json.dumps(d, ensure_ascii=False, separators=(",", ":")) + "</script>"
         s = re.sub(r'<script type="application/ld\+json">(.*?)</script>', patch, s, count=1, flags=re.S)
         open(path, "w", encoding="utf-8").write(s)

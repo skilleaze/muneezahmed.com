@@ -250,14 +250,18 @@ def local_section(key, svc, label):
     return f'<!--loc:start--><section class="sec{alt} loc loc-v{v}">{inner}</section><!--loc:end-->', f, v
 
 
-HOME = {"ai": ("/dubai/ai-consultant", ["AI consultant in Dubai", "AI consulting from Dubai", "AI consultant based in Dubai"]),
-        "mk": ("/dubai/digital-marketing", ["digital marketing in Dubai", "Dubai digital marketing services", "digital marketing work in Dubai"])}
+HOME = {"ai": ("/dubai/ai-consultant", ["working with an AI consultant in Dubai", "AI consulting in Dubai", "my work as an AI consultant in Dubai"]),
+        "digital-marketing": ("/dubai/digital-marketing", ["digital marketing services in Dubai", "digital marketing in Dubai", "my digital marketing work in Dubai"]),
+        "seo": ("/dubai/digital-marketing-specialist", ["hiring a digital marketing specialist in Dubai", "my work as a digital marketing specialist in Dubai", "digital marketing specialist services in Dubai"]),
+        "perf": ("/dubai/performance-marketing", ["hiring a performance marketing specialist in Dubai", "performance marketing in Dubai", "my work as a performance marketing specialist in Dubai"])}
 
 
 def home_link(svc, seed):
-    url, anchors = HOME["ai" if svc in ("ai-consulting", "ai-automation", "ai-chatbots", "custom-crm-erp") else "mk"]
+    key = ("ai" if svc in ("ai-consulting", "ai-automation", "ai-chatbots", "custom-crm-erp") else
+           "seo" if svc == "seo" else "perf" if svc in ("google-ads", "performance-marketing") else "digital-marketing")
+    url, anchors = HOME[key]
     a = pick(seed + "home", anchors)
-    lead = pick(seed + "homel", ["I'm based in Dubai and work with clients worldwide. More on my", "Home base is Dubai, where most of my clients are. See my", "Delivered from Dubai, the same way I work with UAE clients. Read about my"])
+    lead = pick(seed + "homel", ["I'm based in Dubai and work with clients worldwide. More about", "Home base is Dubai, where most of my clients are. Read about", "Delivered from Dubai, the same way I work with UAE clients. Read more on"])
     return f'<p class="muted" style="margin-top:1rem">{lead} <a href="{url}">{a}</a>.</p>'
 
 
