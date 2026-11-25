@@ -216,7 +216,7 @@ PAGES["dubai/performance-marketing.html"] = dict(
 
 
 AUTHOR = ('<section class="sec" style="padding:2.5rem 0"><div class="narrow"><div class="card row" style="gap:1.25rem;align-items:flex-start;flex-wrap:nowrap">'
-          '<img src="/images/muneez-ahmed.png" alt="Muneez Ahmed" width="72" height="72" loading="lazy" style="width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0">'
+          '<img src="/images/muneez-ahmed-192.png" alt="Muneez Ahmed" width="72" height="72" loading="lazy" style="width:72px;height:72px;border-radius:50%;object-fit:cover;flex-shrink:0">'
           '<div><p class="muted" style="font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 .25rem">About the author</p>'
           '<p style="margin:0 0 .5rem"><strong>Muneez Ahmed</strong> is an AI &amp; growth consultant based in Dubai and co-founder of '
           '<a href="https://www.skilleaze.com/" rel="noopener" target="_blank">Skilleaze</a> and <a href="https://strattiq.com/" rel="noopener" target="_blank">StrattIQ</a>. '

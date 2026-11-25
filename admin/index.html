@@ -12,13 +12,13 @@
 <meta name="robots" content="noindex,nofollow">
 <title>Admin · Muneez Ahmed</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&amp;family=Lato:wght@400;700;900&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap">
 <script>window.SKP_CONFIG={supabaseUrl:'https://ojshkwpvkzrkiwannqkk.supabase.co',supabaseAnonKey:'sb_publishable_m8RvHOepsDfqbMQxLDH_NA_qfv6Vc5G'};</script>
 <style>
-html,body{margin:0;background:#F4F6FA;font-family:Lato,system-ui,sans-serif;color:#2C3E50;-webkit-font-smoothing:antialiased}
-a{color:#042D7C}a:hover{color:#053BA0}
-*:focus-visible{outline:2px solid #2F5BEA;outline-offset:2px}
-input[type=date]{color-scheme:light}
+html,body{margin:0;background:#0f0f0f;font-family:Inter,system-ui,-apple-system,sans-serif;color:#f0f0f0;-webkit-font-smoothing:antialiased}
+a{color:#00d4ff}a:hover{color:#33ddff}
+*:focus-visible{outline:2px solid #00d4ff;outline-offset:2px}
+input[type=date]{color-scheme:dark}input::placeholder{color:#6b6b6b}
 [data-m=lbl]{display:none}
 @media (max-width:760px){[data-m=irow]{grid-template-columns:repeat(2,minmax(0,1fr))!important;row-gap:8px!important;padding:12px 0!important}[data-m=irow]>*:first-child{grid-column:1/-1}[data-m=lbl]{display:block!important}}
 @media (max-width:760px){
@@ -41,10 +41,10 @@ input[type=date]{min-width:0;max-width:100%}
 }
 @media (max-width:420px){[data-m=stats]{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important}[data-m=row]{grid-template-columns:minmax(0,1fr)!important}}
 [data-m=nav] button{transition:background .15s,color .15s}
-[data-m=nav] button:hover{background:rgba(255,255,255,.08)!important;color:#FFFFFF!important}
+[data-m=nav] button:hover{background:rgba(255,255,255,.08)!important;color:#ffffff!important}
 [data-m=nav]::-webkit-scrollbar{display:none}
 @media (max-width:900px){
-[data-m=shell]{grid-template-columns:minmax(0,1fr)!important;background:#F4F6FA!important}
+[data-m=shell]{grid-template-columns:minmax(0,1fr)!important;background:#0f0f0f!important}
 [data-m=side]{height:auto!important;padding:10px 12px!important;gap:10px!important;display:grid!important;grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"brand foot" "nav nav"}
 [data-m=brand]{grid-area:brand;padding:0!important}
 [data-m=sidefoot]{grid-area:foot;flex-direction:row!important;margin:0!important;padding:0!important;align-items:center}
@@ -61,129 +61,129 @@ input[type=date]{min-width:0;max-width:100%}
 
 <sc-if value="{{ showLogin }}" hint-placeholder-val="{{ true }}">
 <div style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;box-sizing:border-box">
-<form onSubmit="{{ login }}" style="width:100%;max-width:400px;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:24px;padding:32px;box-sizing:border-box;display:flex;flex-direction:column;gap:18px;box-shadow:0 20px 60px rgba(4,45,124,.08)">
-<span style="font-family:'Cormorant Garamond',serif;font-weight:700;font-size:30px;color:#042D7C;line-height:1">Muneez Ahmed</span>
+<form onSubmit="{{ login }}" style="width:100%;max-width:400px;background:#1a1a1a;border:1px solid #333333;border-radius:24px;padding:32px;box-sizing:border-box;display:flex;flex-direction:column;gap:18px;box-shadow:0 20px 60px rgba(0,212,255,.08)">
+<div style="display:flex;align-items:center;gap:12px"><img src="/images/muneez-ahmed-192.png" alt="Muneez Ahmed" width="56" height="56" style="width:56px;height:56px;border-radius:50%;object-fit:cover;border:2px solid #00d4ff;background:#1a1a1a"><span style="font-weight:800;font-size:22px;color:#f0f0f0;line-height:1">Muneez Ahmed</span></div>
 <div style="display:flex;flex-direction:column;gap:6px">
-<h1 style="margin:0;font-family:'Cormorant Garamond',serif;font-weight:700;font-size:34px;color:#042D7C;line-height:1.05">Website admin</h1>
-<div style="font-size:14px;color:#5B6B7F">muneezahmed.com visitors, enquiries, SEO and Google search.</div>
+<h1 style="margin:0;font-weight:700;font-size:34px;color:#00d4ff;line-height:1.05">Website admin</h1>
+<div style="font-size:14px;color:#a8a8a8">muneezahmed.com visitors, enquiries, SEO and Google search.</div>
 </div>
-<label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:700;color:#2C3E50">Username
-<input value="{{ user }}" onInput="{{ setUser }}" autocomplete="username" style="font:inherit;font-size:15px;font-weight:400;padding:13px 14px;border:1px solid #D5DAE3;border-radius:12px;background:#FFFFFF;color:#2C3E50;outline:none">
+<label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:700;color:#f0f0f0">Username
+<input value="{{ user }}" onInput="{{ setUser }}" autocomplete="username" style="font:inherit;font-size:15px;font-weight:400;padding:13px 14px;border:1px solid #3a3a3a;border-radius:12px;background:#1a1a1a;color:#f0f0f0;outline:none">
 </label>
-<label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:700;color:#2C3E50">Password
-<input type="password" value="{{ pass }}" onInput="{{ setPass }}" autocomplete="current-password" style="font:inherit;font-size:15px;font-weight:400;padding:13px 14px;border:1px solid #D5DAE3;border-radius:12px;background:#FFFFFF;color:#2C3E50;outline:none">
+<label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:700;color:#f0f0f0">Password
+<input type="password" value="{{ pass }}" onInput="{{ setPass }}" autocomplete="current-password" style="font:inherit;font-size:15px;font-weight:400;padding:13px 14px;border:1px solid #3a3a3a;border-radius:12px;background:#1a1a1a;color:#f0f0f0;outline:none">
 </label>
-<sc-if value="{{ err }}"><div style="font-size:13px;color:#B42318;background:#FEF3F2;border-radius:10px;padding:10px 12px">{{ err }}</div></sc-if>
-<button type="submit" style="background:#042D7C;color:#FFFFFF;border:none;border-radius:12px;padding:14px 18px;font:inherit;font-weight:900;font-size:15px;cursor:pointer;text-align:left" style-hover="background:#053BA0">{{ loginLabel }}</button>
+<sc-if value="{{ err }}"><div style="font-size:13px;color:#ff6b5e;background:#3d1512;border-radius:10px;padding:10px 12px">{{ err }}</div></sc-if>
+<button type="submit" style="background:#00d4ff;color:#0f0f0f;border:none;border-radius:12px;padding:14px 18px;font:inherit;font-weight:900;font-size:15px;cursor:pointer;text-align:left" style-hover="background:#33ddff">{{ loginLabel }}</button>
 </form>
 </div>
 </sc-if>
 
 <sc-if value="{{ showDash }}">
-<div data-m="shell" style="min-height:100vh;display:grid;grid-template-columns:252px minmax(0,1fr);background:linear-gradient(90deg,#042D7C 252px,#F4F6FA 252px)">
+<div data-m="shell" style="min-height:100vh;display:grid;grid-template-columns:252px minmax(0,1fr);background:linear-gradient(90deg,#00d4ff 252px,#0f0f0f 252px)">
 
-<aside data-m="side" style="position:sticky;top:0;height:100vh;box-sizing:border-box;background:#042D7C;color:#FFFFFF;display:flex;flex-direction:column;padding:22px 14px;gap:22px;z-index:30">
+<aside data-m="side" style="position:sticky;top:0;height:100vh;box-sizing:border-box;background:#121212;color:#f0f0f0;border-right:1px solid #262626;display:flex;flex-direction:column;padding:22px 14px;gap:22px;z-index:30">
 <div data-m="brand" style="display:flex;align-items:center;gap:12px;padding:0 10px">
-<img src="/assets/logo-blue.png" onerror="this.style.display='none'" alt="" width="36" height="36" style="width:36px;height:36px;border-radius:50%;background:#FFFFFF;padding:3px;box-sizing:border-box;object-fit:contain">
-<div style="display:flex;flex-direction:column;line-height:1.15"><span style="font-family:'Cormorant Garamond',serif;font-weight:700;font-size:22px">Muneez Ahmed</span><span style="font-size:11px;font-weight:700;letter-spacing:.12em;color:rgba(255,255,255,.6);text-transform:uppercase">Website admin</span></div>
+<img src="/images/muneez-ahmed-96.png" alt="Muneez Ahmed" width="40" height="40" style="width:40px;height:40px;border-radius:50%;object-fit:cover;border:2px solid #00d4ff;background:#1a1a1a">
+<div style="display:flex;flex-direction:column;line-height:1.15"><span style="font-weight:700;font-size:22px">Muneez Ahmed</span><span style="font-size:11px;font-weight:700;letter-spacing:.12em;color:rgba(255,255,255,.6);text-transform:uppercase">Website admin</span></div>
 </div>
 <nav data-m="nav" style="display:flex;flex-direction:column;gap:2px">
 <div data-m="navlbl" style="font-size:11px;font-weight:900;letter-spacing:.14em;color:rgba(255,255,255,.45);text-transform:uppercase;padding:0 12px 8px">Menu</div>
 <sc-for list="{{ nav }}" as="n" hint-placeholder-count="8">
-<button onClick="{{ n.go }}" style="{{ n.style }}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0"><path d="{{ n.d }}"></path></svg><span style="flex:1;text-align:left;white-space:nowrap">{{ n.label }}</span><sc-if value="{{ n.hasBadge }}"><span style="background:#1E8F6A;color:#FFFFFF;border-radius:999px;padding:2px 8px;font-size:11px;font-weight:900">{{ n.badge }}</span></sc-if></button>
+<button onClick="{{ n.go }}" style="{{ n.style }}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0"><path d="{{ n.d }}"></path></svg><span style="flex:1;text-align:left;white-space:nowrap">{{ n.label }}</span><sc-if value="{{ n.hasBadge }}"><span style="background:#1E8F6A;color:#ffffff;border-radius:999px;padding:2px 8px;font-size:11px;font-weight:900">{{ n.badge }}</span></sc-if></button>
 </sc-for>
 </nav>
 <div data-m="sidefoot" style="margin-top:auto;display:flex;flex-direction:column;gap:10px;padding:0 6px">
 <div style="display:flex;align-items:center;gap:10px;background:rgba(255,255,255,.08);border-radius:14px;padding:12px 14px;font-size:13px;font-weight:700"><span style="width:8px;height:8px;border-radius:50%;background:#3DD39A;box-shadow:0 0 0 4px rgba(61,211,154,.2)"></span>{{ liveText }}</div>
-<button onClick="{{ logout }}" style="border:1px solid rgba(255,255,255,.22);background:transparent;color:#FFFFFF;border-radius:12px;padding:11px 14px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;text-align:left" style-hover="background:rgba(255,255,255,.08)">Log out</button>
+<button onClick="{{ logout }}" style="border:1px solid rgba(255,255,255,.22);background:transparent;color:#ffffff;border-radius:12px;padding:11px 14px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;text-align:left" style-hover="background:rgba(255,255,255,.08)">Log out</button>
 </div>
 </aside>
 
 <div style="min-width:0;display:flex;flex-direction:column">
-<header data-m="top" style="position:sticky;top:0;z-index:20;background:rgba(244,246,250,.9);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid #E3E4E8">
+<header data-m="top" style="position:sticky;top:0;z-index:20;background:rgba(15,15,15,.88);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid #333333">
 <div data-m="pad" style="max-width:1240px;margin:0 auto;padding:16px 32px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap">
 <div style="display:flex;flex-direction:column;gap:2px;min-width:0">
-<h1 style="margin:0;font-family:'Cormorant Garamond',serif;font-weight:700;font-size:30px;line-height:1.1;color:#042D7C">{{ pageTitle }}</h1>
-<span style="font-size:13px;color:#5B6B7F">{{ pageSub }}</span>
+<h1 style="margin:0;font-weight:700;font-size:30px;line-height:1.1;color:#00d4ff">{{ pageTitle }}</h1>
+<span style="font-size:13px;color:#a8a8a8">{{ pageSub }}</span>
 </div>
 <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
-<div style="display:flex;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:999px;padding:3px;gap:2px">
+<div style="display:flex;background:#1a1a1a;border:1px solid #333333;border-radius:999px;padding:3px;gap:2px">
 <sc-for list="{{ ranges }}" as="r" hint-placeholder-count="4">
 <button onClick="{{ r.pick }}" style="border:none;background:{{ r.bg }};color:{{ r.fg }};border-radius:999px;padding:7px 13px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap">{{ r.label }}</button>
 </sc-for>
 </div>
-<div style="display:flex;align-items:center;gap:6px;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:999px;padding:3px 10px">
-<input type="date" value="{{ from }}" onChange="{{ setFrom }}" style="font:inherit;font-size:13px;padding:5px 2px;border:none;background:transparent;color:#2C3E50">
-<span style="font-size:13px;color:#8A96A8">→</span>
-<input type="date" value="{{ to }}" onChange="{{ setTo }}" style="font:inherit;font-size:13px;padding:5px 2px;border:none;background:transparent;color:#2C3E50">
+<div style="display:flex;align-items:center;gap:6px;background:#1a1a1a;border:1px solid #333333;border-radius:999px;padding:3px 10px">
+<input type="date" value="{{ from }}" onChange="{{ setFrom }}" style="font:inherit;font-size:13px;padding:5px 2px;border:none;background:transparent;color:#f0f0f0">
+<span style="font-size:13px;color:#8a8a8a">→</span>
+<input type="date" value="{{ to }}" onChange="{{ setTo }}" style="font:inherit;font-size:13px;padding:5px 2px;border:none;background:transparent;color:#f0f0f0">
 </div>
-<button onClick="{{ refresh }}" style="border:none;background:#042D7C;color:#FFFFFF;border-radius:999px;padding:10px 18px;font:inherit;font-size:13px;font-weight:900;cursor:pointer" style-hover="background:#053BA0">{{ refreshLabel }}</button>
+<button onClick="{{ refresh }}" style="border:none;background:#00d4ff;color:#0f0f0f;border-radius:999px;padding:10px 18px;font:inherit;font-size:13px;font-weight:900;cursor:pointer" style-hover="background:#33ddff">{{ refreshLabel }}</button>
 </div>
 </div>
 </header>
 
 <main data-m="pad" style="width:100%;max-width:1240px;margin:0 auto;padding:28px 32px 72px;display:flex;flex-direction:column;gap:24px;box-sizing:border-box">
 
-<sc-if value="{{ err }}"><div style="font-size:14px;color:#B42318;background:#FEF3F2;border:1px solid #FECDCA;border-radius:14px;padding:14px 16px">{{ err }}</div></sc-if>
-<sc-if value="{{ insErr }}"><div style="font-size:14px;color:#B42318;background:#FEF3F2;border:1px solid #FECDCA;border-radius:14px;padding:12px 16px">{{ insErr }}</div></sc-if>
+<sc-if value="{{ err }}"><div style="font-size:14px;color:#ff6b5e;background:#3d1512;border:1px solid #FECDCA;border-radius:14px;padding:14px 16px">{{ err }}</div></sc-if>
+<sc-if value="{{ insErr }}"><div style="font-size:14px;color:#ff6b5e;background:#3d1512;border:1px solid #FECDCA;border-radius:14px;padding:12px 16px">{{ insErr }}</div></sc-if>
 
 <sc-if value="{{ showKpis }}">
 <div data-m="stats" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px">
 <sc-for list="{{ kpiCards }}" as="k" hint-placeholder-count="8">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:18px;padding:18px 20px;display:flex;flex-direction:column;gap:6px;min-width:0;box-shadow:0 1px 2px rgba(4,45,124,.04)">
-<span style="font-size:12px;font-weight:900;letter-spacing:.06em;color:#5B6B7F;text-transform:uppercase">{{ k.label }}</span>
-<span style="font-size:30px;font-weight:900;color:#042D7C;line-height:1.1;letter-spacing:-.01em">{{ k.value }}</span>
-<span style="font-size:12px;color:#8A96A8">{{ k.sub }}</span>
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:18px;padding:18px 20px;display:flex;flex-direction:column;gap:6px;min-width:0;box-shadow:0 1px 2px rgba(0,212,255,.04)">
+<span style="font-size:12px;font-weight:900;letter-spacing:.06em;color:#a8a8a8;text-transform:uppercase">{{ k.label }}</span>
+<span style="font-size:30px;font-weight:900;color:#00d4ff;line-height:1.1;letter-spacing:-.01em">{{ k.value }}</span>
+<span style="font-size:12px;color:#8a8a8a">{{ k.sub }}</span>
 </div>
 </sc-for>
 </div>
 </sc-if>
 
 <sc-if value="{{ pg.overview }}">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0">
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0">
 <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap">
-<h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">Daily visitors and WhatsApp enquiries</h3>
-<div style="display:flex;gap:14px;font-size:12px;color:#5B6B7F"><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:3px;background:#B9C8F5"></span>Visitors</span><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:3px;background:#1E8F6A"></span>WhatsApp</span></div>
+<h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">Daily visitors and WhatsApp enquiries</h3>
+<div style="display:flex;gap:14px;font-size:12px;color:#a8a8a8"><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:3px;background:#00a8cc"></span>Visitors</span><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:3px;background:#1E8F6A"></span>WhatsApp</span></div>
 </div>
-<div style="height:220px;display:flex;align-items:flex-end;gap:3px;border-bottom:1px solid #E3E4E8;overflow-x:auto">
+<div style="height:220px;display:flex;align-items:flex-end;gap:3px;border-bottom:1px solid #333333;overflow-x:auto">
 <sc-for list="{{ daily }}" as="d" hint-placeholder-count="14">
 <div title="{{ d.tip }}" style="flex:1 0 8px;min-width:8px;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:stretch;gap:2px">
 <div style="height:{{ d.ph }};background:#1E8F6A;border-radius:3px 3px 0 0"></div>
-<div style="height:{{ d.vh }};background:#B9C8F5;border-radius:3px 3px 0 0"></div>
+<div style="height:{{ d.vh }};background:#00a8cc;border-radius:3px 3px 0 0"></div>
 </div>
 </sc-for>
 </div>
-<div style="display:flex;justify-content:space-between;font-size:11px;color:#8A96A8"><span>{{ from }}</span><span>{{ to }}</span></div>
+<div style="display:flex;justify-content:space-between;font-size:11px;color:#8a8a8a"><span>{{ from }}</span><span>{{ to }}</span></div>
 </div>
 </sc-if>
 
 <sc-if value="{{ showMap }}">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0">
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0">
 <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap">
 <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
-<h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">Visitors around the world</h3>
-<span style="display:inline-flex;align-items:center;gap:8px;background:#E7F6EF;color:#14684D;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:900"><span style="width:8px;height:8px;border-radius:50%;background:#1E8F6A;box-shadow:0 0 0 4px rgba(30,143,106,.18)"></span>{{ liveText }}</span>
+<h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">Visitors around the world</h3>
+<span style="display:inline-flex;align-items:center;gap:8px;background:#10372b;color:#3dd39a;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:900"><span style="width:8px;height:8px;border-radius:50%;background:#1E8F6A;box-shadow:0 0 0 4px rgba(30,143,106,.18)"></span>{{ liveText }}</span>
 </div>
-<div style="display:flex;gap:14px;font-size:12px;color:#5B6B7F;flex-wrap:wrap"><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:50%;background:#2F5BEA;opacity:.55"></span>In period</span><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:50%;background:#1E8F6A"></span>Live (last 5 min)</span></div>
+<div style="display:flex;gap:14px;font-size:12px;color:#a8a8a8;flex-wrap:wrap"><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:50%;background:#00d4ff;opacity:.55"></span>In period</span><span style="display:flex;align-items:center;gap:6px"><span style="width:10px;height:10px;border-radius:50%;background:#1E8F6A"></span>Live (last 5 min)</span></div>
 </div>
 <div data-m="stack" style="display:grid;grid-template-columns:minmax(0,3fr) minmax(220px,1fr);gap:20px;align-items:start">
-<div data-m="map" style="position:relative;width:100%;aspect-ratio:2/1;background:#F4F7FC;border-radius:16px;overflow:hidden;min-width:0">
+<div data-m="map" style="position:relative;width:100%;aspect-ratio:2/1;background:#141414;border-radius:16px;overflow:hidden;min-width:0">
 <div ref="{{ mapRef }}" style="position:absolute;inset:0"></div>
-<sc-if value="{{ mapMsg }}"><div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:13px;color:#8A96A8;padding:16px;text-align:center">{{ mapMsg }}</div></sc-if>
+<sc-if value="{{ mapMsg }}"><div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:13px;color:#8a8a8a;padding:16px;text-align:center">{{ mapMsg }}</div></sc-if>
 </div>
 <div style="display:flex;flex-direction:column;gap:10px;min-width:0">
-<div style="font-size:12px;font-weight:900;letter-spacing:.1em;color:#8A96A8">TOP COUNTRIES</div>
-<sc-if value="{{ noCountries }}"><div style="font-size:13px;color:#8A96A8">No location data yet.</div></sc-if>
+<div style="font-size:12px;font-weight:900;letter-spacing:.1em;color:#8a8a8a">TOP COUNTRIES</div>
+<sc-if value="{{ noCountries }}"><div style="font-size:13px;color:#8a8a8a">No location data yet.</div></sc-if>
 <sc-for list="{{ countries }}" as="c" hint-placeholder-count="6">
 <div style="display:flex;flex-direction:column;gap:5px">
-<div style="display:flex;justify-content:space-between;gap:10px;font-size:13px"><span style="min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ c.label }}</span><strong style="color:#042D7C">{{ c.n }}</strong></div>
-<div style="height:6px;background:#EEF1F5;border-radius:999px;overflow:hidden"><div style="height:100%;width:{{ c.pct }};background:#2F5BEA;border-radius:999px"></div></div>
+<div style="display:flex;justify-content:space-between;gap:10px;font-size:13px"><span style="min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ c.label }}</span><strong style="color:#00d4ff">{{ c.n }}</strong></div>
+<div style="height:6px;background:#262626;border-radius:999px;overflow:hidden"><div style="height:100%;width:{{ c.pct }};background:#00d4ff;border-radius:999px"></div></div>
 </div>
 </sc-for>
 <sc-if value="{{ hasLive }}">
-<div style="font-size:12px;font-weight:900;letter-spacing:.1em;color:#8A96A8;margin-top:8px">LIVE NOW</div>
+<div style="font-size:12px;font-weight:900;letter-spacing:.1em;color:#8a8a8a;margin-top:8px">LIVE NOW</div>
 <sc-for list="{{ live }}" as="v" hint-placeholder-count="3">
-<div style="display:flex;justify-content:space-between;gap:10px;font-size:13px"><span style="min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ v.label }}</span><span style="color:#14684D;font-weight:900">{{ v.n }}</span></div>
+<div style="display:flex;justify-content:space-between;gap:10px;font-size:13px"><span style="min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ v.label }}</span><span style="color:#3dd39a;font-weight:900">{{ v.n }}</span></div>
 </sc-for>
 </sc-if>
 </div>
@@ -192,86 +192,99 @@ input[type=date]{min-width:0;max-width:100%}
 </sc-if>
 
 <sc-if value="{{ showChips }}">
-<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:16px;padding:12px 14px"><span style="font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:#5B6B7F;margin-right:4px">Channel</span>
+<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#1a1a1a;border:1px solid #333333;border-radius:16px;padding:12px 14px"><span style="font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:#a8a8a8;margin-right:4px">Channel</span>
 <sc-for list="{{ insChips }}" as="c" hint-placeholder-count="6"><button onClick="{{ c.pick }}" style="border:1px solid {{ c.bd }};background:{{ c.bg }};color:{{ c.fg }};border-radius:999px;padding:7px 12px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap">{{ c.label }}</button></sc-for>
 </div>
 </sc-if>
 
 <sc-if value="{{ pg.google }}">
-<div style="background:linear-gradient(135deg,#042D7C,#0A4BC2);color:#FFFFFF;border-radius:20px;padding:24px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap">
+<div style="background:linear-gradient(135deg,#062a33,#0b4552);color:#ffffff;border-radius:20px;padding:24px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap">
 <div style="display:flex;flex-direction:column;gap:6px;max-width:620px"><h3 style="margin:0;font-size:17px;font-weight:900">Organic Google keywords</h3><div style="font-size:13px;line-height:1.5;color:rgba(255,255,255,.8)">Pulled from Google Search Console. Data runs 2–3 days behind.</div></div>
-<button onClick="{{ loadGsc }}" style="background:#FFFFFF;color:#042D7C;border:none;border-radius:999px;padding:11px 20px;font:inherit;font-size:14px;font-weight:900;cursor:pointer" style-hover="background:#EEF3FF">{{ gscLabel }}</button>
+<button onClick="{{ loadGsc }}" style="background:#00d4ff;color:#0f0f0f;border:none;border-radius:999px;padding:11px 20px;font:inherit;font-size:14px;font-weight:900;cursor:pointer" style-hover="background:#0d2a31">{{ gscLabel }}</button>
 </div>
-<sc-if value="{{ hasGscMsg }}"><div style="font-size:13px;color:#9A6100;background:#FFF6E5;border-radius:12px;padding:10px 14px">{{ gscMsg }}</div></sc-if>
+<sc-if value="{{ hasGscMsg }}"><div style="font-size:13px;color:#ffb547;background:#3a2c0c;border-radius:12px;padding:10px 14px">{{ gscMsg }}</div></sc-if>
+</sc-if>
+
+<sc-if value="{{ pg.ga }}">
+<div style="background:linear-gradient(135deg,#062a33,#0b4552);color:#ffffff;border-radius:20px;padding:24px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap">
+<div style="display:flex;flex-direction:column;gap:6px;max-width:640px"><h3 style="margin:0;font-size:17px;font-weight:900">Google Analytics 4 history</h3><div style="font-size:13px;line-height:1.5;color:rgba(255,255,255,.8)">Everything GA4 has recorded for muneezahmed.com. Pick “12 months” above to see the full year. {{ gaProp }}</div></div>
+<button onClick="{{ loadGa }}" style="background:#00d4ff;color:#0f0f0f;border:none;border-radius:999px;padding:11px 20px;font:inherit;font-size:14px;font-weight:900;cursor:pointer">{{ gaLabel }}</button>
+</div>
+<sc-if value="{{ hasGaMsg }}"><div style="font-size:13px;line-height:1.55;color:#ffb547;background:#3a2c0c;border-radius:12px;padding:12px 14px">{{ gaMsg }}</div></sc-if>
+<sc-if value="{{ hasGaDaily }}"><div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:16px;min-width:0">
+<h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">Daily users</h3>
+<div style="height:200px;display:flex;align-items:flex-end;gap:2px;border-bottom:1px solid #333333;overflow-x:auto">
+<sc-for list="{{ gaDaily }}" as="d" hint-placeholder-count="14"><div title="{{ d.tip }}" style="flex:1 0 3px;min-width:3px;height:{{ d.h }};background:#00a8cc;border-radius:2px 2px 0 0"></div></sc-for>
+</div></div></sc-if>
 </sc-if>
 
 <sc-if value="{{ pg.seo }}">
-<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:16px;padding:12px 14px">
-<input value="{{ seoQ }}" onInput="{{ setSeoQ }}" placeholder="Search by URL or title, e.g. dubai or seattle" style="flex:1 1 240px;min-width:0;font:inherit;font-size:14px;padding:9px 12px;border:1px solid #D5DAE3;border-radius:10px;background:#FFFFFF;color:#2C3E50;outline:none">
+<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:#1a1a1a;border:1px solid #333333;border-radius:16px;padding:12px 14px">
+<input value="{{ seoQ }}" onInput="{{ setSeoQ }}" placeholder="Search by URL or title, e.g. dubai or seattle" style="flex:1 1 240px;min-width:0;font:inherit;font-size:14px;padding:9px 12px;border:1px solid #3a3a3a;border-radius:10px;background:#1a1a1a;color:#f0f0f0;outline:none">
 <sc-for list="{{ seoChips }}" as="c" hint-placeholder-count="8"><button onClick="{{ c.pick }}" style="border:1px solid {{ c.bd }};background:{{ c.bg }};color:{{ c.fg }};border-radius:999px;padding:7px 12px;font:inherit;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap">{{ c.label }}</button></sc-for>
 </div>
-<div style="font-size:13px;color:#5B6B7F;line-height:1.5;padding:0 4px">Pages with issues are listed first, then the most visited. Views come from your own tracker for the selected dates. Google clicks and position fill in after you press “Load Google keywords” on the Google Search tab.</div>
+<div style="font-size:13px;color:#a8a8a8;line-height:1.5;padding:0 4px">Pages with issues are listed first, then the most visited. Views come from your own tracker for the selected dates. Google clicks and position fill in after you press “Load Google keywords” on the Google Search tab.</div>
 </sc-if>
 
 <sc-for list="{{ insTables }}" as="t" hint-placeholder-count="3">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
-<div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap"><h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">{{ t.title }}</h3><span style="font-size:12px;color:#5B6B7F">{{ t.note }}</span></div>
-<sc-if value="{{ t.empty }}"><div style="font-size:13px;color:#8A96A8;line-height:1.5">{{ t.emptyText }}</div></sc-if>
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
+<div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap"><h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">{{ t.title }}</h3><span style="font-size:12px;color:#a8a8a8">{{ t.note }}</span></div>
+<sc-if value="{{ t.empty }}"><div style="font-size:13px;color:#8a8a8a;line-height:1.5">{{ t.emptyText }}</div></sc-if>
 <sc-if value="{{ t.has }}"><div style="display:flex;flex-direction:column">
-<div data-m="thead" style="display:grid;grid-template-columns:{{ t.grid }};gap:12px;padding:8px 0;font-size:11px;font-weight:900;letter-spacing:.06em;color:#8A96A8;text-transform:uppercase;border-bottom:1px solid #EEF1F5"><sc-for list="{{ t.cols }}" as="h" hint-placeholder-count="5"><span>{{ h.l }}</span></sc-for></div>
-<sc-for list="{{ t.rows }}" as="r" hint-placeholder-count="5"><div data-m="irow" style="display:grid;grid-template-columns:{{ t.grid }};gap:12px;padding:11px 0;font-size:13px;border-bottom:1px solid #EEF1F5;align-items:center"><sc-for list="{{ r.c }}" as="c" hint-placeholder-count="5"><span style="min-width:0;display:flex;flex-direction:column;gap:2px"><span data-m="lbl" style="font-size:10px;font-weight:900;color:#8A96A8;text-transform:uppercase;letter-spacing:.05em">{{ c.l }}</span><span style="{{ c.vs }}">{{ c.v }}</span></span></sc-for></div></sc-for>
+<div data-m="thead" style="display:grid;grid-template-columns:{{ t.grid }};gap:12px;padding:8px 0;font-size:11px;font-weight:900;letter-spacing:.06em;color:#8a8a8a;text-transform:uppercase;border-bottom:1px solid #262626"><sc-for list="{{ t.cols }}" as="h" hint-placeholder-count="5"><span>{{ h.l }}</span></sc-for></div>
+<sc-for list="{{ t.rows }}" as="r" hint-placeholder-count="5"><div data-m="irow" style="display:grid;grid-template-columns:{{ t.grid }};gap:12px;padding:11px 0;font-size:13px;border-bottom:1px solid #262626;align-items:center"><sc-for list="{{ r.c }}" as="c" hint-placeholder-count="5"><span style="min-width:0;display:flex;flex-direction:column;gap:2px"><span data-m="lbl" style="font-size:10px;font-weight:900;color:#8a8a8a;text-transform:uppercase;letter-spacing:.05em">{{ c.l }}</span><span style="{{ c.vs }}">{{ c.v }}</span></span></sc-for></div></sc-for>
 </div></sc-if>
 </div>
 </sc-for>
 
 <sc-if value="{{ pg.visitors }}">
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:16px">
-<sc-for list="{{ insGroups }}" as="g" hint-placeholder-count="6"><div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:12px;min-width:0"><h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">{{ g.title }}</h3><sc-if value="{{ g.empty }}"><div style="font-size:13px;color:#8A96A8">No data yet.</div></sc-if>
-<sc-for list="{{ g.rows }}" as="r" hint-placeholder-count="4"><div style="display:flex;flex-direction:column;gap:4px"><div style="display:flex;justify-content:space-between;gap:8px;font-size:13px"><span style="min-width:0;overflow-wrap:anywhere">{{ r.label }}</span><span style="font-weight:900;white-space:nowrap">{{ r.n }}</span></div><div style="height:6px;background:#EEF1F5;border-radius:999px;overflow:hidden"><div style="height:100%;width:{{ r.pct }};background:#2F5BEA;border-radius:999px"></div></div></div></sc-for></div></sc-for>
+<sc-for list="{{ insGroups }}" as="g" hint-placeholder-count="6"><div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:12px;min-width:0"><h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">{{ g.title }}</h3><sc-if value="{{ g.empty }}"><div style="font-size:13px;color:#8a8a8a">No data yet.</div></sc-if>
+<sc-for list="{{ g.rows }}" as="r" hint-placeholder-count="4"><div style="display:flex;flex-direction:column;gap:4px"><div style="display:flex;justify-content:space-between;gap:8px;font-size:13px"><span style="min-width:0;overflow-wrap:anywhere">{{ r.label }}</span><span style="font-weight:900;white-space:nowrap">{{ r.n }}</span></div><div style="height:6px;background:#262626;border-radius:999px;overflow:hidden"><div style="height:100%;width:{{ r.pct }};background:#00d4ff;border-radius:999px"></div></div></div></sc-for></div></sc-for>
 </div>
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
-<div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap"><h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">When people visit</h3><span style="font-size:12px;color:#5B6B7F">Dubai time · darker = busier</span></div>
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
+<div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap"><h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">When people visit</h3><span style="font-size:12px;color:#a8a8a8">Dubai time · darker = busier</span></div>
 <div style="overflow-x:auto"><div style="min-width:560px;display:flex;flex-direction:column;gap:3px">
-<div style="display:grid;grid-template-columns:40px repeat(24,minmax(0,1fr));gap:3px;font-size:10px;color:#8A96A8"><span></span><sc-for list="{{ insHourLabels }}" as="h" hint-placeholder-count="24"><span style="text-align:center">{{ h.l }}</span></sc-for></div>
-<sc-for list="{{ insHeat }}" as="w" hint-placeholder-count="7"><div style="display:grid;grid-template-columns:40px repeat(24,minmax(0,1fr));gap:3px;align-items:center"><span style="font-size:11px;font-weight:700;color:#5B6B7F">{{ w.day }}</span><sc-for list="{{ w.cells }}" as="c" hint-placeholder-count="24"><span title="{{ c.tip }}" style="height:18px;border-radius:4px;background:{{ c.bg }}"></span></sc-for></div></sc-for>
+<div style="display:grid;grid-template-columns:40px repeat(24,minmax(0,1fr));gap:3px;font-size:10px;color:#8a8a8a"><span></span><sc-for list="{{ insHourLabels }}" as="h" hint-placeholder-count="24"><span style="text-align:center">{{ h.l }}</span></sc-for></div>
+<sc-for list="{{ insHeat }}" as="w" hint-placeholder-count="7"><div style="display:grid;grid-template-columns:40px repeat(24,minmax(0,1fr));gap:3px;align-items:center"><span style="font-size:11px;font-weight:700;color:#a8a8a8">{{ w.day }}</span><sc-for list="{{ w.cells }}" as="c" hint-placeholder-count="24"><span title="{{ c.tip }}" style="height:18px;border-radius:4px;background:{{ c.bg }}"></span></sc-for></div></sc-for>
 </div></div>
 </div>
 </sc-if>
 
 <sc-if value="{{ pg.sessions }}">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:14px;min-width:0">
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:14px;min-width:0">
 <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap">
-<div style="display:flex;flex-direction:column;gap:4px;max-width:640px"><h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">Visitor sessions</h3><div style="font-size:13px;color:#5B6B7F;line-height:1.5">Each card is one visit: where it came from and the pages viewed, in order.</div></div>
+<div style="display:flex;flex-direction:column;gap:4px;max-width:640px"><h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">Visitor sessions</h3><div style="font-size:13px;color:#a8a8a8;line-height:1.5">Each card is one visit: where it came from and the pages viewed, in order.</div></div>
 </div>
 </div>
-<sc-if value="{{ noInsSessions }}"><div style="font-size:13px;color:#8A96A8;background:#FFFFFF;border:1px solid #E3E4E8;border-radius:16px;padding:16px">No sessions in this period yet.</div></sc-if>
+<sc-if value="{{ noInsSessions }}"><div style="font-size:13px;color:#8a8a8a;background:#1a1a1a;border:1px solid #333333;border-radius:16px;padding:16px">No sessions in this period yet.</div></sc-if>
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr));gap:14px">
-<sc-for list="{{ insSessions }}" as="v" hint-placeholder-count="4"><div style="border:1px solid #E3E4E8;border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:7px;min-width:0;background:#FFFFFF">
-<div style="display:flex;justify-content:space-between;gap:8px;font-size:12px;color:#5B6B7F"><span>{{ v.when }}</span><span style="background:#EEF3FF;color:#042D7C;border-radius:999px;padding:2px 8px;font-weight:900">{{ v.tag }}</span></div>
-<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><span style="font-size:15px;font-weight:900;color:#2C3E50">{{ v.where }}</span><span title="{{ v.qwhy }}" style="background:{{ v.qbg }};color:{{ v.qfg }};border-radius:999px;padding:2px 8px;font-size:11px;font-weight:900">{{ v.q }}</span></div>
-<div style="font-size:12px;color:#5B6B7F">{{ v.who }}</div>
-<div style="font-size:13px;color:#042D7C;font-weight:700">{{ v.src }}</div>
-<div style="font-size:12px;color:#2C3E50">{{ v.stats }}</div>
-<sc-if value="{{ v.hasActs }}"><div style="font-size:12px;font-weight:900;color:#14684D">Key action: {{ v.acts }}</div></sc-if>
-<div style="font-size:12px;color:#5B6B7F;overflow-wrap:anywhere;line-height:1.5">{{ v.journey }}</div>
-<div style="font-size:11px;color:#8A96A8;overflow-wrap:anywhere;user-select:all;border-top:1px solid #EEF1F5;padding-top:8px">Session ID: {{ v.sid }}</div>
+<sc-for list="{{ insSessions }}" as="v" hint-placeholder-count="4"><div style="border:1px solid #333333;border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:7px;min-width:0;background:#1a1a1a">
+<div style="display:flex;justify-content:space-between;gap:8px;font-size:12px;color:#a8a8a8"><span>{{ v.when }}</span><span style="background:#0d2a31;color:#00d4ff;border-radius:999px;padding:2px 8px;font-weight:900">{{ v.tag }}</span></div>
+<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><span style="font-size:15px;font-weight:900;color:#f0f0f0">{{ v.where }}</span><span title="{{ v.qwhy }}" style="background:{{ v.qbg }};color:{{ v.qfg }};border-radius:999px;padding:2px 8px;font-size:11px;font-weight:900">{{ v.q }}</span></div>
+<div style="font-size:12px;color:#a8a8a8">{{ v.who }}</div>
+<div style="font-size:13px;color:#00d4ff;font-weight:700">{{ v.src }}</div>
+<div style="font-size:12px;color:#f0f0f0">{{ v.stats }}</div>
+<sc-if value="{{ v.hasActs }}"><div style="font-size:12px;font-weight:900;color:#3dd39a">Key action: {{ v.acts }}</div></sc-if>
+<div style="font-size:12px;color:#a8a8a8;overflow-wrap:anywhere;line-height:1.5">{{ v.journey }}</div>
+<div style="font-size:11px;color:#8a8a8a;overflow-wrap:anywhere;user-select:all;border-top:1px solid #262626;padding-top:8px">Session ID: {{ v.sid }}</div>
 </div></sc-for>
 </div>
 </sc-if>
 
 <sc-if value="{{ pg.activity }}">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
-<sc-if value="{{ noEvents }}"><div style="font-size:13px;color:#8A96A8">No activity in this period.</div></sc-if>
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:12px;min-width:0">
+<sc-if value="{{ noEvents }}"><div style="font-size:13px;color:#8a8a8a">No activity in this period.</div></sc-if>
 <div style="overflow-x:auto">
 <div data-m="tbl" style="min-width:640px;display:flex;flex-direction:column">
-<div data-m="thead" style="display:grid;grid-template-columns:150px 140px minmax(0,1fr) 140px 90px;gap:12px;padding:8px 0;font-size:11px;font-weight:900;letter-spacing:.06em;color:#8A96A8;text-transform:uppercase;border-bottom:1px solid #EEF1F5"><span>When</span><span>Event</span><span>Page</span><span>Source</span><span>Device</span></div>
+<div data-m="thead" style="display:grid;grid-template-columns:150px 140px minmax(0,1fr) 140px 90px;gap:12px;padding:8px 0;font-size:11px;font-weight:900;letter-spacing:.06em;color:#8a8a8a;text-transform:uppercase;border-bottom:1px solid #262626"><span>When</span><span>Event</span><span>Page</span><span>Source</span><span>Device</span></div>
 <sc-for list="{{ events }}" as="e" hint-placeholder-count="6">
-<div data-m="row" style="display:grid;grid-template-columns:150px 140px minmax(0,1fr) 140px 90px;gap:12px;padding:11px 0;font-size:13px;border-bottom:1px solid #EEF1F5;align-items:center">
-<span style="color:#5B6B7F">{{ e.date }}</span>
-<span><span style="background:#EEF3FF;color:#042D7C;border-radius:999px;padding:4px 10px;font-size:12px;font-weight:900">{{ e.ev }}</span></span>
+<div data-m="row" style="display:grid;grid-template-columns:150px 140px minmax(0,1fr) 140px 90px;gap:12px;padding:11px 0;font-size:13px;border-bottom:1px solid #262626;align-items:center">
+<span style="color:#a8a8a8">{{ e.date }}</span>
+<span><span style="background:#0d2a31;color:#00d4ff;border-radius:999px;padding:4px 10px;font-size:12px;font-weight:900">{{ e.ev }}</span></span>
 <span style="min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ e.path }}</span>
-<span style="color:#5B6B7F;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ e.source }}</span>
-<span style="color:#5B6B7F">{{ e.dev }}</span>
+<span style="color:#a8a8a8;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ e.source }}</span>
+<span style="color:#a8a8a8">{{ e.dev }}</span>
 </div>
 </sc-for>
 </div>
@@ -280,17 +293,17 @@ input[type=date]{min-width:0;max-width:100%}
 </sc-if>
 
 <sc-if value="{{ pg.tracking }}">
-<div style="background:#FFFFFF;border:1px solid #E3E4E8;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:14px;min-width:0">
+<div style="background:#1a1a1a;border:1px solid #333333;border-radius:20px;padding:24px;display:flex;flex-direction:column;gap:14px;min-width:0">
 <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap">
-<h3 style="margin:0;font-size:16px;font-weight:900;color:#2C3E50">Marketing tags</h3>
-<span style="font-size:12px;color:#5B6B7F">{{ tagNote }}</span>
+<h3 style="margin:0;font-size:16px;font-weight:900;color:#f0f0f0">Marketing tags</h3>
+<span style="font-size:12px;color:#a8a8a8">{{ tagNote }}</span>
 </div>
 <div style="display:flex;flex-direction:column">
 <sc-for list="{{ channels }}" as="c" hint-placeholder-count="2">
-<div data-m="chan" style="display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) minmax(0,1.2fr);gap:14px;align-items:center;padding:14px 0;border-bottom:1px solid #EEF1F5">
-<div style="display:flex;flex-direction:column;gap:3px;min-width:0"><span style="font-size:15px;font-weight:900;color:#2C3E50">{{ c.name }}</span><span style="font-size:12px;color:#8A96A8;word-break:break-all">{{ c.id }}</span></div>
+<div data-m="chan" style="display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) minmax(0,1.2fr);gap:14px;align-items:center;padding:14px 0;border-bottom:1px solid #262626">
+<div style="display:flex;flex-direction:column;gap:3px;min-width:0"><span style="font-size:15px;font-weight:900;color:#f0f0f0">{{ c.name }}</span><span style="font-size:12px;color:#8a8a8a;word-break:break-all">{{ c.id }}</span></div>
 <div><span style="display:inline-flex;align-items:center;gap:6px;background:{{ c.bg }};color:{{ c.fg }};border-radius:999px;padding:6px 12px;font-size:12px;font-weight:900"><span style="width:7px;height:7px;border-radius:50%;background:{{ c.fg }}"></span>{{ c.status }}</span></div>
-<div style="font-size:13px;color:#5B6B7F;line-height:1.45;min-width:0;word-break:break-word">{{ c.detail }}</div>
+<div style="font-size:13px;color:#a8a8a8;line-height:1.45;min-width:0;word-break:break-word">{{ c.detail }}</div>
 </div>
 </sc-for>
 </div>
@@ -323,16 +336,17 @@ class Component extends DCLogic {
   async drawMap(){const el=this.mapEl;if(!el)return;try{await this.libs();}catch(e){this.setState({geoErr:'Could not load the world map. Check your connection.'});return;}const d3=window.d3,tj=window.topojson;if(!d3||!tj||!this._world)return;
     const W=1000,H=500,pr=d3.geoEqualEarth().fitExtent([[12,12],[W-12,H-12]],{type:'Sphere'}),pa=d3.geoPath(pr);const land=tj.feature(this._world,this._world.objects.countries);
     const g=this.state.geo||{},pts=g.points||[],lv=g.live||[],mx=Math.max(1,...pts.map(p=>p.n));const K=el.clientWidth&&el.clientWidth<640?Math.min(2.4,640/el.clientWidth):1;const esc=v=>String(v||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
-    let h='<svg viewBox="0 0 '+W+' '+H+'" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style="display:block"><path d="'+pa({type:'Sphere'})+'" fill="#F4F7FC"/><path d="'+pa(land)+'" fill="#DCE3EF" stroke="#FFFFFF" stroke-width="0.6"/>';
-    pts.forEach(p=>{const c=pr([+p.lon,+p.lat]);if(!c)return;const r=((3+Math.sqrt(p.n/mx)*9)*K).toFixed(1);const tp=esc([p.city,p.country].filter(Boolean).join(', ')||'Unknown')+' · '+p.n+' visitor'+(p.n==1?'':'s');h+='<circle data-tip="'+tp+'" cx="'+c[0].toFixed(1)+'" cy="'+c[1].toFixed(1)+'" r="'+r+'" fill="#2F5BEA" fill-opacity=".45" stroke="#2F5BEA" stroke-opacity=".7" stroke-width="1"><title>'+esc([p.city,p.country].filter(Boolean).join(', '))+' · '+p.n+' visitor'+(p.n==1?'':'s')+'</title></circle>';});
-    lv.forEach(p=>{const c=pr([+p.lon,+p.lat]);if(!c)return;const x=c[0].toFixed(1),y=c[1].toFixed(1);const tl='Live: '+esc([p.city,p.country].filter(Boolean).join(', ')||'Unknown')+' · '+p.n+' now';h+='<circle cx="'+x+'" cy="'+y+'" r="'+(3*K).toFixed(1)+'" fill="#1E8F6A" style="animation:skpulse 1.8s ease-out infinite"/><circle data-tip="'+tl+'" cx="'+x+'" cy="'+y+'" r="'+(4.5*K).toFixed(1)+'" fill="#1E8F6A" stroke="#FFFFFF" stroke-width="1.5"><title>Live: '+esc([p.city,p.country].filter(Boolean).join(', '))+' · '+p.n+' now'+(p.path?' · '+esc(p.path):'')+'</title></circle>';});
-    el.innerHTML=h+'</svg><div data-maptip style="position:absolute;display:none;pointer-events:none;background:#0B1A3A;color:#FFFFFF;font-size:12px;font-weight:700;padding:6px 10px;border-radius:10px;white-space:nowrap;transform:translate(-50%,-130%);box-shadow:0 6px 20px rgba(0,0,0,.2)"></div>';const tip=el.querySelector('[data-maptip]');const show=ev=>{const c=ev.target.closest&&ev.target.closest('[data-tip]');if(!c){tip.style.display='none';return;}const b=el.getBoundingClientRect(),cb=c.getBoundingClientRect();tip.textContent=c.getAttribute('data-tip');tip.style.left=Math.min(b.width-60,Math.max(60,cb.left-b.left+cb.width/2))+'px';tip.style.top=(cb.top-b.top)+'px';tip.style.display='block';};el.onclick=show;el.onmousemove=show;el.onmouseleave=()=>{tip.style.display='none';};if(!this._mapRs){this._mapRs=1;let t;window.addEventListener('resize',()=>{clearTimeout(t);t=setTimeout(()=>this.drawMap(),250);});}}
+    let h='<svg viewBox="0 0 '+W+' '+H+'" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" style="display:block"><path d="'+pa({type:'Sphere'})+'" fill="#141414"/><path d="'+pa(land)+'" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="0.6"/>';
+    pts.forEach(p=>{const c=pr([+p.lon,+p.lat]);if(!c)return;const r=((3+Math.sqrt(p.n/mx)*9)*K).toFixed(1);const tp=esc([p.city,p.country].filter(Boolean).join(', ')||'Unknown')+' · '+p.n+' visitor'+(p.n==1?'':'s');h+='<circle data-tip="'+tp+'" cx="'+c[0].toFixed(1)+'" cy="'+c[1].toFixed(1)+'" r="'+r+'" fill="#00d4ff" fill-opacity=".45" stroke="#00d4ff" stroke-opacity=".7" stroke-width="1"><title>'+esc([p.city,p.country].filter(Boolean).join(', '))+' · '+p.n+' visitor'+(p.n==1?'':'s')+'</title></circle>';});
+    lv.forEach(p=>{const c=pr([+p.lon,+p.lat]);if(!c)return;const x=c[0].toFixed(1),y=c[1].toFixed(1);const tl='Live: '+esc([p.city,p.country].filter(Boolean).join(', ')||'Unknown')+' · '+p.n+' now';h+='<circle cx="'+x+'" cy="'+y+'" r="'+(3*K).toFixed(1)+'" fill="#1E8F6A" style="animation:skpulse 1.8s ease-out infinite"/><circle data-tip="'+tl+'" cx="'+x+'" cy="'+y+'" r="'+(4.5*K).toFixed(1)+'" fill="#1E8F6A" stroke="#1a1a1a" stroke-width="1.5"><title>Live: '+esc([p.city,p.country].filter(Boolean).join(', '))+' · '+p.n+' now'+(p.path?' · '+esc(p.path):'')+'</title></circle>';});
+    el.innerHTML=h+'</svg><div data-maptip style="position:absolute;display:none;pointer-events:none;background:#000000;color:#ffffff;font-size:12px;font-weight:700;padding:6px 10px;border-radius:10px;white-space:nowrap;transform:translate(-50%,-130%);box-shadow:0 6px 20px rgba(0,0,0,.2)"></div>';const tip=el.querySelector('[data-maptip]');const show=ev=>{const c=ev.target.closest&&ev.target.closest('[data-tip]');if(!c){tip.style.display='none';return;}const b=el.getBoundingClientRect(),cb=c.getBoundingClientRect();tip.textContent=c.getAttribute('data-tip');tip.style.left=Math.min(b.width-60,Math.max(60,cb.left-b.left+cb.width/2))+'px';tip.style.top=(cb.top-b.top)+'px';tip.style.display='block';};el.onclick=show;el.onmousemove=show;el.onmouseleave=()=>{tip.style.display='none';};if(!this._mapRs){this._mapRs=1;let t;window.addEventListener('resize',()=>{clearTimeout(t);t=setTimeout(()=>this.drawMap(),250);});}}
   componentDidMount(){this._lt=setInterval(()=>{if(this.cred&&document.visibilityState==='visible')this.loadGeo();},30000);try{const s=JSON.parse(sessionStorage.getItem('ma_site_admin')||'null');if(s&&s.u&&s.p){this.cred=s;window.SKNotify&&SKNotify.start(s);this.setState({authed:true},()=>this.load());}}catch(e){}}
   async rpc(fn,body){const C=window.SKP_CONFIG||{};const r=await fetch(C.supabaseUrl+'/rest/v1/rpc/'+fn,{method:'POST',headers:{'Content-Type':'application/json',apikey:C.supabaseAnonKey,Authorization:'Bearer '+C.supabaseAnonKey},body:JSON.stringify(body)});const t=await r.text();let j=null;try{j=JSON.parse(t)}catch(e){}if(!r.ok){const m=(j&&(j.message||j.hint))||t||'Request failed';if(/sk_admin|cvb_admin|function .* does not exist|Could not find the function/i.test(m))throw new Error('Database setup needed: run website-admin.sql in Supabase → SQL Editor.');throw new Error(m);}return j;}
   async login(e){e&&e.preventDefault&&e.preventDefault();const u=this.state.user.trim(),p=this.state.pass;if(!u||!p){this.setState({err:'Enter your username and password.'});return;}
     this.setState({busy:true,err:''});try{const ok=await this.rpc('ma_admin_login',{p_user:u,p_pass:p});if(!ok){this.setState({busy:false,err:'Wrong username or password.'});return;}this.cred={u,p};window.SKNotify&&SKNotify.start(this.cred);try{sessionStorage.setItem('ma_site_admin',JSON.stringify(this.cred));}catch(x){}this.setState({authed:true,busy:false,pass:''},()=>this.load());}catch(x){this.setState({busy:false,err:x.message});}}
+  async loadGa(){if(!this.cred)return;this.setState({gaBusy:true,gaErr:''});try{const C=window.SKP_CONFIG||{};const r=await fetch(C.supabaseUrl+'/functions/v1/ma-ga4',{method:'POST',headers:{'Content-Type':'application/json',apikey:C.supabaseAnonKey,Authorization:'Bearer '+C.supabaseAnonKey},body:JSON.stringify({user:this.cred.u,pass:this.cred.p,from:this.state.from,to:this.state.to})});const j=await r.json();if(j.setup)this.setState({ga:null,gaBusy:false,gaErr:'Google Analytics is not connected yet: the service account secret is missing in Supabase.'});else if(j.noAccess)this.setState({ga:null,gaBusy:false,gaErr:'The service account '+j.account+' cannot see the GA4 property for '+j.measurementId+' yet. In Google Analytics → Admin → Property access management, add it as a Viewer.'});else if(j.error)this.setState({ga:null,gaBusy:false,gaErr:/has not been used in project|disabled/.test(j.error)?'Turn on the Google Analytics Admin API and Google Analytics Data API for the service account’s Google Cloud project, then add '+(j.account||'the service account')+' as a Viewer in GA4. '+j.error.replace(/^Analytics (Admin|Data) API: /,''):j.error});else this.setState({ga:j,gaBusy:false});}catch(x){this.setState({gaBusy:false,gaErr:x.message});}}
   loadSeo(){if(this.state.seoData)return;fetch('/admin/pages.json',{cache:'no-store'}).then(r=>r.json()).then(d=>this.setState({seoData:d})).catch(()=>{});}
-  async load(){if(!this.cred)return;this.loadSeo();this.setState({busy:true,err:''});try{const d=await this.rpc('ma_admin_stats',{p_user:this.cred.u,p_pass:this.cred.p,p_from:this.state.from,p_to:this.state.to});this.setState({data:d,busy:false});this.loadGeo();this.loadIns();}catch(x){if(/Wrong username/i.test(x.message)){this.logout();return;}this.setState({busy:false,err:x.message});}}
+  async load(){if(!this.cred)return;this.loadSeo();this.loadGa();this.setState({busy:true,err:''});try{const d=await this.rpc('ma_admin_stats',{p_user:this.cred.u,p_pass:this.cred.p,p_from:this.state.from,p_to:this.state.to});this.setState({data:d,busy:false});this.loadGeo();this.loadIns();}catch(x){if(/Wrong username/i.test(x.message)){this.logout();return;}this.setState({busy:false,err:x.message});}}
 
   async loadIns(){if(!this.cred)return;try{const d=await this.rpc('ma_insights',{p_user:this.cred.u,p_pass:this.cred.p,p_site:SITE,p_from:this.state.from,p_to:this.state.to});this.setState({ins:d,insErr:''});}catch(x){this.setState({insErr:/setup needed|sk_insights|does not exist|Could not find/i.test(x.message)?'Insights setup needed: run admin-insights.sql in Supabase → SQL Editor.':x.message});}}
   async loadGsc(){if(!this.cred)return;this.setState({gscBusy:true,gscErr:''});try{const C=window.SKP_CONFIG||{};const r=await fetch(C.supabaseUrl+'/functions/v1/ma-gsc',{method:'POST',headers:{'Content-Type':'application/json',apikey:C.supabaseAnonKey,Authorization:'Bearer '+C.supabaseAnonKey},body:JSON.stringify({user:this.cred.u,pass:this.cred.p,site:SITE,from:this.state.from,to:this.state.to})});const j=await r.json().catch(()=>({}));if(j.setup){this.setState({gscBusy:false,gscErr:'Search Console is not connected yet. Follow “Connect Google Search Console” in the README (one time).'});return;}if(!r.ok||j.error)throw new Error(j.error||('Error '+r.status));this.setState({gsc:j,gscBusy:false});}catch(x){this.setState({gscBusy:false,gscErr:/Failed to fetch|404|not found/i.test(x.message)?'Search Console is not connected yet. Deploy the gsc-insights function (see README).':x.message});}}
@@ -344,9 +358,9 @@ class Component extends DCLogic {
       {label:'Avg engagement time',value:fmt(S?(K.sec||0)/S:0),sub:'Active time per session'},{label:'Pages per session',value:S?((K.pages||0)/S).toFixed(1):'—',sub:nf(K.pages)+' page views'},
       {label:'Key actions',value:nf(K.conv),sub:ACT},{label:'Conversion rate',value:pc(K.conv_sessions,S),sub:'Sessions with a key action'}];
     const CHS=['All','Organic search','Organic social','Paid search','Paid social','AI assistants','Direct','Referral','Email','Paid other','Other campaigns'];const have=new Set((I.channels||[]).map(c=>c.ch));
-    const insChips=CHS.filter(c=>c==='All'||have.has(c)).map(c=>{const on=cur===c;return {label:c,pick:()=>this.setState({insCh:c}),bg:on?'#042D7C':'#FFFFFF',fg:on?'#FFFFFF':'#2C3E50',bd:on?'#042D7C':'#E3E4E8'};});
+    const insChips=CHS.filter(c=>c==='All'||have.has(c)).map(c=>{const on=cur===c;return {label:c,pick:()=>this.setState({insCh:c}),bg:on?'#00d4ff':'#1a1a1a',fg:on?'#0f0f0f':'#f0f0f0',bd:on?'#00d4ff':'#333333'};});
     const tb=(title,note,cols,grid,rows,emptyText)=>({title,note,grid,cols:cols.map(l=>({l})),empty:!rows.length,has:rows.length>0,emptyText:emptyText||'No data in this period yet.',
-      rows:rows.map(r=>({c:r.map((v,i)=>({l:cols[i],v:v==null||v===''?'—':String(v),vs:i===0?'font-weight:700;color:#2C3E50;overflow-wrap:anywhere':'color:#2C3E50'}))}))});
+      rows:rows.map(r=>({c:r.map((v,i)=>({l:cols[i],v:v==null||v===''?'—':String(v),vs:i===0?'font-weight:700;color:#f0f0f0;overflow-wrap:anywhere':'color:#f0f0f0'}))}))});
     const by=x=>cur==='All'||x.ch===cur;const sfx=cur==='All'?'':' · '+cur;
     const T=[tb('Traffic by channel','Organic, paid, social, AI and direct',['Channel','Sessions','Users','Engaged','Avg time','Key actions','Conv. rate'],'minmax(0,1.6fr) repeat(6,minmax(0,1fr))',(I.channels||[]).map(c=>[c.ch,nf(c.sessions),nf(c.users),pc(c.engaged,c.sessions),fmt(c.avg_sec),nf(c.conv),pc(c.conv,c.sessions)]))];
     const pm={};(I.platforms||[]).filter(by).forEach(p=>{const k=p.plat+'|'+p.ch;pm[k]=p;});
@@ -367,10 +381,10 @@ class Component extends DCLogic {
     const A=I.audience||{};const mk=(title,rows)=>{const m=Math.max(1,...rows.map(r=>+r.n));return {title,empty:!rows.length,rows:rows.map(r=>({label:r.k||'Unknown',n:nf(r.n),pct:Math.round(r.n/m*100)+'%'}))};};
     const insGroups=[mk('New vs returning',A.newret||[]),mk('Devices',A.devices||[]),mk('Browsers and apps',A.browsers||[]),mk('Operating systems',A.os||[]),mk('Screen sizes',A.screens||[]),mk('Languages',A.langs||[]),mk('Cities',A.cities||[])];
     const HM={};(I.hours||[]).forEach(x=>HM[x.d+'-'+x.h]=+x.n);const hm=Math.max(1,...Object.values(HM));const DN=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
-    const insHeat=DN.map((dn,i)=>({day:dn,cells:Array.from({length:24},(_,h)=>{const n=HM[(i+1)+'-'+h]||0;return {bg:n?'rgba(4,45,124,'+(0.15+0.85*n/hm).toFixed(2)+')':'#F1F3F7',tip:dn+' '+String(h).padStart(2,'0')+':00 · '+n+' session'+(n===1?'':'s')};})}));
+    const insHeat=DN.map((dn,i)=>({day:dn,cells:Array.from({length:24},(_,h)=>{const n=HM[(i+1)+'-'+h]||0;return {bg:n?'rgba(0,212,255,'+(0.15+0.85*n/hm).toFixed(2)+')':'#262626',tip:dn+' '+String(h).padStart(2,'0')+':00 · '+n+' session'+(n===1?'':'s')};})}));
     const insHourLabels=Array.from({length:24},(_,h)=>({l:h%3===0?String(h):''}));
     const insSessions=(I.sessions||[]).filter(by).slice(0,40).map(x=>({when:when(x.st),where:[x.city,x.country].filter(Boolean).join(', ')||'Unknown location',who:[x.dev,x.br,x.os].filter(Boolean).join(' · '),
-      src:x.ch+' · '+(x.plat||'direct')+(x.term?' · keyword: '+x.term:'')+(x.camp?' · campaign: '+x.camp:''),q:x.quality||'Real',qwhy:x.qreason||'',qbg:x.quality==='Suspicious'?'#FFF6E5':'#E8F7EF',qfg:x.quality==='Suspicious'?'#9A6100':'#14684D',stats:x.pages+' page'+(x.pages==1?'':'s')+' · '+fmt(x.sec)+' active'+(x.depth?' · scrolled '+x.depth+'%':''),acts:x.acts||'',hasActs:!!x.acts,journey:x.journey||x.land||'/',tag:x.isnew==='1'?'New':'Returning',sid:x.sid}));
+      src:x.ch+' · '+(x.plat||'direct')+(x.term?' · keyword: '+x.term:'')+(x.camp?' · campaign: '+x.camp:''),q:x.quality||'Real',qwhy:x.qreason||'',qbg:x.quality==='Suspicious'?'#3a2c0c':'#10372b',qfg:x.quality==='Suspicious'?'#ffb547':'#3dd39a',stats:x.pages+' page'+(x.pages==1?'':'s')+' · '+fmt(x.sec)+' active'+(x.depth?' · scrolled '+x.depth+'%':''),acts:x.acts||'',hasActs:!!x.acts,journey:x.journey||x.land||'/',tag:x.isnew==='1'?'New':'Returning',sid:x.sid}));
     const SP=(s.seoData||{}).pages||[],VW={},GP={};(I.pages||[]).forEach(p=>VW[p.path]=+p.views);((s.gsc||{}).pages||[]).forEach(r=>{GP[String(r.keys[0]).replace(/^https?:\/\/[^/]+/,'').replace(/\/$/,'')||'/']=r;});
     const sq=(s.seoQ||'').toLowerCase().trim(),sf=s.seoF||'All';
     const srows=SP.filter(r=>(sf==='All'||(sf==='Has issues'?r.i.length>0:r.k===sf))&&(!sq||r.p.toLowerCase().includes(sq)||(r.t||'').toLowerCase().includes(sq)));
@@ -378,14 +392,27 @@ class Component extends DCLogic {
     T.push(tb('All site pages','Showing '+nf(sshow.length)+' of '+nf(srows.length)+(SP.length?'':' · loading…'),['Page','Type','Words','Title','Views','Google','Status'],'minmax(0,2.6fr) minmax(0,1fr) repeat(4,minmax(0,.8fr)) minmax(0,1.4fr)',
       sshow.map(r=>{const g=GP[r.p];return [r.p+(r.t?'  ·  '+r.t:''),r.k,nf(r.w),r.tl+' chars',VW[r.p]?nf(VW[r.p]):'—',g?nf(g.clicks)+' clicks · #'+(+g.position).toFixed(1):'—',r.ix?(r.i.join(', ')||'OK'):'Private (noindex)'];}),'No pages match this search.'));
     const SF=['All','Has issues','Core','Dubai','City page','City service','Case study','Blog'];
-    const seoChips=SF.map(c=>{const on=sf===c;return {label:c,pick:()=>this.setState({seoF:c}),bg:on?'#042D7C':'#FFFFFF',fg:on?'#FFFFFF':'#2C3E50',bd:on?'#042D7C':'#E3E4E8'};});
+    const seoChips=SF.map(c=>{const on=sf===c;return {label:c,pick:()=>this.setState({seoF:c}),bg:on?'#00d4ff':'#1a1a1a',fg:on?'#0f0f0f':'#f0f0f0',bd:on?'#00d4ff':'#333333'};});
     const idx=SP.filter(r=>r.ix),iss=idx.filter(r=>r.i.length);
     const seoKpis=[{label:'Pages on the site',value:nf(SP.length),sub:nf(idx.length)+' indexable'},{label:'In sitemap',value:nf(idx.filter(r=>r.sm).length),sub:'of '+nf(idx.length)+' indexable pages'},
       {label:'Pages with issues',value:nf(iss.length),sub:iss.length?'Use the “Has issues” filter':'All clear'},{label:'Average words',value:nf(idx.length?Math.round(idx.reduce((a,r)=>a+r.w,0)/idx.length):0),sub:'Per indexable page'},
       {label:'With FAQ schema',value:nf(idx.filter(r=>r.fq).length),sub:'Eligible for FAQ rich data'},{label:'Pages viewed',value:nf(Object.keys(VW).length),sub:'Got visits in this period'}];
-    const SEC=t=>/^All site pages/.test(t)?'seo':/^(Traffic quality|Traffic by channel|Platforms|Campaigns|Ad keywords)/.test(t)?'traffic':/^(Landing pages|All pages)/.test(t)?'pages':/^(Countries)/.test(t)?'visitors':/(Google|Keyword → page)/.test(t)?'google':'other';
+    const GA=s.ga||{},gm=v=>nf(Math.round(+v||0)),gt=GA.totals||[];const gd=r=>r.d,gmv=r=>r.m;
+    const pct=(a,b)=>b?((a||0)/b*100).toFixed(1)+'%':'—';
+    if(s.ga){
+      T.push(tb('GA4 · Pages','Page views, users and engagement time',['Page','Views','Users','Avg engagement'],'minmax(0,2.6fr) repeat(3,minmax(0,1fr))',(GA.pages||[]).map(r=>[r.d[0],gm(r.m[0]),gm(r.m[1]),fmt(r.m[1]?r.m[2]/r.m[1]:0)])));
+      T.push(tb('GA4 · Channels and sources','How visitors found the site',['Channel','Source','Sessions','Engaged','Users'],'minmax(0,1.4fr) minmax(0,1.4fr) repeat(3,minmax(0,1fr))',(GA.sources||[]).map(r=>[r.d[0],r.d[1],gm(r.m[0]),pct(r.m[1],r.m[0]),gm(r.m[2])])));
+      T.push(tb('GA4 · Landing pages','Where visits started',['Landing page','Sessions','Engaged'],'minmax(0,2.6fr) repeat(2,minmax(0,1fr))',(GA.landing||[]).map(r=>[r.d[0],gm(r.m[0]),pct(r.m[1],r.m[0])])));
+      T.push(tb('GA4 · Countries','Users by country',['Country','Users','Sessions'],'minmax(0,2fr) repeat(2,minmax(0,1fr))',(GA.countries||[]).map(r=>[r.d[0],gm(r.m[0]),gm(r.m[1])])));
+      T.push(tb('GA4 · Cities','Users by city',['City','Users'],'minmax(0,2fr) minmax(0,1fr)',(GA.cities||[]).map(r=>[r.d[0],gm(r.m[0])])));
+      T.push(tb('GA4 · Devices','Desktop, mobile and tablet',['Device','Users'],'minmax(0,2fr) minmax(0,1fr)',(GA.devices||[]).map(r=>[r.d[0],gm(r.m[0])])));
+      T.push(tb('GA4 · Events','Everything GA4 recorded',['Event','Count'],'minmax(0,2fr) minmax(0,1fr)',(GA.events||[]).map(r=>[r.d[0],gm(r.m[0])])));}
+    const gaKpis=s.ga?[{label:'Users',value:gm(gt[0]),sub:gm(gt[1])+' new users'},{label:'Sessions',value:gm(gt[2]),sub:pct(gt[3],gt[2])+' engaged'},{label:'Page views',value:gm(gt[4]),sub:gt[2]?(gt[4]/gt[2]).toFixed(1)+' per session':'—'},{label:'Avg session',value:fmt(gt[5]),sub:'Average session duration'},{label:'Events',value:gm(gt[6]),sub:'All tracked events'}]:[];
+    const gdays=(GA.daily||[]).map(r=>({d:r.d[0],u:+r.m[0],v:+r.m[2]}));const gmx=Math.max(1,...gdays.map(x=>x.u));
+    const gaDaily=gdays.map(x=>({h:Math.max(2,Math.round(x.u/gmx*100*0.85))+'%',tip:x.d.slice(0,4)+'-'+x.d.slice(4,6)+'-'+x.d.slice(6)+' · '+x.u+' users · '+x.v+' views'}));
+    const SEC=t=>/^GA4/.test(t)?'ga':/^All site pages/.test(t)?'seo':/^(Traffic quality|Traffic by channel|Platforms|Campaigns|Ad keywords)/.test(t)?'traffic':/^(Landing pages|All pages)/.test(t)?'pages':/^(Countries)/.test(t)?'visitors':/(Google|Keyword → page)/.test(t)?'google':'other';
     const insTablesPg=T.filter(t=>SEC(t.title)===(s.page||'overview'));
-    return {seoChips,seoKpis,seoQ:s.seoQ||'',setSeoQ:e=>this.setState({seoQ:e.target.value}),insKpis,insChips,insTables:insTablesPg,insGroups,insHeat,insHourLabels,insSessions,noInsSessions:!insSessions.length,insErr:s.insErr||'',
+    return {gaKpis,gaDaily,hasGaDaily:gaDaily.length>0,gaMsg:s.gaErr||'',hasGaMsg:!!s.gaErr,gaLabel:s.gaBusy?'Loading…':'Refresh Google Analytics',loadGa:()=>this.loadGa(),gaProp:s.ga?('GA4 property '+s.ga.property+' · '+s.from+' to '+s.to):'',seoChips,seoKpis,seoQ:s.seoQ||'',setSeoQ:e=>this.setState({seoQ:e.target.value}),insKpis,insChips,insTables:insTablesPg,insGroups,insHeat,insHourLabels,insSessions,noInsSessions:!insSessions.length,insErr:s.insErr||'',
       insNote:'Bots removed · Engaged = 10+ s active, 2+ pages or a key action',clarityUrl:'https://clarity.microsoft.com/projects/view/'+CLARITY+'/impressions',heatmapUrl:'https://clarity.microsoft.com/projects/view/'+CLARITY+'/heatmaps',
       gscLabel:s.gscBusy?'Loading…':(s.gsc?'Refresh Google keywords':'Load Google keywords'),loadGsc:()=>this.loadGsc(),gscMsg:s.gscErr||'',hasGscMsg:!!s.gscErr};}
   logout(){this.cred=null;window.SKNotify&&SKNotify.stop();try{sessionStorage.removeItem('ma_site_admin');}catch(e){}this.setState({authed:false,data:null,ins:null,gsc:null,pass:'',err:''});}
@@ -397,7 +424,7 @@ class Component extends DCLogic {
     const daily=days.map(x=>({vh:Math.round((x.visitors||0)/mx*100*0.8)+'%',ph:(x.paid?Math.max(4,Math.round(x.paid/pm*18)):0)+'%',tip:x.d+' · '+(x.visitors||0)+' visitors · '+(x.paid||0)+' WhatsApp'}));
     const rev=(P.revenue||[]).map(r=>({total:money(r.cur,r.total),n:r.n+' paid order'+(r.n===1?'':'s')}));
     const B=d.channels_browser||{},checked=B.checked||0,SV={};(d.channels_server||[]).forEach(x=>SV[x.channel]=x);
-    const st=(lbl,c)=>({status:lbl,bg:c==='g'?'#E7F6EF':c==='a'?'#FFF6E5':c==='r'?'#FEF3F2':'#F1F3F7',fg:c==='g'?'#14684D':c==='a'?'#9A6100':c==='r'?'#B42318':'#5B6B7F'});
+    const st=(lbl,c)=>({status:lbl,bg:c==='g'?'#10372b':c==='a'?'#3a2c0c':c==='r'?'#3d1512':'#262626',fg:c==='g'?'#3dd39a':c==='a'?'#ffb547':c==='r'?'#ff6b5e':'#a8a8a8'});
     const channels=CH.map(c=>{if(c.srv){const x=SV[c.srv];if(!x)return Object.assign({name:c.name,id:c.id,detail:'No paid orders sent yet in this period. Needs its token in Supabase secrets.'},st('Waiting','n'));
         const good=x.ok>0&&!x.failed;return Object.assign({name:c.name,id:c.id,detail:x.ok+' sent · '+x.failed+' failed · last '+rel(x.last)+(x.failed&&x.last_reply?' · '+String(x.last_reply).slice(0,120):'')},st(good?'Working':(x.ok?'Some errors':'Failing'),good?'g':x.ok?'a':'r'));}
       const y=B[c.k]||{n:0};if(!checked)return Object.assign({name:c.name,id:c.id,detail:'No visits checked yet in this period.'},st('No data','n'));
@@ -406,10 +433,10 @@ class Component extends DCLogic {
     const lists=[lst('Traffic sources',d.sources||[],r=>r.source+(r.medium?' · '+r.medium:''),r=>r.visitors),lst('Top pages',d.pages||[],r=>r.path,r=>r.views),
       lst('Devices',d.devices||[],r=>r.dev,r=>r.n),lst('Regions (time zone)',d.regions||[],r=>r.tz.replace(/_/g,' '),r=>r.n),
       lst('All events',(d.events||[]).filter(r=>r.ev!=='tags'&&r.ev!=='ping'),r=>EVN[r.ev]||r.ev,r=>r.n)];
-    const payments=(d.recent_payments||[]).map(p=>{const S={paid:['Paid','#E7F6EF','#14684D'],pending:['Pending','#FFF6E5','#9A6100'],failed:['Failed','#FEF3F2','#B42318'],ended:['Ended','#F1F3F7','#5B6B7F']}[p.status]||[p.status,'#F1F3F7','#5B6B7F'];
+    const payments=(d.recent_payments||[]).map(p=>{const S={paid:['Paid','#10372b','#3dd39a'],pending:['Pending','#3a2c0c','#ffb547'],failed:['Failed','#3d1512','#ff6b5e'],ended:['Ended','#262626','#a8a8a8']}[p.status]||[p.status,'#262626','#a8a8a8'];
       return {date:when(p.created_at),kind:KIND[p.kind]||p.kind,status:S[0],bg:S[1],fg:S[2],amount:p.amount?money(p.currency,p.amount):'—',who:[p.name,p.email].filter(Boolean).join(' · ')||p.cv_name||'—'};});
     const events=(d.recent_events||[]).filter(e=>e.ev!=='ping').map(e=>({date:when(e.at),ev:EVN[e.ev]||e.ev,path:e.path||'/',source:e.source||'direct',dev:e.dev||''}));
-    const R=[[1,'Today'],[7,'7 days'],[30,'30 days'],[90,'90 days']].map(([n,l])=>{const on=s.range===n;return {label:l,pick:()=>this.pick(n),bg:on?'#042D7C':'#FFFFFF',fg:on?'#FFFFFF':'#2C3E50',bd:on?'#042D7C':'#E3E4E8'};});
+    const R=[[1,'Today'],[7,'7 days'],[30,'30 days'],[90,'90 days'],[180,'6 months'],[365,'12 months']].map(([n,l])=>{const on=s.range===n;return {label:l,pick:()=>this.pick(n),bg:on?'#00d4ff':'#1a1a1a',fg:on?'#0f0f0f':'#f0f0f0',bd:on?'#00d4ff':'#333333'};});
     const G=s.geo||{},cs=G.countries||[],cm=Math.max(1,...cs.map(c=>c.n)),lc=G.live_count||0;
     const geoVals={mapRef:el=>{if(el&&el!==this.mapEl){this.mapEl=el;this.drawMap();}},liveText:lc+' live now',countries:cs.map(c=>({label:c.country,n:nf(c.n),pct:Math.round(c.n/cm*100)+'%'})),noCountries:!cs.length,
       live:(G.live||[]).map(v=>({label:[v.city,v.country].filter(Boolean).join(', ')||'Unknown',n:v.n})),hasLive:!!(G.live||[]).length,
@@ -420,15 +447,16 @@ class Component extends DCLogic {
       ['traffic','Traffic sources','Channels, platforms, campaigns and traffic quality','M3 17l6-6 4 4 8-8M15 7h6v6'],
       ['pages','Pages','Landing pages and how each page performs','M7 3h7l5 5v13H7zM14 3v5h5'],
       ['google','Google Search','Organic keywords from Search Console','M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14zM21 21l-5-5'],
+      ['ga','Google Analytics','Full GA4 history: users, pages, sources','M4 20V10M10 20V4M16 20v-7M22 20H2'],
       ['seo','SEO pages','Every page on the site and its SEO health','M4 4h16v4H4zM4 10h10v4H4zM4 16h16v4H4z'],
       ['sessions','Sessions','Every visit, step by step','M4 5h16v14H4zM10 9l5 3-5 3z'],
       ['activity','Live activity','Latest clicks and page views','M3 12h4l3 8 4-16 3 8h4'],
       ['tracking','Tracking setup','Are your marketing tags firing?','M20.6 13.4l-7.2 7.2a2 2 0 0 1-2.8 0L3 13V3h10l7.6 7.6a2 2 0 0 1 0 2.8zM7.5 7.5h.01']];
     const cur=NAV.find(n=>n[0]===PG)||NAV[0];const lc2=(s.geo||{}).live_count||0;
     const nav=NAV.map(([k,l,,d])=>{const on=k===PG;return {label:l,d,go:()=>{this.setState({page:k});try{window.scrollTo(0,0);}catch(e){}},hasBadge:k==='visitors'&&lc2>0,badge:String(lc2),
-      style:'display:flex;align-items:center;gap:12px;width:100%;border:none;border-radius:12px;padding:11px 12px;font:inherit;font-size:14px;font-weight:'+(on?'900':'700')+';cursor:pointer;background:'+(on?'#FFFFFF':'transparent')+';color:'+(on?'#042D7C':'rgba(255,255,255,.75)')};});
+      style:'display:flex;align-items:center;gap:12px;width:100%;border:none;border-radius:12px;padding:11px 12px;font:inherit;font-size:14px;font-weight:'+(on?'900':'700')+';cursor:pointer;background:'+(on?'rgba(0,212,255,.12)':'transparent')+';color:'+(on?'#00d4ff':'rgba(240,240,240,.72)')};});
     const pg={};NAV.forEach(n=>pg[n[0]]=n[0]===PG);
-    const kpiCards=PG==='overview'?kpis:PG==='traffic'?insV.insKpis:PG==='seo'?insV.seoKpis:[];
+    const kpiCards=PG==='overview'?kpis:PG==='traffic'?insV.insKpis:PG==='seo'?insV.seoKpis:PG==='ga'?insV.gaKpis:[];
     return {...geoVals,...insV,nav,pg,pageTitle:cur[1],pageSub:cur[2]+' · '+s.from+' to '+s.to,kpiCards,showKpis:kpiCards.length>0,showMap:PG==='overview'||PG==='visitors',showChips:PG==='traffic'||PG==='pages'||PG==='sessions',showPay:false,showLogin:!s.authed,showDash:s.authed,user:s.user,pass:s.pass,err:s.err,loginLabel:s.busy?'Signing in…':'Sign in',
       setUser:e=>this.setState({user:e.target.value}),setPass:e=>this.setState({pass:e.target.value}),login:e=>this.login(e),logout:()=>this.logout(),
       ranges:R,from:s.from,to:s.to,setFrom:e=>this.setState({from:e.target.value,range:0},()=>this.load()),setTo:e=>this.setState({to:e.target.value,range:0},()=>this.load()),
